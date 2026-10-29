@@ -1,0 +1,686 @@
+MASTER BUILD PROMPT — RADIX TALENT MATCH
+Production-quality React frontend for the RADIX Talent Match Hackathon
+1. Your Role and Mission
+Act as a senior frontend architect, React engineer, UI/UX designer, and product designer.
+Build a complete, polished, responsive frontend for RADIX Talent Match, a candidate-centric job-readiness and skill-matching platform developed for the RADIX Talent Match Hackathon.
+The application must help candidates understand:
+- What skills a particular job requires.
+- What skills their resume demonstrates.
+- How to build a complete professional profile.
+- How ready they are for a particular company's hiring expectations.
+- How closely they match a specific job description and which skills they are missing.
+Important: Build the frontend only. I will develop and integrate all backend APIs, LLM pipelines, authentication services, and database functionality separately.
+Do not stop after creating a landing page. Implement the complete frontend application with all five feature modules, their individual screens, interactions, dashboards, navigation, loading states, error states, and realistic mock data.
+Read the supplied RADIX_Talent_Match_Hackathon_Brief.pdf before implementation. Follow its terminology, feature requirements, shared data contract, and workflow. Where the brief does not specify a UI detail, make a sensible product-design decision.
+
+2. Mandatory Technology Stack
+Use the following technologies:
+- React with Vite.
+- TypeScript.
+- React Router for client-side navigation.
+- Tailwind CSS for styling.
+- Framer Motion for transitions and animations.
+- Lucide React for icons.
+- Recharts for dashboard charts.
+- React Hook Form and Zod for form handling and validation.
+- A lightweight toast notification library, such as Sonner.
+- A maintainable state-management approach using React Context and hooks, or Zustand if genuinely useful.
+- Local mock data and localStorage for frontend-only persistence.
+Use current, mutually compatible stable package versions. Do not introduce a backend framework or write backend endpoints.
+If the existing repository already contains a working application, inspect it first and extend it without unnecessarily replacing working configuration or deleting existing functionality.
+3. Visual Identity and Design Direction
+Create a premium, modern SaaS product with a distinctive RADIX identity.
+The design should feel like a combination of a professional career platform, an AI-powered analytics workspace, and a modern developer dashboard.
+Avoid:
+- Generic template-like landing pages.
+- Excessive gradients on every element.
+- Overused glassmorphism.
+- Huge empty hero sections.
+- Too many cards with identical layouts.
+- Excessive rounded corners.
+- Distracting animations.
+- Fake live AI claims.
+- Random decorative graphics unrelated to hiring or skills.
+Use a consistent design system with:
+- Clear typography and hierarchy.
+- Generous but efficient spacing.
+- A restrained, cohesive color palette.
+- Subtle borders and shadows.
+- Strong data visualization.
+- Consistent button sizes and form styles.
+- Accessible contrast and visible focus states.
+- Responsive layouts for desktop, tablet, and mobile.
+Choose a refined palette based on deep midnight navy, violet, soft lavender, and restrained cyan accents, with neutral surfaces. Support both light and dark themes.
+Create centralized design tokens for colors, typography, spacing, borders, shadows, radii, and animation timing.
+Use CSS variables so that theme changes update the entire application consistently.
+4. Application Architecture and Routes
+Implement these routes using React Router:
+Public routes:
+- / — Landing page.
+- /login — Login.
+- /signup — Registration.
+Protected application routes:
+- /app/dashboard — Main candidate dashboard.
+- /app/jd-analytics — JD Analytics.
+- /app/resume-parsing — Resume Parsing.
+- /app/profile — Profile Builder.
+- /app/talent-check — Talent Check.
+- /app/skill-matching — Skill Matching.
+- /app/settings — User settings.
+Optional routes:
+- /app/notifications
+- /app/history
+- /app/help
+Create reusable layouts:
+- PublicLayout
+- AuthLayout
+- DashboardLayout
+The dashboard layout must include a persistent sidebar, top navigation, page content area, notification interface, theme control, and user menu.
+The sidebar should collapse on desktop and become a drawer on mobile.
+Highlight the active route and provide smooth navigation transitions.
+Implement a frontend-only authentication abstraction with mock login, signup, logout, and session restoration. Store only non-sensitive mock session information locally.
+Do not imply that real identity verification or secure authentication exists. Keep authentication logic isolated behind an AuthProvider and an authService interface so that I can replace it with my backend later.
+Unauthenticated users visiting /app/* should be redirected to /login. After a successful mock login or signup, redirect them to /app/dashboard.
+If a logged-in user visits /login or /signup, redirect them to the dashboard.
+5. Landing Page — The First Impression
+Build a fully developed homepage that explains the entire product without requiring users to log in.
+A. Header
+Create a sticky, responsive header containing:
+- RADIX Talent Match logo and wordmark.
+- Home.
+- How It Works.
+- Features.
+- Why RADIX.
+- A theme toggle.
+- Log In.
+- Get Started.
+The logo should be implemented as a reusable component using typography and simple geometric SVG artwork. Do not use an unavailable external logo.
+Use smooth scrolling for homepage section links.
+B. Interactive Hero Section
+Create a visually impressive hero section with the heading:
+Know Your Skills. Understand Your Gaps. Get Job-Ready.
+Supporting text:
+"Turn your resume and target job into a clear picture of your readiness. Discover your strengths, identify skill gaps, and understand how you match the roles you want."
+Primary CTA: Get Started
+Secondary CTA: Explore Features
+Include a small trust/utility statement explaining that the platform brings job requirements, candidate profiles, company expectations, and skill matching into one workflow.
+C. Dynamic Animated Background
+Create a custom, interactive background using Canvas, SVG, or CSS. Do not depend on paid APIs or external video assets.
+The background should contain:
+- Subtle floating skill nodes.
+- Connected lines forming a talent-network visualization.
+- Small animated particles.
+- Slow-moving radial light effects.
+- A few labels such as DSA, AI, SQL, Cloud, and System Design.
+- Mouse-responsive parallax or cursor proximity effects.
+- A faint animated grid or constellation effect.
+Keep the content readable and animations lightweight.
+Use requestAnimationFrame only when appropriate, respect prefers-reduced-motion, and clean up event listeners and animation loops correctly.
+On mobile, reduce the animation density. Do not allow the animation to block clicks, scrolling, or text selection.
+D. Product Preview
+Alongside the hero content, create a product-preview composition showing a fictional candidate dashboard with:
+- A readiness score.
+- A job-match score.
+- A skill-gap visualization.
+- A few skill indicators.
+- A small chart or progress ring.
+Clearly treat all displayed figures as illustrative demo data.
+Use subtle entrance animations and staggered transitions. The preview should feel like a real application, not a static marketing illustration.
+E. Feature Overview
+Introduce the five modules in the exact terminology used in the hackathon brief.
+01 — JD Analytics
+Upload a job description and discover the required skills, technologies, and competency categories.
+02 — Resume Parsing
+Extract technical skills, education, projects, and experience from a resume.
+03 — Profile Builder
+Create a comprehensive candidate profile with skills, internships, hackathons, certifications, preferred roles, and a CV.
+04 — Talent Check
+Understand your readiness against a company's expected competency levels across the 12 RADIX skill categories.
+05 — Skill Matching
+Compare your profile with a specific job posting and understand matched skills, missing skills, and your match score.
+Each feature must have:
+- A distinctive icon.
+- A concise description.
+- A subtle hover animation.
+- A clear visual hierarchy.
+- A Explore Feature link.
+Link each feature to its corresponding public feature overview or to login with a return destination. Never create dead buttons.
+F. How It Works
+Present a five-step visual workflow:
+1. Select or upload a job description.
+2. Upload and parse your resume.
+3. Build or update your candidate profile.
+4. Run Talent Check against a selected company.
+5. Run Skill Matching against a specific job posting.
+Use a timeline or connected-step visualization on desktop and a clean vertical layout on mobile.
+Explain that the modules work together and share structured skill data.
+G. The 12 RADIX Skill Categories
+Create an attractive section presenting all 12 categories from the brief:
+- Coding (COD)
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Design (OOD)
+- Aptitude (APTI)
+- Communication (COMM)
+- AI (AI)
+- Cloud (CLOUD)
+- SQL (SQL)
+- Software Engineering (SWE)
+- System Design (SYSD)
+- Networking (NETW)
+- Operating Systems (OS)
+Show each category with a short, appropriate description and an icon or visual marker.
+Do not invent an alternative category taxonomy. Skills outside these categories should use OTHER internally where applicable.
+H. Dashboard Preview
+Show a preview of what registered users will see:
+- Profile completeness.
+- Readiness overview.
+- Recent analyses.
+- Skills overview.
+- Job-match history.
+- Suggested next steps.
+Add a CTA to create an account and explore the workspace.
+I. Why RADIX Talent Match
+Explain the value of candidate-centric readiness analysis:
+- Move beyond a resume-only view.
+- Compare against company expectations.
+- Understand specific skill gaps.
+- Use evidence-backed skill extraction.
+- Connect five tools into one coherent experience.
+Do not claim actual placement guarantees or validated AI accuracy.
+J. FAQ
+Include useful questions:
+- What is RADIX Talent Match?
+- What is the difference between Talent Check and Skill Matching?
+- What documents can I upload?
+- What are the 12 skill categories?
+- Can I edit my candidate profile?
+- Does the platform guarantee a job?
+Use accessible accordion components.
+K. Footer
+Include:
+- Brand identity and a short description.
+- Feature links.
+- How It Works.
+- Login and Signup.
+- Settings or accessibility information where appropriate.
+- Privacy and Terms placeholder pages or clearly marked placeholders.
+- Copyright notice.
+Do not invent official RADIX contact information, social media URLs, or legal policies.
+6. Authentication Screens
+Create premium login and signup experiences consistent with the homepage.
+Login
+- Email.
+- Password with show/hide control.
+- Remember-me option if appropriate for the mock implementation.
+- Form validation.
+- Login button.
+- Link to signup.
+- Password reset placeholder with a useful message.
+Signup
+- Full name.
+- Email.
+- Password.
+- Confirm password.
+- Terms acknowledgement.
+- Validation messages.
+- Link to login.
+Include loading, success, validation-error, and failure states.
+Support keyboard navigation, clear labels, and accessible form errors.
+For this frontend-only stage, accept a clearly documented demo flow. Do not collect or store real credentials in localStorage. Never hardcode real API keys or pretend a backend authentication request succeeded.
+7. Main Dashboard
+After mock authentication, display a polished, personalized dashboard.
+The top bar should include:
+- Page title and breadcrumbs.
+- Search or quick navigation.
+- Notifications.
+- Light/dark theme toggle.
+- User avatar and dropdown.
+The sidebar must contain:
+- Overview.
+- JD Analytics.
+- Resume Parsing.
+- Profile Builder.
+- Talent Check.
+- Skill Matching.
+- History.
+- Settings.
+Dashboard sections
+A. Welcome panel:
+"Welcome back, [Candidate Name]"
+Include a concise description and quick actions.
+B. Overview metrics:
+- Profile completeness.
+- Latest readiness score.
+- Latest job-match score.
+- Number of analyses performed.
+If no analysis exists, display an honest empty state instead of fabricated personal history.
+C. Skill overview:
+Visualize candidate proficiency or skill coverage using a radar chart, horizontal bars, or category grid. Use clearly labelled demo data when necessary.
+D. Recent activity:
+Show recent JD analyses, resume parsing, profile updates, Talent Checks, and Skill Matching sessions.
+E. Recommended next steps:
+Examples:
+- Complete your candidate profile.
+- Upload your resume.
+- Analyze a target job description.
+- Run Talent Check.
+- Compare your profile against a specific job.
+Recommendations should respond to the local demo state rather than being completely static.
+F. Quick actions:
+Buttons that navigate to the relevant feature modules.
+G. Recent job matches:
+Show job title, company, match score, and date using sample records.
+Use charts only when they provide useful information. Include empty states, skeleton loaders, error states, and responsive layouts.
+8. Module One — JD Analytics
+Route: /app/jd-analytics
+Purpose: Help candidates understand the actual requirements of a job description.
+Build:
+- A drag-and-drop upload area.
+- PDF and DOCX file selection.
+- File validation and selected-file preview.
+- Job title, company, and role metadata.
+- A sample JD selector.
+- An analyze button.
+- A progress indicator.
+- Results and error states.
+For the frontend prototype, validate file types and sizes, but do not pretend to parse the document with an actual LLM.
+Use a mock analysis service to produce realistic, deterministic sample results.
+Results view:
+- Job title and company.
+- Extracted skill count.
+- Skills grouped by RADIX category.
+- Required technologies.
+- Skill evidence or a short explanatory snippet.
+- Confidence indicator: high, medium, or low.
+- Source document details.
+Include a searchable and filterable skills table.
+Support saving a mock analysis to local application state.
+9. Module Two — Resume Parsing
+Route: /app/resume-parsing
+Purpose: Extract structured candidate information from resumes.
+Build:
+- PDF/DOCX upload.
+- File selection and validation.
+- Sample candidate/resume selector.
+- Parse action.
+- Processing state.
+- Extracted information view.
+Display:
+- Name and contact information when supplied in the sample.
+- Education.
+- Technical skills.
+- Skills grouped by RADIX category.
+- Projects.
+- Experience and internships.
+- Certifications.
+- Confidence labels or evidence where available.
+Provide an Import into Profile Builder action that transfers the extracted mock data into the profile form.
+Never display an unsupported claim that actual document parsing or AI extraction has occurred.
+Keep the UI prepared for later API integration.
+10. Module Three — Profile Builder
+Route: /app/profile
+Purpose: Let candidates maintain a complete professional profile.
+Build an editable, multi-section profile editor with:
+- Basic details.
+- Education.
+- Technical skills.
+- Skill proficiency levels.
+- Projects.
+- Hackathons.
+- Internships and work experience.
+- Certifications.
+- Preferred roles.
+- CV upload.
+Use a clear form layout with section navigation, inline validation, add/remove controls for repeatable entries, and a profile-preview panel.
+Support:
+- Save draft.
+- Save profile.
+- Edit existing profile.
+- Import parsed resume information.
+- Profile completeness calculation.
+- Empty states.
+- Confirmation feedback.
+Use sensible client-side validation and a normalized profile model.
+The UI must not lose unsaved changes silently.
+Persist mock profile data locally for the demo, while keeping storage logic behind a repository interface.
+11. Module Four — Talent Check
+Route: /app/talent-check
+Purpose: Compare a candidate's saved profile with a selected company's expectations across all 12 RADIX skill categories.
+The interface should include:
+- Candidate profile selection.
+- Company selection.
+- A Run Talent Check button.
+- A clearly visible explanation of what the assessment evaluates.
+Use the companies in the hackathon brief:
+- Google LLC.
+- Microsoft Corporation.
+- Oracle Financial Services Software.
+Use illustrative company expectations unless real authorized dataset values are provided. Never represent invented levels as official company requirements.
+Display results with:
+- Overall readiness score out of 100.
+- Competency coverage.
+- Required level for each skill category.
+- Candidate level.
+- Gap status.
+- Skills or categories needing improvement.
+- Strongest categories.
+- Suggested next steps.
+Use a chart or category grid and a detailed comparison table.
+Use a color-coded scale with text labels so that meaning does not rely on color alone.
+Make it clear that the displayed readiness score comes from the frontend demo model until the real scoring API is connected.
+The module must be structured to accept the actual backend response later.
+12. Module Five — Skill Matching
+Route: /app/skill-matching
+Purpose: Compare a candidate's profile or parsed resume against one specific job posting.
+Build:
+- Candidate profile selector.
+- Previously analyzed JD selector.
+- A way to start from JD Analytics.
+- A Run Skill Matching button.
+- Loading, error, empty, and results states.
+Display:
+- Target job title.
+- Company.
+- Overall match score out of 100.
+- Matched skills.
+- Missing skills.
+- Partially matched skills where supported by the mock model.
+- Skill-category breakdown.
+- Evidence or explanatory notes.
+- Recommended next steps.
+Make matched and missing skills visually distinguishable.
+Prioritize an understandable gap list over an unexplained numerical score.
+Do not confuse company-level Talent Check with job-specific Skill Matching.
+Support navigation back to JD Analytics and Profile Builder without losing the current demo state.
+13. Settings and Themes
+Route: /app/settings
+Implement working settings for:
+- Light theme.
+- Dark theme.
+- System theme.
+- Reduced-motion preference.
+- Basic profile preferences.
+- Notification preferences for the demo.
+- Logout.
+Theme selection must apply across the landing page, authentication screens, dashboard, charts, forms, dialogs, and navigation.
+Persist the selected theme locally.
+Avoid flashing the wrong theme during initial page rendering where practical.
+Use accessible contrast and consistent styles in both themes.
+14. Shared Data Contract
+Prepare TypeScript interfaces matching the shared contract in the hackathon brief.
+Use the following skill model:
+Skill
+- skill_name: string
+- category_code: string
+- evidence: string
+- confidence: "high" | "medium" | "low"
+Valid category codes:
+DSA | COD | OOD | APTI | COMM | AI | CLOUD | SQL | SWE | SYSD | NETW | OS | OTHER
+Define structured interfaces for:
+ExtractedSkillList
+- source_type: "jd" | "resume"
+- source_file: string
+- company: string
+- role: string
+- skills: Skill[]
+CandidateProfile
+- name: string
+- email: string
+- education: Education[]
+- skills: Skill[]
+- hackathons: Hackathon[]
+- internships: Internship[]
+- certifications: Certification[]
+- preferred_roles: string[]
+- cv_file: string
+TalentCheckResult
+- company: string
+- skillset_gap: Array<{ category_code: string; required_level: number; candidate_level: number; gap: boolean }>
+- readiness_score: number
+SkillMatchingResult
+- jd_source_file: string
+- match_score: number
+- matched_skills: Skill[]
+- missing_skills: Skill[]
+You may add frontend-specific metadata, optional properties, IDs, and timestamps, but preserve compatibility with the shared fields.
+Document any reasonable frontend assumptions about proficiency scales or partially matched skills.
+Do not change the contract arbitrarily or mix frontend display models with API transport models.
+15. Frontend Integration Architecture
+Prepare the codebase so five separately developed backend modules can later be integrated without rewriting the UI.
+Create service interfaces such as:
+- authService
+- jdAnalyticsService
+- resumeParsingService
+- profileService
+- talentCheckService
+- skillMatchingService
+Each service should have a mock implementation for the current demo and a clearly defined interface for the future API implementation.
+Organize API-related types and service functions separately from UI components.
+Create a single configuration point for the backend base URL.
+Use environment variables such as VITE_API_BASE_URL only for public configuration, never secrets.
+Do not invent actual API endpoints, HTTP payloads, authentication tokens, or backend response formats beyond the documented shared contract. Mark integration assumptions clearly and make endpoint mapping configurable when the backend specifications become available.
+Avoid scattering fetch() calls throughout React components.
+Use async/await, predictable error handling, cancellation where appropriate, and consistent loading states.
+16. Required Folder Structure
+Use a feature-based architecture similar to:
+src/
+- app/
+  - App.tsx
+  - router.tsx
+  - providers/
+- assets/
+- components/
+  - ui/
+  - layout/
+  - navigation/
+  - charts/
+  - forms/
+  - feedback/
+- features/
+  - landing/
+  - auth/
+  - dashboard/
+  - jd-analytics/
+  - resume-parsing/
+  - profile-builder/
+  - talent-check/
+  - skill-matching/
+  - settings/
+  - history/
+- hooks/
+- services/
+  - interfaces/
+  - mock/
+  - api/
+- context/
+- types/
+- data/
+- lib/
+- utils/
+- styles/
+- main.tsx
+Each feature should have its own components, types where appropriate, and page-level entry point.
+Create reusable components such as:
+- Button
+- Input
+- Select
+- Modal
+- Dropdown
+- Tooltip
+- Badge
+- Progress
+- ScoreRing
+- StatCard
+- EmptyState
+- ErrorState
+- Skeleton
+- FileUpload
+- PageHeader
+- ConfirmDialog
+Avoid one giant component, duplicated UI, unnecessary prop drilling, and tightly coupled business logic.
+17. Interaction and State Requirements
+The frontend must be functional, not merely visually convincing.
+Implement:
+- Working routing.
+- Mock login, signup, and logout.
+- Theme switching.
+- Mobile navigation.
+- Sidebar collapse.
+- Forms with validation.
+- File selection and validation.
+- Search, filtering, and sorting where relevant.
+- Profile editing and saving.
+- Resume-to-profile import.
+- JD analysis demo flow.
+- Talent Check demo flow.
+- Skill Matching demo flow.
+- Toast notifications.
+- Confirmation dialogs where needed.
+- Empty states and error handling.
+- Refresh-safe demo persistence.
+- Clear navigation between connected modules.
+Seed realistic, internally consistent demo data inspired by the four sample candidates in the brief:
+- Ananya Rao — systems-leaning generalist.
+- Karthik Subramaniam — data-leaning analyst.
+- Priya Menon — entry-level, support-oriented.
+- Rohan Verma — strong all-rounder.
+Use only fictional or explicitly illustrative personal contact information.
+Include sample job descriptions based on the six role/company combinations in the brief:
+- Google — Software Engineer.
+- Google — Data Scientist.
+- Microsoft — Software Engineer.
+- Microsoft — Data Analyst.
+- Oracle Financial Services Software — Associate Software Engineer.
+- Oracle Financial Services Software — Application Support Analyst.
+The demo must produce visibly different, deterministic Talent Check and Skill Matching results for different candidates and jobs. Do not simply return a constant score.
+Keep all demo calculations isolated from UI components so they can later be replaced by backend responses.
+18. Motion and Microinteractions
+Use Framer Motion selectively for:
+- Hero entrance.
+- Feature cards appearing on scroll.
+- Page transitions.
+- Modal and dropdown transitions.
+- Dashboard card entrances.
+- Step progression.
+- Loading and success feedback.
+Use subtle hover feedback and animated progress indicators.
+Do not animate every element. Avoid excessive movement, long transitions, and effects that hurt accessibility or performance.
+Respect reduced-motion settings throughout the application.
+19. Responsive Design and Accessibility
+Support:
+- Desktop.
+- Laptop.
+- Tablet.
+- Mobile.
+Use a mobile-first responsive approach.
+Ensure:
+- No horizontal overflow.
+- Usable tables on small screens.
+- Responsive charts.
+- Touch-friendly controls.
+- Keyboard-accessible navigation.
+- Semantic HTML.
+- Proper form labels.
+- Accessible dialogs and dropdowns.
+- Visible focus indicators.
+- Meaningful empty-state messages.
+- Appropriate loading announcements.
+- Reduced-motion support.
+20. Performance and Code Quality
+Requirements:
+- Use reusable, typed components.
+- Keep TypeScript strict where practical.
+- Avoid any unless explicitly justified.
+- Avoid unnecessary dependencies.
+- Use lazy-loaded route components where appropriate.
+- Clean up event listeners and animation loops.
+- Avoid excessive re-renders.
+- Use stable keys in lists.
+- Handle malformed local demo data safely.
+- Avoid console errors and broken imports.
+- Do not leave nonfunctional placeholder buttons.
+- Do not suppress TypeScript errors to make the project compile.
+Add a README containing:
+- Installation instructions.
+- Development commands.
+- Folder structure.
+- Frontend architecture.
+- Demo account instructions, if applicable.
+- How to replace mock services with real APIs.
+- Environment variable documentation.
+- Known frontend-only limitations.
+21. Execution Plan
+Implement the application in these phases:
+Phase 1 — Foundation
+- Inspect the existing repository.
+- Set up Vite, React, TypeScript, Tailwind, and routing.
+- Define design tokens and global styles.
+- Implement theme management and shared UI primitives.
+- Create the folder structure and data models.
+Phase 2 — Public Experience
+- Build the complete landing page.
+- Implement the interactive animated background.
+- Build login and signup.
+- Implement mock authentication and route protection.
+- Add responsive navigation and footer.
+Phase 3 — Application Shell
+- Build the dashboard layout.
+- Implement sidebar, topbar, user menu, and settings.
+- Add dashboard overview, charts, quick actions, and activity.
+Phase 4 — Five Feature Modules
+- Implement JD Analytics.
+- Implement Resume Parsing.
+- Implement Profile Builder.
+- Implement Talent Check.
+- Implement Skill Matching.
+Phase 5 — Integration
+- Connect the five modules through mock services and shared TypeScript models.
+- Implement profile import and job selection.
+- Implement realistic score calculations and gap visualizations.
+- Ensure navigation preserves relevant demo state.
+Phase 6 — Polish and Validation
+- Verify responsive layouts.
+- Test light and dark themes.
+- Test all routes and buttons.
+- Fix build errors and TypeScript issues.
+- Verify loading, success, empty, and error states.
+- Check accessibility and animation performance.
+- Write the README.
+Do not stop at the end of a phase if the tools and execution environment allow you to continue. Complete the application.
+22. Acceptance Criteria
+The project is complete only when all of the following are true:
+1. npm install and npm run dev work.
+2. The landing page looks polished and explains the complete product.
+3. The interactive background works without an external paid service.
+4. Login and signup work in the documented demo mode.
+5. Successful mock authentication navigates to the dashboard.
+6. Protected routes behave correctly.
+7. The dashboard contains useful, interactive content.
+8. All five feature modules have complete user interfaces and working demo flows.
+9. Profile data can be edited and reused by Talent Check and Skill Matching.
+10. JD Analytics and Resume Parsing produce realistic sample results.
+11. Talent Check compares all 12 skill categories.
+12. Skill Matching displays scores, matched skills, and missing skills.
+13. Different candidates and jobs produce meaningfully different results.
+14. Light, dark, and system themes work consistently.
+15. Settings and local demo persistence work.
+16. The application is responsive and accessible.
+17. There are no broken imports, dead buttons, or obvious runtime errors.
+18. Mock services are separated from future API integration.
+19. The shared data contract is documented and typed.
+20. No backend is implemented, required, or falsely represented as operational.
+23. Final Instructions
+Prioritize a cohesive, production-quality frontend over a collection of disconnected screens.
+Make the homepage visually memorable, but give equal importance to the actual five-feature application.
+Build the complete application in the repository, create the required files, install dependencies when possible, run the build, inspect errors, and fix them.
+Do not respond with only a plan, screenshots, snippets, or pseudocode. Implement the actual working code.
+If an essential decision is missing, choose a sensible default and document it instead of stopping unnecessarily.
+At the end, report:
+- What has been implemented.
+- The main routes.
+- The project folder structure.
+- How to install and run it.
+- Which flows use mock data.
+- Exactly where and how I can connect my five backend modules later.
+- Any remaining limitations.
+Final objective: Deliver a complete, visually impressive, responsive React application for RADIX Talent Match that I can run locally, demonstrate at the hackathon, and connect to my independently developed backend modules later.

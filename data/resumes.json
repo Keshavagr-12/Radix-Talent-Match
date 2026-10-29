@@ -1,0 +1,291 @@
+[
+  {
+    "id": "candidate-rohan-verma",
+    "source_type": "resume",
+    "source_file": "Rohan_Verma_Resume_2026.pdf",
+    "company": "Delhi Technological University",
+    "role": "Software Engineer (Full-Stack & Systems)",
+    "candidate_name": "Rohan Verma",
+    "candidate_email": "rohan.verma@example.com",
+    "phone": "+91 98765 43210",
+    "location": "New Delhi, India",
+    "profile_archetype": "Software Engineer",
+    "fit_summary": "Balanced software engineer with cloud and algorithms expertise.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Proficient in Python backend development and microservices.",
+        "confidence": "high",
+        "proficiency_level": 8
+      },
+      {
+        "skill_name": "Data Structures & Algorithms",
+        "category_code": "DSA",
+        "evidence": "Solved 400+ problems across trees, graphs, and dynamic programming.",
+        "confidence": "high",
+        "proficiency_level": 8
+      },
+      {
+        "skill_name": "SQL & Relational Databases",
+        "category_code": "SQL",
+        "evidence": "Designed normalized schemas and optimized PostgreSQL queries.",
+        "confidence": "high",
+        "proficiency_level": 8
+      },
+      {
+        "skill_name": "Cloud Computing & AWS",
+        "category_code": "CLOUD",
+        "evidence": "Deployed containerized applications to AWS with Docker.",
+        "confidence": "high",
+        "proficiency_level": 7
+      },
+      {
+        "skill_name": "Software Engineering & Git",
+        "category_code": "SWE",
+        "evidence": "Used Git version control and established CI/CD pipelines.",
+        "confidence": "high",
+        "proficiency_level": 8
+      },
+      {
+        "skill_name": "System Design & Architecture",
+        "category_code": "SYSD",
+        "evidence": "Architected scalable REST APIs and caching layers.",
+        "confidence": "high",
+        "proficiency_level": 7
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-rohan-1",
+        "institution": "Delhi Technological University (DTU)",
+        "degree": "B.Tech",
+        "field_of_study": "Computer Science & Engineering",
+        "graduation_year": "2026",
+        "score_or_gpa": "8.7 CGPA"
+      }
+    ],
+    "projects": [
+      {
+        "id": "proj-rohan-1",
+        "title": "Distributed Task Queue",
+        "description": "Built an asynchronous task scheduling engine with Redis and Python.",
+        "technologies": [
+          "Python",
+          "Redis",
+          "Docker",
+          "FastAPI"
+        ],
+        "link": null
+      }
+    ],
+    "internships": [
+      {
+        "id": "int-rohan-1",
+        "company": "TechCorp India",
+        "role": "Software Engineering Intern",
+        "duration": "Jun 2025 - Aug 2025",
+        "description": "Developed high-throughput API endpoints and relational queries.",
+        "technologies": [
+          "Python",
+          "PostgreSQL",
+          "Git"
+        ]
+      }
+    ],
+    "hackathons": [
+      {
+        "id": "hack-rohan-1",
+        "name": "HackDTU 2025",
+        "organizer": "DTU",
+        "year": "2025",
+        "achievement": "Winner",
+        "project_summary": "Created an AI-assisted automated code review bot."
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-rohan-1",
+        "name": "AWS Certified Cloud Practitioner",
+        "issuer": "AWS",
+        "year": "2025",
+        "credential_id": null
+      }
+    ],
+    "preferred_roles": [
+      "Software Engineer",
+      "Backend Developer"
+    ],
+    "required_technologies": [
+      "Python",
+      "PostgreSQL",
+      "AWS",
+      "Docker",
+      "Git"
+    ],
+    "summary": "Final-year DTU candidate with strong fundamentals in software engineering, algorithms, and cloud systems.",
+    "analyzed_at": "2026-10-29T06:32:45.333222+00:00"
+  },
+  {
+    "id": "candidate-ananya-rao",
+    "source_type": "resume",
+    "source_file": "Ananya_Rao_Resume_2026.pdf",
+    "company": "JSS Science & Technology University",
+    "role": "Systems-Leaning Generalist (Final Year B.E. CSE)",
+    "candidate_name": "Ananya Rao",
+    "candidate_email": "ananya.rao.demo@radix-hackathon.example",
+    "phone": "+91 98450 11204",
+    "location": "Bengaluru, India",
+    "profile_archetype": "Systems-leaning generalist",
+    "fit_summary": "Strong fit for SWE-heavy roles, weaker fit for pure data roles.",
+    "skills": [
+      {
+        "skill_name": "C++, Go & Java Systems Programming",
+        "category_code": "COD",
+        "evidence": "Built RaftKV in Go and ContainerLab in C++; 600+ problems solved across platforms.",
+        "confidence": "high",
+        "proficiency_level": 9
+      },
+      {
+        "skill_name": "Data Structures, Trees, Graphs & Dynamic Programming",
+        "category_code": "DSA",
+        "evidence": "Solved 450+ LeetCode problems; Knight-ranked on LeetCode with strong complexity intuition.",
+        "confidence": "high",
+        "proficiency_level": 9
+      },
+      {
+        "skill_name": "Distributed Consensus & Raft Protocol",
+        "category_code": "SYSD",
+        "evidence": "Implemented complete Raft consensus engine in Go from scratch with heartbeat replication.",
+        "confidence": "high",
+        "proficiency_level": 8
+      },
+      {
+        "skill_name": "Linux Internals, Cgroups & Namespaces",
+        "category_code": "OS",
+        "evidence": "Utilized Linux clone(), unshare(), and cgroups v2 subsystems for process sandboxing in ContainerLab.",
+        "confidence": "high",
+        "proficiency_level": 8
+      },
+      {
+        "skill_name": "PostgreSQL & Redis Caching",
+        "category_code": "SQL",
+        "evidence": "Optimized relational schemas and indexed queries during internship at CloudScale Systems.",
+        "confidence": "high",
+        "proficiency_level": 8
+      },
+      {
+        "skill_name": "gRPC, Protocol Buffers & HTTP/2",
+        "category_code": "NETW",
+        "evidence": "Designed high-performance unary and streaming RPC interfaces between distributed cluster nodes.",
+        "confidence": "high",
+        "proficiency_level": 8
+      },
+      {
+        "skill_name": "Docker Containerization & Kubernetes",
+        "category_code": "CLOUD",
+        "evidence": "Certified Associate Cloud Engineer; containerized microservices and authored Helm charts.",
+        "confidence": "high",
+        "proficiency_level": 8
+      },
+      {
+        "skill_name": "Git, Automated Testing & CI/CD",
+        "category_code": "SWE",
+        "evidence": "Maintained comprehensive unit test coverage and automated GitHub Actions workflows.",
+        "confidence": "high",
+        "proficiency_level": 8
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-ananya-1",
+        "institution": "JSS Academy of Technical Education",
+        "degree": "B.E. / B.Tech",
+        "field_of_study": "Computer Science & Engineering",
+        "graduation_year": "2026",
+        "score_or_gpa": "8.92 CGPA"
+      }
+    ],
+    "projects": [
+      {
+        "id": "proj-ananya-1",
+        "title": "RaftKV — Distributed Fault-Tolerant Key-Value Store",
+        "description": "Implemented leader election, log replication, and snapshotting in Go over gRPC with sub-8ms p99 read latency.",
+        "technologies": [
+          "Go",
+          "gRPC",
+          "Docker",
+          "Linux",
+          "Protobuf"
+        ],
+        "link": null
+      },
+      {
+        "id": "proj-ananya-2",
+        "title": "ContainerLab — Lightweight Linux Namespace Sandbox",
+        "description": "Built a C++ CLI utilizing Linux cgroups and namespaces to isolate student code execution workloads.",
+        "technologies": [
+          "C++",
+          "Linux System Calls",
+          "CMake",
+          "Bash"
+        ],
+        "link": null
+      }
+    ],
+    "internships": [
+      {
+        "id": "int-ananya-1",
+        "company": "CloudScale Systems Pvt Ltd",
+        "role": "Backend Engineering Intern",
+        "duration": "May 2025 – Jul 2025",
+        "description": "Refactored microservice authentication middleware in Go and reduced Redis cache miss rate by 28%.",
+        "technologies": [
+          "Go",
+          "Redis",
+          "Kubernetes",
+          "PostgreSQL",
+          "Git"
+        ]
+      }
+    ],
+    "hackathons": [
+      {
+        "id": "hack-ananya-1",
+        "name": "Smart India Systems Challenge 2025",
+        "organizer": "AICTE & Industry Consortium",
+        "year": "2025",
+        "achievement": "Top 5 Finalist",
+        "project_summary": "Built a high-throughput telemetry ingestion gateway handling 50k events/sec."
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-ananya-1",
+        "name": "Google Cloud Associate Cloud Engineer",
+        "issuer": "Google Cloud",
+        "year": "2025",
+        "credential_id": null
+      }
+    ],
+    "preferred_roles": [
+      "Software Engineer (SWE)",
+      "Backend Systems Engineer",
+      "Associate Software Engineer"
+    ],
+    "required_technologies": [
+      "Go",
+      "C++",
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "Linux",
+      "gRPC",
+      "PostgreSQL",
+      "Redis",
+      "Git"
+    ],
+    "summary": "Final-year Computer Science candidate with deep systems, distributed architecture, and software engineering competencies.",
+    "analyzed_at": "2026-10-28T19:15:24.464102+00:00"
+  }
+]

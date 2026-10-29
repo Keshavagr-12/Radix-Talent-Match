@@ -1,0 +1,3627 @@
+[
+  {
+    "company": "Google LLC",
+    "readiness_score": 73.68,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 9,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 7,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 7,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      }
+    ],
+    "readiness_status": "UPSKILLING_RECOMMENDED",
+    "readiness_label": "Upskilling Recommended",
+    "threshold": 80.0,
+    "met_categories_count": 7,
+    "gap_categories_count": 5,
+    "summary": "Candidate readiness is 73.7%. Strong foundational competencies, but targeted preparation is recommended in 5 areas: COD (-1), APTI (-8), AI (-8).",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-28T22:05:53.399002+00:00",
+    "candidate_id": "9910b153-e68c-4790-8661-f0b00b61e1e2",
+    "candidate_name": "Ananya Rao",
+    "saved_at": "2026-10-28T22:05:53.399018+00:00"
+  },
+  {
+    "company": "Google LLC",
+    "readiness_score": 49.47,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 9,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 7,
+        "candidate_level": 7,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 4,
+    "gap_categories_count": 8,
+    "summary": "Candidate readiness is 49.5% (below threshold of 80.0%). Significant gap across 8 competencies: COD (-1), OOD (-1), APTI (-8), COMM (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T06:23:13.791949+00:00",
+    "candidate_id": "test-cand-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T06:23:13.791959+00:00"
+  },
+  {
+    "company": "Google LLC",
+    "readiness_score": 49.47,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 9,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 7,
+        "candidate_level": 7,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 4,
+    "gap_categories_count": 8,
+    "summary": "Candidate readiness is 49.5% (below threshold of 80.0%). Significant gap across 8 competencies: COD (-1), OOD (-1), APTI (-8), COMM (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T06:32:40.717320+00:00",
+    "candidate_id": "test-cand-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T06:32:40.717335+00:00"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "readiness_score": 48.94,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 3,
+    "gap_categories_count": 9,
+    "summary": "Candidate readiness is 48.9% (below threshold of 80.0%). Significant gap across 9 competencies: OOD (-9), APTI (-7), COMM (-8), AI (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T06:32:46.246981+00:00",
+    "candidate_id": "rohan-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T06:32:46.246991+00:00"
+  },
+  {
+    "company": "Google LLC",
+    "readiness_score": 49.47,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 9,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 7,
+        "candidate_level": 7,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 4,
+    "gap_categories_count": 8,
+    "summary": "Candidate readiness is 49.5% (below threshold of 80.0%). Significant gap across 8 competencies: COD (-1), OOD (-1), APTI (-8), COMM (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T06:35:42.734615+00:00",
+    "candidate_id": "test-cand-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T06:35:42.734623+00:00"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "readiness_score": 48.94,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 3,
+    "gap_categories_count": 9,
+    "summary": "Candidate readiness is 48.9% (below threshold of 80.0%). Significant gap across 9 competencies: OOD (-9), APTI (-7), COMM (-8), AI (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T06:35:47.728116+00:00",
+    "candidate_id": "rohan-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T06:35:47.728125+00:00"
+  },
+  {
+    "company": "Google LLC",
+    "readiness_score": 49.47,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 9,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 7,
+        "candidate_level": 7,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 4,
+    "gap_categories_count": 8,
+    "summary": "Candidate readiness is 49.5% (below threshold of 80.0%). Significant gap across 8 competencies: COD (-1), OOD (-1), APTI (-8), COMM (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T06:46:41.613625+00:00",
+    "candidate_id": "test-cand-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T06:46:41.613634+00:00"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "readiness_score": 48.94,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 3,
+    "gap_categories_count": 9,
+    "summary": "Candidate readiness is 48.9% (below threshold of 80.0%). Significant gap across 9 competencies: OOD (-9), APTI (-7), COMM (-8), AI (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T06:46:48.099242+00:00",
+    "candidate_id": "rohan-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T06:46:48.099252+00:00"
+  },
+  {
+    "company": "Google LLC",
+    "readiness_score": 49.47,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 9,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 7,
+        "candidate_level": 7,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 4,
+    "gap_categories_count": 8,
+    "summary": "Candidate readiness is 49.5% (below threshold of 80.0%). Significant gap across 8 competencies: COD (-1), OOD (-1), APTI (-8), COMM (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T07:01:01.463857+00:00",
+    "candidate_id": "test-cand-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T07:01:01.463867+00:00"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "readiness_score": 48.94,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 3,
+    "gap_categories_count": 9,
+    "summary": "Candidate readiness is 48.9% (below threshold of 80.0%). Significant gap across 9 competencies: OOD (-9), APTI (-7), COMM (-8), AI (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T07:01:10.287254+00:00",
+    "candidate_id": "rohan-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T07:01:10.287263+00:00"
+  },
+  {
+    "company": "Google LLC",
+    "readiness_score": 49.47,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 9,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 7,
+        "candidate_level": 7,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 4,
+    "gap_categories_count": 8,
+    "summary": "Candidate readiness is 49.5% (below threshold of 80.0%). Significant gap across 8 competencies: COD (-1), OOD (-1), APTI (-8), COMM (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T07:07:57.326543+00:00",
+    "candidate_id": "test-cand-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T07:07:57.326567+00:00"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "readiness_score": 48.94,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 3,
+    "gap_categories_count": 9,
+    "summary": "Candidate readiness is 48.9% (below threshold of 80.0%). Significant gap across 9 competencies: OOD (-9), APTI (-7), COMM (-8), AI (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T07:08:03.565009+00:00",
+    "candidate_id": "rohan-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T07:08:03.565021+00:00"
+  },
+  {
+    "company": "Google LLC",
+    "readiness_score": 49.47,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 9,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 7,
+        "candidate_level": 7,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 4,
+    "gap_categories_count": 8,
+    "summary": "Candidate readiness is 49.5% (below threshold of 80.0%). Significant gap across 8 competencies: COD (-1), OOD (-1), APTI (-8), COMM (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T07:16:11.365933+00:00",
+    "candidate_id": "test-cand-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T07:16:11.365945+00:00"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "readiness_score": 48.94,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 3,
+    "gap_categories_count": 9,
+    "summary": "Candidate readiness is 48.9% (below threshold of 80.0%). Significant gap across 9 competencies: OOD (-9), APTI (-7), COMM (-8), AI (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T07:16:17.847814+00:00",
+    "candidate_id": "rohan-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T07:16:17.847824+00:00"
+  },
+  {
+    "company": "Google LLC",
+    "readiness_score": 49.47,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 9,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 7,
+        "candidate_level": 7,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 4,
+    "gap_categories_count": 8,
+    "summary": "Candidate readiness is 49.5% (below threshold of 80.0%). Significant gap across 8 competencies: COD (-1), OOD (-1), APTI (-8), COMM (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T07:38:18.712474+00:00",
+    "candidate_id": "test-cand-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T07:38:18.712492+00:00"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "readiness_score": 48.94,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 3,
+    "gap_categories_count": 9,
+    "summary": "Candidate readiness is 48.9% (below threshold of 80.0%). Significant gap across 9 competencies: OOD (-9), APTI (-7), COMM (-8), AI (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T07:38:24.570482+00:00",
+    "candidate_id": "rohan-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T07:38:24.570495+00:00"
+  },
+  {
+    "company": "Google LLC",
+    "readiness_score": 49.47,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 9,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 7,
+        "candidate_level": 7,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 4,
+    "gap_categories_count": 8,
+    "summary": "Candidate readiness is 49.5% (below threshold of 80.0%). Significant gap across 8 competencies: COD (-1), OOD (-1), APTI (-8), COMM (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T07:47:26.100341+00:00",
+    "candidate_id": "test-cand-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T07:47:26.100350+00:00"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "readiness_score": 48.94,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 3,
+    "gap_categories_count": 9,
+    "summary": "Candidate readiness is 48.9% (below threshold of 80.0%). Significant gap across 9 competencies: OOD (-9), APTI (-7), COMM (-8), AI (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T07:47:32.918644+00:00",
+    "candidate_id": "rohan-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T07:47:32.918654+00:00"
+  },
+  {
+    "company": "Google LLC",
+    "readiness_score": 31.58,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 7,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 2,
+    "gap_categories_count": 10,
+    "summary": "Candidate readiness is 31.6% (below threshold of 80.0%). Significant gap across 10 competencies: COD (-1), DSA (-9), OOD (-8), APTI (-1). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T08:05:52.565273+00:00",
+    "candidate_id": null,
+    "candidate_name": "Karthik Subramaniam",
+    "saved_at": "2026-10-29T08:05:52.565287+00:00"
+  },
+  {
+    "company": "Google LLC",
+    "readiness_score": 49.47,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 9,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 7,
+        "candidate_level": 7,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 4,
+    "gap_categories_count": 8,
+    "summary": "Candidate readiness is 49.5% (below threshold of 80.0%). Significant gap across 8 competencies: COD (-1), OOD (-1), APTI (-8), COMM (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T08:21:28.547612+00:00",
+    "candidate_id": "test-cand-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T08:21:28.547622+00:00"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "readiness_score": 48.94,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 3,
+    "gap_categories_count": 9,
+    "summary": "Candidate readiness is 48.9% (below threshold of 80.0%). Significant gap across 9 competencies: OOD (-9), APTI (-7), COMM (-8), AI (-7). Focused upskilling recommended.",
+    "source": "local_snapshot",
+    "evaluated_at": "2026-10-29T08:21:36.156684+00:00",
+    "candidate_id": "rohan-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T08:21:36.156696+00:00"
+  },
+  {
+    "company": "Google LLC",
+    "readiness_score": 48.96,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 9,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 4,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 4,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 2,
+    "gap_categories_count": 10,
+    "summary": "Candidate readiness is 49.0% (below threshold of 80.0%). Significant gap across 10 competencies: OOD (-1), APTI (-9), COMM (-7), AI (-7). Focused upskilling recommended.",
+    "source": "authoritative:company_skill_levels_staging",
+    "evaluated_at": "2026-10-29T08:48:58.400080+00:00",
+    "candidate_id": "test-cand-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T08:48:58.400089+00:00"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "readiness_score": 46.81,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 6,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 7,
+        "candidate_level": 7,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 3,
+    "gap_categories_count": 9,
+    "summary": "Candidate readiness is 46.8% (below threshold of 80.0%). Significant gap across 9 competencies: DSA (-1), OOD (-8), APTI (-8), COMM (-7). Focused upskilling recommended.",
+    "source": "authoritative:company_skill_levels_staging",
+    "evaluated_at": "2026-10-29T08:49:01.322016+00:00",
+    "candidate_id": "rohan-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T08:49:01.322026+00:00"
+  },
+  {
+    "company": "Google LLC",
+    "readiness_score": 48.96,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 9,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 4,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 4,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 2,
+    "gap_categories_count": 10,
+    "summary": "Candidate readiness is 49.0% (below threshold of 80.0%). Significant gap across 10 competencies: OOD (-1), APTI (-9), COMM (-7), AI (-7). Focused upskilling recommended.",
+    "source": "authoritative:company_skill_levels_staging",
+    "evaluated_at": "2026-10-29T08:53:10.421652+00:00",
+    "candidate_id": "test-cand-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T08:53:10.421662+00:00"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "readiness_score": 46.81,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 6,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 7,
+        "candidate_level": 7,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 8,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 3,
+    "gap_categories_count": 9,
+    "summary": "Candidate readiness is 46.8% (below threshold of 80.0%). Significant gap across 9 competencies: DSA (-1), OOD (-8), APTI (-8), COMM (-7). Focused upskilling recommended.",
+    "source": "authoritative:company_skill_levels_staging",
+    "evaluated_at": "2026-10-29T08:53:12.383789+00:00",
+    "candidate_id": "rohan-001",
+    "candidate_name": "Candidate",
+    "saved_at": "2026-10-29T08:53:12.383800+00:00"
+  },
+  {
+    "company": "Google LLC (Subsidiary of Alphabet Inc.)",
+    "readiness_score": 32.29,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 9,
+        "candidate_level": 8,
+        "gap": true,
+        "gap_amount": 1,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 7,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 4,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 4,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 3,
+    "gap_categories_count": 9,
+    "summary": "Candidate readiness is 32.3% (below threshold of 80.0%). Significant gap across 9 competencies: DSA (-9), OOD (-8), APTI (-1), COMM (-7). Focused upskilling recommended.",
+    "source": "authoritative:company_skill_levels_staging",
+    "evaluated_at": "2026-10-29T08:56:45.428379+00:00",
+    "candidate_id": "61a4cadc-d610-44df-8aa1-f9dac1bdbbe2",
+    "candidate_name": "Karthik Subramaniam",
+    "saved_at": "2026-10-29T08:56:45.428390+00:00"
+  },
+  {
+    "company": "Volvo Group",
+    "readiness_score": 34.55,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 5,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 5,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 5,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 3,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 3,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 4,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 6,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 6,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 6,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 4,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 4,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 4,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 6,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 6,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 6,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 6,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 3,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 3,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 3,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 3,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 4,
+    "gap_categories_count": 8,
+    "summary": "Candidate readiness is 34.5% (below threshold of 80.0%). Significant gap across 8 competencies: DSA (-5), OOD (-3), COMM (-6), CLOUD (-4). Focused upskilling recommended.",
+    "source": "authoritative:company_skill_levels_staging",
+    "evaluated_at": "2026-10-29T08:56:50.744434+00:00",
+    "candidate_id": "61a4cadc-d610-44df-8aa1-f9dac1bdbbe2",
+    "candidate_name": "Karthik Subramaniam",
+    "saved_at": "2026-10-29T08:56:50.744444+00:00"
+  },
+  {
+    "company": "Volvo Group",
+    "readiness_score": 34.55,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 5,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 5,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 5,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 3,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 3,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 4,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 6,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 6,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 6,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 4,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 4,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 4,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 6,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 6,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 6,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 6,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 3,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 3,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 3,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 3,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 4,
+    "gap_categories_count": 8,
+    "summary": "Candidate readiness is 34.5% (below threshold of 80.0%). Significant gap across 8 competencies: DSA (-5), OOD (-3), COMM (-6), CLOUD (-4). Focused upskilling recommended.",
+    "source": "authoritative:company_skill_levels_staging",
+    "evaluated_at": "2026-10-29T08:57:06.152634+00:00",
+    "candidate_id": "61a4cadc-d610-44df-8aa1-f9dac1bdbbe2",
+    "candidate_name": "Karthik Subramaniam",
+    "saved_at": "2026-10-29T08:57:06.152644+00:00"
+  },
+  {
+    "company": "Google LLC (Subsidiary of Alphabet Inc.)",
+    "readiness_score": 38.54,
+    "skillset_gap": [
+      {
+        "category_code": "COD",
+        "category_name": "Core Coding Fluency",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "DSA",
+        "category_name": "Data Structures & Algorithms",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OOD",
+        "category_name": "Object-Oriented Design & Principles",
+        "required_level": 8,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 8,
+        "meets_bar": false
+      },
+      {
+        "category_code": "APTI",
+        "category_name": "Analytical Problem Solving",
+        "required_level": 9,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 2,
+        "meets_bar": false
+      },
+      {
+        "category_code": "COMM",
+        "category_name": "Technical Communication & Articulation",
+        "required_level": 7,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 7,
+        "meets_bar": false
+      },
+      {
+        "category_code": "AI",
+        "category_name": "AI & Machine Learning Concepts",
+        "required_level": 7,
+        "candidate_level": 7,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "CLOUD",
+        "category_name": "Cloud Platforms & Infrastructure",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SQL",
+        "category_name": "Relational Databases & SQL",
+        "required_level": 8,
+        "candidate_level": 8,
+        "gap": false,
+        "gap_amount": 0,
+        "meets_bar": true
+      },
+      {
+        "category_code": "SWE",
+        "category_name": "Software Engineering Best Practices",
+        "required_level": 9,
+        "candidate_level": 7,
+        "gap": true,
+        "gap_amount": 2,
+        "meets_bar": false
+      },
+      {
+        "category_code": "SYSD",
+        "category_name": "System Design & Architecture",
+        "required_level": 4,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 4,
+        "meets_bar": false
+      },
+      {
+        "category_code": "NETW",
+        "category_name": "Computer Networks & Protocols",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      },
+      {
+        "category_code": "OS",
+        "category_name": "Operating Systems & Concurrency",
+        "required_level": 9,
+        "candidate_level": 0,
+        "gap": true,
+        "gap_amount": 9,
+        "meets_bar": false
+      }
+    ],
+    "readiness_status": "NEEDS_PREPARATION",
+    "readiness_label": "Needs Focused Preparation",
+    "threshold": 80.0,
+    "met_categories_count": 3,
+    "gap_categories_count": 9,
+    "summary": "Candidate readiness is 38.5% (below threshold of 80.0%). Significant gap across 9 competencies: DSA (-9), OOD (-8), APTI (-2), COMM (-7). Focused upskilling recommended.",
+    "source": "authoritative:company_skill_levels_staging",
+    "evaluated_at": "2026-10-29T10:20:08.598327+00:00",
+    "candidate_id": null,
+    "candidate_name": "Karthik Subramaniam",
+    "saved_at": "2026-10-29T10:20:08.598841+00:00"
+  }
+]

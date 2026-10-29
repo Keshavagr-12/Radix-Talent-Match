@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan to initialize Module 03 (Profile Builder) as empty until a resume is imported from Module 02 or manually saved, remove sample data fallbacks across Modules 01–05, and disable the Import from Profile Builder and Import from JD Analytics dropdown options in Modules 04 and 05 until valid data exists in Module 03 and Module 01 respectively.",
+  "updatedAt":  "2026-10-27T12:27:22.266219504Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

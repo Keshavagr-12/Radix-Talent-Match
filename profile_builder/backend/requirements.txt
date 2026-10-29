@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+# supabase (Removed - Migrated to JSON-based storage)
+python-multipart
+pytest
+httpx
+email-validator
+pypdf
+python-docx
+streamlit
+requests

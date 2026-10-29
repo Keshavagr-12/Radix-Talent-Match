@@ -1,0 +1,74 @@
+{
+  "rohan.verma@radix.ai": {
+    "id": "6d0d6386-b722-4bd5-bfd5-49d24cf3923c",
+    "email": "rohan.verma@radix.ai",
+    "name": "Rohan Verma",
+    "password_hash": "21281917e22a8ef3f08340d6bd002c94f6ca85affb97b5003801db93a689e642",
+    "salt": "e3b0b02eab6142d7071a8561b3bda7ee",
+    "created_at": "2026-10-29T07:38:28.508732+00:00"
+  },
+  "ananya.rao@radix.ai": {
+    "id": "723bf135-9f63-4ddd-b172-3288463a88c0",
+    "email": "ananya.rao@radix.ai",
+    "name": "Ananya Rao",
+    "password_hash": "b8be3c9242caa42301274239568493c4bab143e1534e19bb0f10b6d4f01d178a",
+    "salt": "c94232f9e855d712e7c0cd5434ab7981",
+    "created_at": "2026-10-29T07:38:28.525961+00:00"
+  },
+  "candidate_1793259509@radix.ai": {
+    "id": "2c2d9d78-d6fe-4366-9db5-4f5db5741881",
+    "email": "candidate_1793259509@radix.ai",
+    "name": "New Candidate",
+    "password_hash": "a57ccee13150b834c9231bb88e8ec9bf3681f670226ea8945f0913f114ae292c",
+    "salt": "467f3342c9969e39f10738aecb5f1350",
+    "created_at": "2026-10-29T07:38:29.848516+00:00"
+  },
+  "candidate_1793260059@radix.ai": {
+    "id": "dd8eac1c-37f5-4e43-8d1a-d2897aee3cff",
+    "email": "candidate_1793260059@radix.ai",
+    "name": "New Candidate",
+    "password_hash": "9c80b05ef325e3cd8edf0367e50b8c091c7c035f558aa07d38b682f5775990b5",
+    "salt": "dfa07f236fde0970f8526f66a058c906",
+    "created_at": "2026-10-29T07:47:40.382231+00:00"
+  },
+  "candidate_1793262101@radix.ai": {
+    "id": "ab12bcb3-0fc3-4ac6-b309-9af6cab42adf",
+    "email": "candidate_1793262101@radix.ai",
+    "name": "New Candidate",
+    "password_hash": "43e06e8a418277907e668eda7ad0bb5a3c4da75bb6842996f85d4c6d487a7369",
+    "salt": "47690fba012c08aae912129e558bbb43",
+    "created_at": "2026-10-29T08:21:45.540249+00:00"
+  },
+  "candidate_1793263459@radix.ai": {
+    "id": "d86a57b0-f7b9-491b-9904-94f9e856f67a",
+    "email": "candidate_1793263459@radix.ai",
+    "name": "New Candidate",
+    "password_hash": "68bb014b6067129da039e0b840527ca10e2d747c6d31b5841120b57d42103a57",
+    "salt": "3ac38506552e659aaed28a230692f1b5",
+    "created_at": "2026-10-29T08:44:19.209253+00:00"
+  },
+  "candidate_1793263743@radix.ai": {
+    "id": "2eecdd83-c346-42ff-9436-c67301c9e35a",
+    "email": "candidate_1793263743@radix.ai",
+    "name": "New Candidate",
+    "password_hash": "0e16c1467cf631f0737a3fb6cdead3f31eb7573f30662a81f62e67f42c740f5a",
+    "salt": "066220d7f41e259732e8e791be3d2e6d",
+    "created_at": "2026-10-29T08:49:03.142910+00:00"
+  },
+  "candidate_1793263993@radix.ai": {
+    "id": "f2e2e168-8af2-4fc0-9262-70d1376f8b1d",
+    "email": "candidate_1793263993@radix.ai",
+    "name": "New Candidate",
+    "password_hash": "d8b4e7469a6caac03f7341180563cdd6b4b443dd90ec74afcb75cbe5316e306e",
+    "salt": "ba78b254896c192577308c307893fef8",
+    "created_at": "2026-10-29T08:53:13.509007+00:00"
+  },
+  "keshavagr.ka07@gmail.com": {
+    "id": "61a4cadc-d610-44df-8aa1-f9dac1bdbbe2",
+    "email": "keshavagr.ka07@gmail.com",
+    "name": "Keshav Agrawal",
+    "password_hash": "597e13917ff8d823aeaff77f7033a7731ac045b5b84a13b6cf1fce6964af11fa",
+    "salt": "d0905e892fa9e94a5c25a62a27fca6d6",
+    "created_at": "2026-10-29T08:55:17.099142+00:00"
+  }
+}

@@ -1,0 +1,32 @@
+﻿{
+    "05. Skill Matching":  {
+                               "Port":  8005,
+                               "Health":  "http://127.0.0.1:8005/health",
+                               "Id":  3428
+                           },
+    "Frontend":  {
+                     "Port":  5173,
+                     "Health":  "http://localhost:5173",
+                     "Id":  21472
+                 },
+    "02. Resume Parsing":  {
+                               "Port":  8002,
+                               "Health":  "http://127.0.0.1:8002/health",
+                               "Id":  21096
+                           },
+    "01. JD Analytics":  {
+                             "Port":  8001,
+                             "Health":  "http://127.0.0.1:8001/health",
+                             "Id":  30612
+                         },
+    "04. Talent Check":  {
+                             "Port":  8004,
+                             "Health":  "http://127.0.0.1:8004/health",
+                             "Id":  3620
+                         },
+    "03. Profile Builder":  {
+                                "Port":  8003,
+                                "Health":  "http://127.0.0.1:8003/health",
+                                "Id":  15120
+                            }
+}

@@ -1,0 +1,807 @@
+{
+  "9910b153-e68c-4790-8661-f0b00b61e1e2": {
+    "id": "9910b153-e68c-4790-8661-f0b00b61e1e2",
+    "profile": {
+      "name": "Ananya Rao",
+      "email": "n/a",
+      "phone": "N/A",
+      "headline": "Backend Engineer Intern",
+      "location": "N/A",
+      "bio": "Ananya Rao is a systems-leaning generalist with strong experience in distributed systems, multithreaded programming, and backend development, complemented by solid fundamentals in data structures, algorithms, and operating systems.",
+      "education": [
+        {
+          "degree": "B.Tech",
+          "institution": "Not specified",
+          "graduation_year": 2026,
+          "field_of_study": "Computer Science and Engineering",
+          "score_or_gpa": "8.6 / 10",
+          "id": "edu-606a64"
+        }
+      ],
+      "skills": [
+        {
+          "skill_name": "C++",
+          "category_code": "COD",
+          "evidence": "Implemented a multithreaded job scheduler in C++ simulating OS-level process scheduling algorithms (Round Robin, Priority, SJF)",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 8
+        },
+        {
+          "skill_name": "Python",
+          "category_code": "COD",
+          "evidence": "Technical Skills list includes Python",
+          "confidence": "medium",
+          "level": 7.0,
+          "proficiency_level": 6
+        },
+        {
+          "skill_name": "Java",
+          "category_code": "COD",
+          "evidence": "Designed a parking-lot management system in Java using OOP design patterns (Factory, Strategy) as a design-practice exercise",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 8
+        },
+        {
+          "skill_name": "Data Structures & Algorithms",
+          "category_code": "DSA",
+          "evidence": "Solved 350+ problems on competitive programming platforms; mentors juniors on DSA through the college coding club",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 9
+        },
+        {
+          "skill_name": "Operating Systems",
+          "category_code": "OS",
+          "evidence": "Implemented a multithreaded job scheduler in C++ simulating OS-level process scheduling algorithms (Round Robin, Priority, SJF)",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 8
+        },
+        {
+          "skill_name": "Computer Networks",
+          "category_code": "NETW",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7
+        },
+        {
+          "skill_name": "Object-Oriented Design",
+          "category_code": "OOD",
+          "evidence": "Designed a parking-lot management system in Java using OOP design patterns (Factory, Strategy) as a design-practice exercise",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 8
+        },
+        {
+          "skill_name": "Git",
+          "category_code": "SWE",
+          "evidence": "Technical Skills list includes Git",
+          "confidence": "medium",
+          "level": 7.0,
+          "proficiency_level": 6
+        },
+        {
+          "skill_name": "Linux",
+          "category_code": "OS",
+          "evidence": "Technical Skills list includes Linux",
+          "confidence": "medium",
+          "level": 7.0,
+          "proficiency_level": 6
+        },
+        {
+          "skill_name": "Redis",
+          "category_code": "CLOUD",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7
+        },
+        {
+          "skill_name": "Rate-limiter",
+          "category_code": "SWE",
+          "evidence": "shipped a rate-limiter used in production",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 8
+        },
+        {
+          "skill_name": "Real-time chat backend",
+          "category_code": "CLOUD",
+          "evidence": "built a real-time chat backend",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7
+        },
+        {
+          "skill_name": "Distributed systems",
+          "category_code": "SYSD",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 8
+        },
+        {
+          "skill_name": "Multithreaded programming",
+          "category_code": "OS",
+          "evidence": "Implemented a multithreaded job scheduler in C++ simulating OS-level process scheduling algorithms (Round Robin, Priority, SJF)",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 8
+        },
+        {
+          "skill_name": "Mentoring juniors",
+          "category_code": "COMM",
+          "evidence": "mentors juniors on DSA through the college coding club",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7
+        }
+      ],
+      "projects": [
+        {
+          "title": "Distributed URL-Shortening Service",
+          "description": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "technologies": [
+            "C++",
+            "Redis",
+            "Distributed Systems"
+          ],
+          "id": "proj-a7a4e7"
+        },
+        {
+          "title": "Multithreaded Job Scheduler",
+          "description": "Implemented a multithreaded job scheduler in C++ simulating OS-level process scheduling algorithms (Round Robin, Priority, SJF)",
+          "technologies": [
+            "C++",
+            "Multithreading",
+            "Operating Systems"
+          ],
+          "id": "proj-d978cb"
+        },
+        {
+          "title": "Parking-Lot Management System",
+          "description": "Designed a parking-lot management system in Java using OOP design patterns (Factory, Strategy) as a design-practice exercise",
+          "technologies": [
+            "Java",
+            "Object-Oriented Design"
+          ],
+          "id": "proj-266172"
+        }
+      ],
+      "hackathons": [
+        {
+          "name": "National-level 24-hour hackathon",
+          "achievement": "Finalist",
+          "year": 2023,
+          "organizer": "Not specified",
+          "project_summary": "built a real-time chat backend",
+          "id": "hack-5f089a"
+        }
+      ],
+      "internships": [
+        {
+          "company": "Mid-size product startup",
+          "role": "Backend Engineer Intern",
+          "description": "\u2022 Summer intern, backend team at a mid-size product startup \u2014 shipped a rate-limiter",
+          "duration": "Summer 2023",
+          "technologies": [
+            "Java",
+            "Rate-limiter",
+            "Backend"
+          ],
+          "id": "int-2ec8fa"
+        }
+      ],
+      "certifications": [],
+      "preferred_roles": [
+        "Software Engineer",
+        "Backend Engineer"
+      ],
+      "cv_file": "C:\\Users\\kesha\\OneDrive\\Desktop\\Unified-AI-Application\\profile_builder\\backend\\data\\uploads\\9910b153-e68c-4790-8661-f0b00b61e1e2\\Ananya_Rao.pdf"
+    },
+    "created_at": "2026-10-28T19:47:14.820963+00:00",
+    "updated_at": "2026-10-28T19:47:16.983262+00:00"
+  },
+  "5f027b06-02ac-482e-8c16-e58516496bd7": {
+    "id": "5f027b06-02ac-482e-8c16-e58516496bd7",
+    "profile": {
+      "name": "Integration Test Candidate",
+      "email": "integration.test@example.com",
+      "phone": null,
+      "headline": null,
+      "location": null,
+      "bio": null,
+      "education": [
+        {
+          "degree": "B.Tech in Computer Science",
+          "institution": "B.Tech in Computer Science",
+          "graduation_year": 2025
+        }
+      ],
+      "skills": [
+        {
+          "skill_name": "Python",
+          "category_code": "COD",
+          "evidence": "Expert in Python",
+          "confidence": "high",
+          "level": 9.0,
+          "proficiency_level": 7.0
+        },
+        {
+          "skill_name": "DSA",
+          "category_code": "DSA",
+          "evidence": "Solved 400 problems",
+          "confidence": "high",
+          "level": 8.0,
+          "proficiency_level": 7.0
+        },
+        {
+          "skill_name": "SQL",
+          "category_code": "SQL",
+          "evidence": "PostgreSQL queries",
+          "confidence": "high",
+          "level": 8.0,
+          "proficiency_level": 7.0
+        }
+      ],
+      "projects": [],
+      "hackathons": [],
+      "internships": [],
+      "certifications": [],
+      "preferred_roles": [
+        "Software Engineer"
+      ],
+      "cv_file": null
+    },
+    "created_at": "2026-10-28T21:11:31.255686+00:00",
+    "updated_at": "2026-10-28T21:11:31.255686+00:00"
+  },
+  "723bf135-9f63-4ddd-b172-3288463a88c0": {
+    "id": "723bf135-9f63-4ddd-b172-3288463a88c0",
+    "profile": {
+      "name": "Karthik Subramaniam",
+      "email": "candidate@example.com",
+      "phone": "+91 98765 43210",
+      "headline": "Data Analytics Intern",
+      "location": "Flexible / Hybrid",
+      "bio": "Karthik Subramaniam is a data-leaning analyst with strong skills in SQL, Python, and statistical analysis, experienced in building predictive pipelines and dashboards, and seeking Data Analyst or Data Scientist roles.",
+      "education": [
+        {
+          "degree": "B.Tech",
+          "institution": "[Institution Not Provided]",
+          "graduation_year": 2026,
+          "field_of_study": "Computer Science and Engineering",
+          "score_or_gpa": "8.2/10",
+          "id": "edu-7cf237"
+        }
+      ],
+      "skills": [
+        {
+          "skill_name": "SQL",
+          "category_code": "SQL",
+          "evidence": "SQL extraction",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 8
+        },
+        {
+          "skill_name": "Python",
+          "category_code": "COD",
+          "evidence": "Python (pandas, scikit-learn)",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 8
+        },
+        {
+          "skill_name": "pandas",
+          "category_code": "COD",
+          "evidence": "Python (pandas, scikit-learn)",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 8
+        },
+        {
+          "skill_name": "scikit-learn",
+          "category_code": "AI",
+          "evidence": "Python (pandas, scikit-learn)",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 8
+        },
+        {
+          "skill_name": "Power BI",
+          "category_code": "OTHER",
+          "evidence": "Power BI",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7
+        },
+        {
+          "skill_name": "Statistics",
+          "category_code": "APTI",
+          "evidence": "Statistics",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 8
+        },
+        {
+          "skill_name": "A/B testing basics",
+          "category_code": "APTI",
+          "evidence": "A/B testing basics",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7
+        },
+        {
+          "skill_name": "Excel",
+          "category_code": "OTHER",
+          "evidence": "Excel",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7
+        },
+        {
+          "skill_name": "Java",
+          "category_code": "COD",
+          "evidence": "basic Java",
+          "confidence": "medium",
+          "level": 7.0,
+          "proficiency_level": 4
+        },
+        {
+          "skill_name": "Database Design",
+          "category_code": "SQL",
+          "evidence": "Designed a normalized schema",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7
+        },
+        {
+          "skill_name": "Dashboard Development",
+          "category_code": "OTHER",
+          "evidence": "dashboard for a college event-management system",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7
+        },
+        {
+          "skill_name": "Anomaly Detection",
+          "category_code": "AI",
+          "evidence": "anomaly detection on registration spikes",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7
+        },
+        {
+          "skill_name": "Logistic Regression",
+          "category_code": "AI",
+          "evidence": "logistic regression model",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7
+        },
+        {
+          "skill_name": "Feature Engineering",
+          "category_code": "APTI",
+          "evidence": "feature engineering",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7
+        },
+        {
+          "skill_name": "Data Visualization",
+          "category_code": "OTHER",
+          "evidence": "Runner-up, inter-college data visualization competition",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7
+        }
+      ],
+      "projects": [
+        {
+          "title": "Churn Prediction Pipeline",
+          "description": "Built an end-to-end churn-prediction pipeline (SQL extraction \u2192 feature engineering \u2192 logistic regression model) on a public e-commerce dataset.",
+          "technologies": [
+            "SQL",
+            "Python",
+            "pandas",
+            "scikit-learn",
+            "Logistic Regression"
+          ],
+          "id": "proj-73ebaf"
+        },
+        {
+          "title": "College Event-Management System",
+          "description": "Designed a normalized schema and dashboard for a college event-management system, including anomaly detection on registration spikes.",
+          "technologies": [
+            "SQL",
+            "Power BI",
+            "Anomaly Detection",
+            "Database Design"
+          ],
+          "id": "proj-2264b2"
+        },
+        {
+          "title": "A/B Test Simulation",
+          "description": "Ran and analyzed an A/B test simulation comparing two onboarding flows, presenting results to a non-technical audience.",
+          "technologies": [
+            "A/B testing",
+            "Statistics",
+            "Excel"
+          ],
+          "id": "proj-a3c718"
+        }
+      ],
+      "hackathons": [
+        {
+          "name": "Inter-College Data Visualization Competition",
+          "achievement": "Runner-up",
+          "year": "[Year Not Provided]",
+          "organizer": "[Organizer Not Provided]",
+          "project_summary": "Data visualization competition",
+          "id": "hack-d0e4ea"
+        }
+      ],
+      "internships": [
+        {
+          "company": "Fintech Startup",
+          "role": "Data Analytics Intern",
+          "description": "\u2022 Data Analytics intern at a fintech startup \u2014 built two recurring dashboards used by the",
+          "duration": "[Duration Not Provided]",
+          "technologies": [
+            "SQL",
+            "Power BI",
+            "Excel"
+          ],
+          "id": "int-fd4d08"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Google Data Analytics Certificate",
+          "issuer": "Google",
+          "year": "[Year Not Provided]",
+          "id": "cert-c06680"
+        }
+      ],
+      "preferred_roles": [
+        "Data Analyst",
+        "Data Scientist"
+      ],
+      "cv_file": "C:\\Users\\kesha\\OneDrive\\Desktop\\Unified-AI-Application\\profile_builder\\backend\\data\\uploads\\723bf135-9f63-4ddd-b172-3288463a88c0\\Karthik_Subramaniam.pdf"
+    },
+    "created_at": "2026-10-28T21:35:30.383560+00:00",
+    "updated_at": "2026-10-29T07:59:58.319675+00:00"
+  },
+  "6d0d6386-b722-4bd5-bfd5-49d24cf3923c": {
+    "id": "6d0d6386-b722-4bd5-bfd5-49d24cf3923c",
+    "profile": {
+      "name": "Karthik Subramaniam",
+      "email": "candidate@example.com",
+      "phone": "",
+      "headline": "Data Analytics Intern",
+      "location": "",
+      "bio": "Karthik is a data-leaning analyst with strong skills in SQL, Python, and statistical analysis, experienced in building predictive pipelines and dashboards, suitable for Data Analyst and Data Scientist roles.",
+      "education": [
+        {
+          "id": "edu-eb9a3f",
+          "institution": "Unknown University",
+          "degree": "B.Tech",
+          "field_of_study": "Computer Science and Engineering",
+          "graduation_year": "2026",
+          "score_or_gpa": "8.2 / 10"
+        }
+      ],
+      "skills": [
+        {
+          "skill_name": "SQL",
+          "category_code": "SQL",
+          "evidence": "Built an end-to-end churn-prediction pipeline (SQL extraction \u2192 feature engineering \u2192 logistic regression model) on a public e-commerce dataset",
+          "confidence": "high",
+          "level": 8.0,
+          "proficiency_level": 8.0
+        },
+        {
+          "skill_name": "Python",
+          "category_code": "COD",
+          "evidence": "Built an end-to-end churn-prediction pipeline (SQL extraction \u2192 feature engineering \u2192 logistic regression model) on a public e-commerce dataset",
+          "confidence": "high",
+          "level": 8.0,
+          "proficiency_level": 8.0
+        },
+        {
+          "skill_name": "pandas",
+          "category_code": "COD",
+          "evidence": "Python (pandas, scikit-learn)",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7.0
+        },
+        {
+          "skill_name": "scikit-learn",
+          "category_code": "AI",
+          "evidence": "Python (pandas, scikit-learn)",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7.0
+        },
+        {
+          "skill_name": "Power BI",
+          "category_code": "OTHER",
+          "evidence": "Power BI",
+          "confidence": "high",
+          "level": 6.0,
+          "proficiency_level": 6.0
+        },
+        {
+          "skill_name": "Excel",
+          "category_code": "OTHER",
+          "evidence": "Excel",
+          "confidence": "high",
+          "level": 6.0,
+          "proficiency_level": 6.0
+        },
+        {
+          "skill_name": "Statistics",
+          "category_code": "APTI",
+          "evidence": "Statistics",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7.0
+        },
+        {
+          "skill_name": "A/B testing basics",
+          "category_code": "APTI",
+          "evidence": "A/B testing basics",
+          "confidence": "medium",
+          "level": 5.0,
+          "proficiency_level": 5.0
+        },
+        {
+          "skill_name": "Java",
+          "category_code": "COD",
+          "evidence": "basic Java",
+          "confidence": "low",
+          "level": 3.0,
+          "proficiency_level": 3.0
+        },
+        {
+          "skill_name": "Data visualization",
+          "category_code": "OTHER",
+          "evidence": "Runner-up, inter-college data visualization competition",
+          "confidence": "medium",
+          "level": 5.0,
+          "proficiency_level": 5.0
+        },
+        {
+          "skill_name": "Dashboard design",
+          "category_code": "OTHER",
+          "evidence": "Designed a normalized schema and dashboard for a college event-management system",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7.0
+        },
+        {
+          "skill_name": "Anomaly detection",
+          "category_code": "AI",
+          "evidence": "Designed a normalized schema and dashboard for a college event-management system, including anomaly detection on registration spikes",
+          "confidence": "medium",
+          "level": 5.0,
+          "proficiency_level": 5.0
+        },
+        {
+          "skill_name": "Logistic regression",
+          "category_code": "AI",
+          "evidence": "logistic regression model",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7.0
+        },
+        {
+          "skill_name": "Feature engineering",
+          "category_code": "AI",
+          "evidence": "feature engineering",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7.0
+        },
+        {
+          "skill_name": "Data extraction",
+          "category_code": "SQL",
+          "evidence": "SQL extraction",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7.0
+        },
+        {
+          "skill_name": "Data analysis",
+          "category_code": "APTI",
+          "evidence": "Ran and analyzed an A/B test simulation comparing two onboarding flows, presenting results to a non-technical audience",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7.0
+        },
+        {
+          "skill_name": "Data pipeline",
+          "category_code": "SWE",
+          "evidence": "end-to-end churn-prediction pipeline",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7.0
+        },
+        {
+          "skill_name": "Data dashboard",
+          "category_code": "OTHER",
+          "evidence": "built two recurring dashboards used by the growth team",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7.0
+        },
+        {
+          "skill_name": "Data analytics",
+          "category_code": "OTHER",
+          "evidence": "Data Analytics intern at a fintech startup",
+          "confidence": "high",
+          "level": 6.0,
+          "proficiency_level": 6.0
+        }
+      ],
+      "projects": [
+        {
+          "title": "Churn Prediction Pipeline",
+          "description": "Built an end-to-end churn-prediction pipeline (SQL extraction \u2192 feature engineering \u2192 logistic regression model) on a public e-commerce dataset",
+          "technologies": [
+            "SQL",
+            "Python",
+            "pandas",
+            "scikit-learn",
+            "logistic regression"
+          ],
+          "id": "proj-6375c1"
+        },
+        {
+          "title": "College Event-Management Dashboard",
+          "description": "Designed a normalized schema and dashboard for a college event-management system, including anomaly detection on registration spikes",
+          "technologies": [
+            "SQL",
+            "Power BI",
+            "anomaly detection",
+            "database design"
+          ],
+          "id": "proj-cddd29"
+        },
+        {
+          "title": "A/B Test Simulation",
+          "description": "Ran and analyzed an A/B test simulation comparing two onboarding flows, presenting results to a non-technical audience",
+          "technologies": [
+            "A/B testing",
+            "statistics",
+            "data analysis"
+          ],
+          "id": "proj-7f2289"
+        }
+      ],
+      "hackathons": [
+        {
+          "name": "Inter-College Data Visualization Competition",
+          "achievement": "Runner-up",
+          "year": "",
+          "organizer": "Inter-College",
+          "project_summary": "Data visualization project",
+          "id": "hack-fa191f"
+        }
+      ],
+      "internships": [
+        {
+          "company": "Fintech Startup",
+          "role": "Data Analytics Intern",
+          "description": "Built two recurring dashboards used by the growth team",
+          "duration": "",
+          "technologies": [
+            "SQL",
+            "Power BI",
+            "Python"
+          ],
+          "id": "int-6a93e9"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Google Data Analytics Certificate",
+          "issuer": "Google",
+          "year": "",
+          "id": "cert-d656fa"
+        }
+      ],
+      "preferred_roles": [
+        "Data Analyst",
+        "Data Scientist"
+      ],
+      "cv_file": null
+    },
+    "created_at": "2026-10-29T06:32:45.952942+00:00",
+    "updated_at": "2026-10-29T10:12:11.257882+00:00"
+  },
+  "aba91dc3-bf8e-42c6-a46c-0b4b7d272b31": {
+    "id": "aba91dc3-bf8e-42c6-a46c-0b4b7d272b31",
+    "profile": {
+      "name": "Rohan Verma",
+      "email": "rohan.verma@example.com",
+      "phone": null,
+      "headline": null,
+      "location": null,
+      "bio": null,
+      "education": [
+        {
+          "degree": "Delhi Technological University (DTU)",
+          "institution": "Delhi Technological University (DTU)",
+          "graduation_year": 2025
+        }
+      ],
+      "skills": [
+        {
+          "skill_name": "Python",
+          "category_code": "COD",
+          "evidence": "Proficient in Python backend development and microservices.",
+          "confidence": "high",
+          "level": 8.0,
+          "proficiency_level": 7.0
+        },
+        {
+          "skill_name": "Data Structures & Algorithms",
+          "category_code": "DSA",
+          "evidence": "Solved 400+ problems across trees, graphs, and dynamic programming.",
+          "confidence": "high",
+          "level": 8.0,
+          "proficiency_level": 7.0
+        },
+        {
+          "skill_name": "SQL & Relational Databases",
+          "category_code": "SQL",
+          "evidence": "Designed normalized schemas and optimized PostgreSQL queries.",
+          "confidence": "high",
+          "level": 8.0,
+          "proficiency_level": 7.0
+        },
+        {
+          "skill_name": "Cloud Computing & AWS",
+          "category_code": "CLOUD",
+          "evidence": "Deployed containerized applications to AWS with Docker.",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7.0
+        },
+        {
+          "skill_name": "Software Engineering & Git",
+          "category_code": "SWE",
+          "evidence": "Used Git version control and established CI/CD pipelines.",
+          "confidence": "high",
+          "level": 8.0,
+          "proficiency_level": 7.0
+        },
+        {
+          "skill_name": "System Design & Architecture",
+          "category_code": "SYSD",
+          "evidence": "Architected scalable REST APIs and caching layers.",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 7.0
+        }
+      ],
+      "projects": [],
+      "hackathons": [],
+      "internships": [],
+      "certifications": [],
+      "preferred_roles": [
+        "Software Engineer",
+        "Backend Developer"
+      ],
+      "cv_file": null
+    },
+    "created_at": "2026-10-29T08:21:35.731830+00:00",
+    "updated_at": "2026-10-29T08:21:35.731830+00:00"
+  }
+}

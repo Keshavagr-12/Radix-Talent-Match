@@ -1,0 +1,247 @@
+[
+  {
+    "id": "cand-525573c7",
+    "source_type": "resume",
+    "source_file": "Karthik Subramaniam.pdf",
+    "company": "Data Analytics Intern",
+    "role": "Data Analytics Intern",
+    "candidate_name": "Karthik Subramaniam",
+    "candidate_email": "candidate@example.com",
+    "phone": "",
+    "location": "",
+    "profile_archetype": "Data-leaning analyst",
+    "fit_summary": "Karthik is a data-leaning analyst with strong skills in SQL, Python, and statistical analysis, experienced in building predictive pipelines and dashboards, suitable for Data Analyst and Data Scientist roles.",
+    "skills": [
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Built an end-to-end churn-prediction pipeline (SQL extraction → feature engineering → logistic regression model) on a public e-commerce dataset",
+        "confidence": "high",
+        "proficiency_level": 8
+      },
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Built an end-to-end churn-prediction pipeline (SQL extraction → feature engineering → logistic regression model) on a public e-commerce dataset",
+        "confidence": "high",
+        "proficiency_level": 8
+      },
+      {
+        "skill_name": "pandas",
+        "category_code": "COD",
+        "evidence": "Python (pandas, scikit-learn)",
+        "confidence": "high",
+        "proficiency_level": 7
+      },
+      {
+        "skill_name": "scikit-learn",
+        "category_code": "AI",
+        "evidence": "Python (pandas, scikit-learn)",
+        "confidence": "high",
+        "proficiency_level": 7
+      },
+      {
+        "skill_name": "Power BI",
+        "category_code": "OTHER",
+        "evidence": "Power BI",
+        "confidence": "high",
+        "proficiency_level": 6
+      },
+      {
+        "skill_name": "Excel",
+        "category_code": "OTHER",
+        "evidence": "Excel",
+        "confidence": "high",
+        "proficiency_level": 6
+      },
+      {
+        "skill_name": "Statistics",
+        "category_code": "APTI",
+        "evidence": "Statistics",
+        "confidence": "high",
+        "proficiency_level": 7
+      },
+      {
+        "skill_name": "A/B testing basics",
+        "category_code": "APTI",
+        "evidence": "A/B testing basics",
+        "confidence": "medium",
+        "proficiency_level": 5
+      },
+      {
+        "skill_name": "Java",
+        "category_code": "COD",
+        "evidence": "basic Java",
+        "confidence": "low",
+        "proficiency_level": 3
+      },
+      {
+        "skill_name": "Data visualization",
+        "category_code": "OTHER",
+        "evidence": "Runner-up, inter-college data visualization competition",
+        "confidence": "medium",
+        "proficiency_level": 5
+      },
+      {
+        "skill_name": "Dashboard design",
+        "category_code": "OTHER",
+        "evidence": "Designed a normalized schema and dashboard for a college event-management system",
+        "confidence": "high",
+        "proficiency_level": 7
+      },
+      {
+        "skill_name": "Anomaly detection",
+        "category_code": "AI",
+        "evidence": "Designed a normalized schema and dashboard for a college event-management system, including anomaly detection on registration spikes",
+        "confidence": "medium",
+        "proficiency_level": 5
+      },
+      {
+        "skill_name": "Logistic regression",
+        "category_code": "AI",
+        "evidence": "logistic regression model",
+        "confidence": "high",
+        "proficiency_level": 7
+      },
+      {
+        "skill_name": "Feature engineering",
+        "category_code": "AI",
+        "evidence": "feature engineering",
+        "confidence": "high",
+        "proficiency_level": 7
+      },
+      {
+        "skill_name": "Data extraction",
+        "category_code": "SQL",
+        "evidence": "SQL extraction",
+        "confidence": "high",
+        "proficiency_level": 7
+      },
+      {
+        "skill_name": "Data analysis",
+        "category_code": "APTI",
+        "evidence": "Ran and analyzed an A/B test simulation comparing two onboarding flows, presenting results to a non-technical audience",
+        "confidence": "high",
+        "proficiency_level": 7
+      },
+      {
+        "skill_name": "Data pipeline",
+        "category_code": "SWE",
+        "evidence": "end-to-end churn-prediction pipeline",
+        "confidence": "high",
+        "proficiency_level": 7
+      },
+      {
+        "skill_name": "Data dashboard",
+        "category_code": "OTHER",
+        "evidence": "built two recurring dashboards used by the growth team",
+        "confidence": "high",
+        "proficiency_level": 7
+      },
+      {
+        "skill_name": "Data analytics",
+        "category_code": "OTHER",
+        "evidence": "Data Analytics intern at a fintech startup",
+        "confidence": "high",
+        "proficiency_level": 6
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-eb9a3f",
+        "institution": "Unknown University",
+        "degree": "B.Tech",
+        "field_of_study": "Computer Science and Engineering",
+        "graduation_year": "2026",
+        "score_or_gpa": "8.2 / 10"
+      }
+    ],
+    "projects": [
+      {
+        "id": "proj-6375c1",
+        "title": "Churn Prediction Pipeline",
+        "description": "Built an end-to-end churn-prediction pipeline (SQL extraction → feature engineering → logistic regression model) on a public e-commerce dataset",
+        "technologies": [
+          "SQL",
+          "Python",
+          "pandas",
+          "scikit-learn",
+          "logistic regression"
+        ],
+        "link": null
+      },
+      {
+        "id": "proj-cddd29",
+        "title": "College Event-Management Dashboard",
+        "description": "Designed a normalized schema and dashboard for a college event-management system, including anomaly detection on registration spikes",
+        "technologies": [
+          "SQL",
+          "Power BI",
+          "anomaly detection",
+          "database design"
+        ],
+        "link": null
+      },
+      {
+        "id": "proj-7f2289",
+        "title": "A/B Test Simulation",
+        "description": "Ran and analyzed an A/B test simulation comparing two onboarding flows, presenting results to a non-technical audience",
+        "technologies": [
+          "A/B testing",
+          "statistics",
+          "data analysis"
+        ],
+        "link": null
+      }
+    ],
+    "internships": [
+      {
+        "id": "int-6a93e9",
+        "company": "Fintech Startup",
+        "role": "Data Analytics Intern",
+        "duration": "",
+        "description": "Built two recurring dashboards used by the growth team",
+        "technologies": [
+          "SQL",
+          "Power BI",
+          "Python"
+        ]
+      }
+    ],
+    "hackathons": [
+      {
+        "id": "hack-fa191f",
+        "name": "Inter-College Data Visualization Competition",
+        "organizer": "Inter-College",
+        "year": "",
+        "achievement": "Runner-up",
+        "project_summary": "Data visualization project"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-d656fa",
+        "name": "Google Data Analytics Certificate",
+        "issuer": "Google",
+        "year": "",
+        "credential_id": null
+      }
+    ],
+    "preferred_roles": [
+      "Data Analyst",
+      "Data Scientist"
+    ],
+    "required_technologies": [
+      "SQL",
+      "Python",
+      "pandas",
+      "scikit-learn",
+      "Power BI",
+      "Excel",
+      "Statistics",
+      "A/B testing"
+    ],
+    "summary": "Karthik is a data-leaning analyst with strong skills in SQL, Python, and statistical analysis, experienced in building predictive pipelines and dashboards, suitable for Data Analyst and Data Scientist roles.",
+    "analyzed_at": "2026-10-29T10:06:38.200709+00:00"
+  }
+]

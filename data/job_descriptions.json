@@ -1,0 +1,2359 @@
+[
+  {
+    "id": "jd-202580af",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Microsoft Corporation. Identified 4 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "DSA",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "SQL",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "Cloud Systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "DSA",
+      "SQL",
+      "Cloud Systems"
+    ],
+    "raw_text": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems.",
+    "analyzed_at": "2026-10-29T08:21:34.569900+00:00"
+  },
+  {
+    "id": "jd-b93918dd",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Google LLC. Identified 12 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "C++",
+        "category_code": "COD",
+        "evidence": "C++",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "Go",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Data Structures and Algorithms",
+        "category_code": "DSA",
+        "evidence": "Data Structures and Algorithms (DSA)",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "trees",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Graphs",
+        "category_code": "DSA",
+        "evidence": "graphs",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Dynamic programming",
+        "category_code": "DSA",
+        "evidence": "dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "Linux",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Docker",
+        "category_code": "CLOUD",
+        "evidence": "Docker",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud infrastructure",
+        "category_code": "CLOUD",
+        "evidence": "Cloud infrastructure",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL queries",
+        "category_code": "SQL",
+        "evidence": "SQL queries",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "PostgreSQL",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "C++",
+      "Go",
+      "Data Structures and Algorithms",
+      "Trees",
+      "Graphs",
+      "Dynamic programming",
+      "Linux",
+      "Docker",
+      "Cloud infrastructure",
+      "SQL queries",
+      "PostgreSQL"
+    ],
+    "raw_text": "Software Engineer at Google LLC.\n    Responsibilities:\n    - Build distributed backend microservices using Python, C++, and Go.\n    - Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming.\n    - Architect scalable systems with Linux, Docker, and Cloud infrastructure.\n    - Write robust SQL queries for PostgreSQL databases.",
+    "analyzed_at": "2026-10-29T08:21:27.024899+00:00"
+  },
+  {
+    "id": "jd-06332d23",
+    "source_type": "jd",
+    "source_file": "Microsoft - Software Engineer.pdf",
+    "company": "Microsoft",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Microsoft. Identified 13 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "\u2022 Strong data structures and algorithms fundamentals \u2014 hash maps, trees, and",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Algorithms",
+        "category_code": "DSA",
+        "evidence": "\u2022 Strong data structures and algorithms fundamentals \u2014 hash maps, trees, and",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "\u2022 Strong data structures and algorithms fundamentals \u2014 hash maps, trees, and",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Object-Oriented Design",
+        "category_code": "OOD",
+        "evidence": "\u2022 Understanding of object-oriented design and SOLID principles, and how to design",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SOLID Principles",
+        "category_code": "OOD",
+        "evidence": "\u2022 Understanding of object-oriented design and SOLID principles, and how to design",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Communication",
+        "category_code": "COMM",
+        "evidence": "\u2022 Strong communication \u2014 able to describe a hard problem you solved and how you",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Azure",
+        "category_code": "CLOUD",
+        "evidence": "Join a team building scalable software across Microsoft products such as Azure, Microsoft",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Software Engineering",
+        "category_code": "SWE",
+        "evidence": "\u2022 Software engineering maturity \u2014 clean code habits, a real testing strategy, and",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Agile",
+        "category_code": "SWE",
+        "evidence": "\u2022 Participate in Agile ceremonies and design reviews with your team",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Scalability",
+        "category_code": "SYSD",
+        "evidence": "service and reason about scalability and fault tolerance",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Networking",
+        "category_code": "NETW",
+        "evidence": "concurrency primitives) and core networking (REST APIs, timeouts, request lifecycle)",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Operating Systems",
+        "category_code": "OS",
+        "evidence": "\u2022 Working knowledge of operating systems (process scheduling, virtual memory,",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Concurrency",
+        "category_code": "OS",
+        "evidence": "concurrency primitives) and core networking (REST APIs, timeouts, request lifecycle)",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Data Structures",
+      "Algorithms",
+      "Trees",
+      "Object-Oriented Design",
+      "SOLID Principles",
+      "Communication",
+      "Azure",
+      "Software Engineering",
+      "Agile",
+      "Scalability",
+      "Networking",
+      "Operating Systems",
+      "Concurrency"
+    ],
+    "raw_text": "Microsoft Corporation \u2014 Software Engineer \nRole Category: SDE \n  Hyderabad, India   \u00b7   Full-Time   \u00b7   \u20b928,00,000 CTC   Joining bonus, annual performance bonus, stock \nawards (RSUs) \nRole Overview \nJoin a team building scalable software across Microsoft products such as Azure, Microsoft \n365, and Windows. You'll own features end to end, from design through production. \nKey Responsibilities \n\u2022 Design, build, and maintain scalable, reliable software components \n\u2022 Participate in Agile ceremonies and design reviews with your team \n\u2022 Write clean, efficient code and hold a high bar in code review \n\u2022 Ensure reliability, security, and performance of the systems you own \n\u2022 Work cross-functionally with PM and design to refine requirements \nWhat We're Looking For \n\u2022 Strong data structures and algorithms fundamentals \u2014 hash maps, trees, and \ncomplexity analysis, applied confidently under time pressure \n\u2022 Practical coding skills \u2014 pattern matching, interval problems, and writing code that \nperforms well on large inputs \n\u2022 Working knowledge of operating systems (process scheduling, virtual memory, \nconcurrency primitives) and core networking (REST APIs, timeouts, request lifecycle) \n\u2022 Ability to design at the system level \u2014 sketch a cloud-based storage or notification \nservice and reason about scalability and fault tolerance \n\u2022 Understanding of object-oriented design and SOLID principles, and how to design \nsoftware that's easy to extend \n\u2022 Software engineering maturity \u2014 clean code habits, a real testing strategy, and \ncomfort talking about technical debt honestly \n\u2022 Strong communication \u2014 able to describe a hard problem you solved and how you \ncollaborate across teams \nNice to Have \nExposure to cloud infrastructure (Azure or similar); contributions to a shared codebase in a \nteam setting. \nBenefits \nComprehensive health insurance, RSUs, flexible work arrangements, learning and \ncertification budget, wellness programs.",
+    "analyzed_at": "2026-10-29T07:53:49.974546+00:00"
+  },
+  {
+    "id": "jd-39466e4f",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Microsoft Corporation. Identified 4 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "DSA",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "SQL",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "Cloud Systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "DSA",
+      "SQL",
+      "Cloud Systems"
+    ],
+    "raw_text": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems.",
+    "analyzed_at": "2026-10-29T07:47:31.785214+00:00"
+  },
+  {
+    "id": "jd-5eedc298",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Google LLC. Identified 14 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "C++",
+        "category_code": "COD",
+        "evidence": "C++",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "Go",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Data Structures and Algorithms",
+        "category_code": "DSA",
+        "evidence": "Deep knowledge of Data Structures and Algorithms (DSA)",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "trees",
+        "category_code": "DSA",
+        "evidence": "trees",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "graphs",
+        "category_code": "DSA",
+        "evidence": "graphs",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "dynamic programming",
+        "category_code": "DSA",
+        "evidence": "dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "Linux",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Docker",
+        "category_code": "CLOUD",
+        "evidence": "Docker",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud infrastructure",
+        "category_code": "CLOUD",
+        "evidence": "Cloud infrastructure",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL queries",
+        "category_code": "SQL",
+        "evidence": "SQL queries",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "PostgreSQL",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "distributed backend microservices",
+        "category_code": "SYSD",
+        "evidence": "distributed backend microservices",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "architect scalable systems",
+        "category_code": "SYSD",
+        "evidence": "Architect scalable systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "C++",
+      "Go",
+      "Data Structures and Algorithms",
+      "trees",
+      "graphs",
+      "dynamic programming",
+      "Linux",
+      "Docker",
+      "Cloud infrastructure",
+      "SQL queries",
+      "PostgreSQL",
+      "distributed backend microservices",
+      "architect scalable systems"
+    ],
+    "raw_text": "Software Engineer at Google LLC.\n    Responsibilities:\n    - Build distributed backend microservices using Python, C++, and Go.\n    - Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming.\n    - Architect scalable systems with Linux, Docker, and Cloud infrastructure.\n    - Write robust SQL queries for PostgreSQL databases.",
+    "analyzed_at": "2026-10-29T07:47:23.822178+00:00"
+  },
+  {
+    "id": "jd-8e64608e",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Microsoft Corporation. Identified 4 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "proficient in Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "proficient in DSA",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "proficient in SQL",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "proficient in Cloud Systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "DSA",
+      "SQL",
+      "Cloud Systems"
+    ],
+    "raw_text": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems.",
+    "analyzed_at": "2026-10-29T07:38:23.401845+00:00"
+  },
+  {
+    "id": "jd-398b975a",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Google LLC. Identified 14 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Build distributed backend microservices using Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "C++",
+        "category_code": "COD",
+        "evidence": "Build distributed backend microservices using C++",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "Build distributed backend microservices using Go",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Data Structures and Algorithms",
+        "category_code": "DSA",
+        "evidence": "Deep knowledge of Data Structures and Algorithms (DSA)",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "trees",
+        "category_code": "DSA",
+        "evidence": "trees",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "graphs",
+        "category_code": "DSA",
+        "evidence": "graphs",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "dynamic programming",
+        "category_code": "DSA",
+        "evidence": "dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "Linux",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Docker",
+        "category_code": "CLOUD",
+        "evidence": "Docker",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud infrastructure",
+        "category_code": "CLOUD",
+        "evidence": "Cloud infrastructure",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL queries",
+        "category_code": "SQL",
+        "evidence": "Write robust SQL queries",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "PostgreSQL databases",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "distributed backend microservices",
+        "category_code": "SYSD",
+        "evidence": "Build distributed backend microservices",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "architect scalable systems",
+        "category_code": "SYSD",
+        "evidence": "Architect scalable systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "C++",
+      "Go",
+      "Data Structures and Algorithms",
+      "trees",
+      "graphs",
+      "dynamic programming",
+      "Linux",
+      "Docker",
+      "Cloud infrastructure",
+      "SQL queries",
+      "PostgreSQL",
+      "distributed backend microservices",
+      "architect scalable systems"
+    ],
+    "raw_text": "Software Engineer at Google LLC.\n    Responsibilities:\n    - Build distributed backend microservices using Python, C++, and Go.\n    - Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming.\n    - Architect scalable systems with Linux, Docker, and Cloud infrastructure.\n    - Write robust SQL queries for PostgreSQL databases.",
+    "analyzed_at": "2026-10-29T07:38:16.329982+00:00"
+  },
+  {
+    "id": "jd-f1e788c6",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Microsoft Corporation. Identified 4 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "proficient in Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "proficient in DSA",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "proficient in SQL",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "proficient in Cloud Systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "DSA",
+      "SQL",
+      "Cloud Systems"
+    ],
+    "raw_text": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems.",
+    "analyzed_at": "2026-10-29T07:16:17.190095+00:00"
+  },
+  {
+    "id": "jd-36934d9b",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Google LLC. Identified 14 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "C++",
+        "category_code": "COD",
+        "evidence": "C++",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "Go",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Data Structures and Algorithms",
+        "category_code": "DSA",
+        "evidence": "Deep knowledge of Data Structures and Algorithms (DSA)",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "trees",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Graphs",
+        "category_code": "DSA",
+        "evidence": "graphs",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Dynamic programming",
+        "category_code": "DSA",
+        "evidence": "dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "Linux",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Docker",
+        "category_code": "CLOUD",
+        "evidence": "Docker",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud infrastructure",
+        "category_code": "CLOUD",
+        "evidence": "Cloud infrastructure",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL queries",
+        "category_code": "SQL",
+        "evidence": "SQL queries",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "PostgreSQL",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Distributed backend microservices",
+        "category_code": "SYSD",
+        "evidence": "Build distributed backend microservices",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Architect scalable systems",
+        "category_code": "SYSD",
+        "evidence": "Architect scalable systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "C++",
+      "Go",
+      "Data Structures and Algorithms",
+      "Trees",
+      "Graphs",
+      "Dynamic programming",
+      "Linux",
+      "Docker",
+      "Cloud infrastructure",
+      "SQL queries",
+      "PostgreSQL",
+      "Distributed backend microservices",
+      "Architect scalable systems"
+    ],
+    "raw_text": "Software Engineer at Google LLC.\n    Responsibilities:\n    - Build distributed backend microservices using Python, C++, and Go.\n    - Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming.\n    - Architect scalable systems with Linux, Docker, and Cloud infrastructure.\n    - Write robust SQL queries for PostgreSQL databases.",
+    "analyzed_at": "2026-10-29T07:16:09.864342+00:00"
+  },
+  {
+    "id": "jd-6c59619c",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Microsoft Corporation. Identified 4 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "proficient in Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "proficient in DSA",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "proficient in SQL",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "Cloud Systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "DSA",
+      "SQL",
+      "Cloud Systems"
+    ],
+    "raw_text": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems.",
+    "analyzed_at": "2026-10-29T07:08:02.422535+00:00"
+  },
+  {
+    "id": "jd-8e39daeb",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Google LLC. Identified 14 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "C++",
+        "category_code": "COD",
+        "evidence": "C++",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "Go",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Data Structures and Algorithms",
+        "category_code": "DSA",
+        "evidence": "Data Structures and Algorithms (DSA)",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "trees",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Graphs",
+        "category_code": "DSA",
+        "evidence": "graphs",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Dynamic programming",
+        "category_code": "DSA",
+        "evidence": "dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "Linux",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Docker",
+        "category_code": "CLOUD",
+        "evidence": "Docker",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud infrastructure",
+        "category_code": "CLOUD",
+        "evidence": "Cloud infrastructure",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL queries",
+        "category_code": "SQL",
+        "evidence": "SQL queries",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "PostgreSQL",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Distributed backend microservices",
+        "category_code": "SYSD",
+        "evidence": "distributed backend microservices",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Architect scalable systems",
+        "category_code": "SYSD",
+        "evidence": "Architect scalable systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "C++",
+      "Go",
+      "Data Structures and Algorithms",
+      "Trees",
+      "Graphs",
+      "Dynamic programming",
+      "Linux",
+      "Docker",
+      "Cloud infrastructure",
+      "SQL queries",
+      "PostgreSQL",
+      "Distributed backend microservices",
+      "Architect scalable systems"
+    ],
+    "raw_text": "Software Engineer at Google LLC.\n    Responsibilities:\n    - Build distributed backend microservices using Python, C++, and Go.\n    - Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming.\n    - Architect scalable systems with Linux, Docker, and Cloud infrastructure.\n    - Write robust SQL queries for PostgreSQL databases.",
+    "analyzed_at": "2026-10-29T07:07:55.584409+00:00"
+  },
+  {
+    "id": "jd-5a06dd56",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Microsoft Corporation. Identified 4 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "DSA",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "SQL",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "Cloud Systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "DSA",
+      "SQL",
+      "Cloud Systems"
+    ],
+    "raw_text": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems.",
+    "analyzed_at": "2026-10-29T07:01:09.142083+00:00"
+  },
+  {
+    "id": "jd-eb61f7c0",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Google LLC. Identified 14 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "C++",
+        "category_code": "COD",
+        "evidence": "C++",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "Go",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Data Structures and Algorithms",
+        "category_code": "DSA",
+        "evidence": "Data Structures and Algorithms (DSA)",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "trees",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Graphs",
+        "category_code": "DSA",
+        "evidence": "graphs",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Dynamic programming",
+        "category_code": "DSA",
+        "evidence": "dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "Linux",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Docker",
+        "category_code": "CLOUD",
+        "evidence": "Docker",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud infrastructure",
+        "category_code": "CLOUD",
+        "evidence": "Cloud infrastructure",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL queries",
+        "category_code": "SQL",
+        "evidence": "SQL queries",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "PostgreSQL",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Distributed backend microservices",
+        "category_code": "SYSD",
+        "evidence": "distributed backend microservices",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Scalable systems",
+        "category_code": "SYSD",
+        "evidence": "scalable systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "C++",
+      "Go",
+      "Data Structures and Algorithms",
+      "Trees",
+      "Graphs",
+      "Dynamic programming",
+      "Linux",
+      "Docker",
+      "Cloud infrastructure",
+      "SQL queries",
+      "PostgreSQL",
+      "Distributed backend microservices",
+      "Scalable systems"
+    ],
+    "raw_text": "Software Engineer at Google LLC.\n    Responsibilities:\n    - Build distributed backend microservices using Python, C++, and Go.\n    - Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming.\n    - Architect scalable systems with Linux, Docker, and Cloud infrastructure.\n    - Write robust SQL queries for PostgreSQL databases.",
+    "analyzed_at": "2026-10-29T07:00:59.638791+00:00"
+  },
+  {
+    "id": "jd-e120001f",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Microsoft Corporation. Identified 4 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "proficient in Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "proficient in DSA",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "proficient in SQL",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "Cloud Systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "DSA",
+      "SQL",
+      "Cloud Systems"
+    ],
+    "raw_text": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems.",
+    "analyzed_at": "2026-10-29T06:46:46.281026+00:00"
+  },
+  {
+    "id": "jd-e476f6d2",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Google LLC. Identified 14 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "C++",
+        "category_code": "COD",
+        "evidence": "C++",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "Go",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Data Structures and Algorithms",
+        "category_code": "DSA",
+        "evidence": "Data Structures and Algorithms (DSA)",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "trees",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Graphs",
+        "category_code": "DSA",
+        "evidence": "graphs",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Dynamic programming",
+        "category_code": "DSA",
+        "evidence": "dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "Linux",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Docker",
+        "category_code": "CLOUD",
+        "evidence": "Docker",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud infrastructure",
+        "category_code": "CLOUD",
+        "evidence": "Cloud infrastructure",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL queries",
+        "category_code": "SQL",
+        "evidence": "SQL queries",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "PostgreSQL",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Distributed backend microservices",
+        "category_code": "SYSD",
+        "evidence": "distributed backend microservices",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Architect scalable systems",
+        "category_code": "SYSD",
+        "evidence": "Architect scalable systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "C++",
+      "Go",
+      "Data Structures and Algorithms",
+      "Trees",
+      "Graphs",
+      "Dynamic programming",
+      "Linux",
+      "Docker",
+      "Cloud infrastructure",
+      "SQL queries",
+      "PostgreSQL",
+      "Distributed backend microservices",
+      "Architect scalable systems"
+    ],
+    "raw_text": "Software Engineer at Google LLC.\n    Responsibilities:\n    - Build distributed backend microservices using Python, C++, and Go.\n    - Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming.\n    - Architect scalable systems with Linux, Docker, and Cloud infrastructure.\n    - Write robust SQL queries for PostgreSQL databases.",
+    "analyzed_at": "2026-10-29T06:46:39.770755+00:00"
+  },
+  {
+    "id": "jd-251dfca7",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Microsoft Corporation. Identified 4 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "proficient in Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "proficient in DSA",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "proficient in SQL",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "proficient in Cloud Systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "DSA",
+      "SQL",
+      "Cloud Systems"
+    ],
+    "raw_text": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems.",
+    "analyzed_at": "2026-10-29T06:35:47.145994+00:00"
+  },
+  {
+    "id": "jd-ad888a38",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Google LLC. Identified 14 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "C++",
+        "category_code": "COD",
+        "evidence": "C++",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "Go",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Data Structures and Algorithms",
+        "category_code": "DSA",
+        "evidence": "Deep knowledge of Data Structures and Algorithms (DSA)",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "trees",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Graphs",
+        "category_code": "DSA",
+        "evidence": "graphs",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Dynamic programming",
+        "category_code": "DSA",
+        "evidence": "dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "Linux",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Docker",
+        "category_code": "CLOUD",
+        "evidence": "Docker",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud infrastructure",
+        "category_code": "CLOUD",
+        "evidence": "Cloud infrastructure",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL queries",
+        "category_code": "SQL",
+        "evidence": "SQL queries",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "PostgreSQL",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Distributed backend microservices",
+        "category_code": "SYSD",
+        "evidence": "distributed backend microservices",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Scalable systems",
+        "category_code": "SYSD",
+        "evidence": "scalable systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "C++",
+      "Go",
+      "Data Structures and Algorithms",
+      "Trees",
+      "Graphs",
+      "Dynamic programming",
+      "Linux",
+      "Docker",
+      "Cloud infrastructure",
+      "SQL queries",
+      "PostgreSQL",
+      "Distributed backend microservices",
+      "Scalable systems"
+    ],
+    "raw_text": "Software Engineer at Google LLC.\n    Responsibilities:\n    - Build distributed backend microservices using Python, C++, and Go.\n    - Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming.\n    - Architect scalable systems with Linux, Docker, and Cloud infrastructure.\n    - Write robust SQL queries for PostgreSQL databases.",
+    "analyzed_at": "2026-10-29T06:35:40.955842+00:00"
+  },
+  {
+    "id": "jd-bde187eb",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Microsoft Corporation. Identified 4 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "proficient in Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "proficient in DSA",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "proficient in SQL",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "Cloud Systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "DSA",
+      "SQL",
+      "Cloud Systems"
+    ],
+    "raw_text": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems.",
+    "analyzed_at": "2026-10-29T06:32:45.318942+00:00"
+  },
+  {
+    "id": "jd-fd30f1ba",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Google LLC. Identified 12 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "using Python",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "C++",
+        "category_code": "COD",
+        "evidence": "using C++",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "using Go",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Data Structures and Algorithms",
+        "category_code": "DSA",
+        "evidence": "Deep knowledge of Data Structures and Algorithms (DSA)",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "trees",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Graphs",
+        "category_code": "DSA",
+        "evidence": "graphs",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Dynamic programming",
+        "category_code": "DSA",
+        "evidence": "dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "Linux",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Docker",
+        "category_code": "CLOUD",
+        "evidence": "Docker",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Cloud infrastructure",
+        "category_code": "CLOUD",
+        "evidence": "Cloud infrastructure",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL queries",
+        "category_code": "SQL",
+        "evidence": "SQL queries",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "PostgreSQL databases",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "C++",
+      "Go",
+      "Data Structures and Algorithms",
+      "Trees",
+      "Graphs",
+      "Dynamic programming",
+      "Linux",
+      "Docker",
+      "Cloud infrastructure",
+      "SQL queries",
+      "PostgreSQL"
+    ],
+    "raw_text": "Software Engineer at Google LLC.\n    Responsibilities:\n    - Build distributed backend microservices using Python, C++, and Go.\n    - Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming.\n    - Architect scalable systems with Linux, Docker, and Cloud infrastructure.\n    - Write robust SQL queries for PostgreSQL databases.",
+    "analyzed_at": "2026-10-29T06:32:38.435222+00:00"
+  },
+  {
+    "id": "jd-07ef3fe2",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Microsoft Corporation. Identified 2 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "SQL"
+    ],
+    "raw_text": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems.",
+    "analyzed_at": "2026-10-29T06:23:16.857055+00:00"
+  },
+  {
+    "id": "jd-0f1d4a67",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Google LLC. Identified 11 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "- Build distributed backend microservices using Python, C++, and Go",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "Software Engineer at Google LLC",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Algorithms",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Dynamic Programming",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Docker",
+        "category_code": "CLOUD",
+        "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "- Write robust SQL queries for PostgreSQL databases",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "- Write robust SQL queries for PostgreSQL databases",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Microservices",
+        "category_code": "SYSD",
+        "evidence": "- Build distributed backend microservices using Python, C++, and Go",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "Go",
+      "Data Structures",
+      "Algorithms",
+      "Dynamic Programming",
+      "Trees",
+      "Docker",
+      "SQL",
+      "PostgreSQL",
+      "Microservices",
+      "Linux"
+    ],
+    "raw_text": "Software Engineer at Google LLC.\n    Responsibilities:\n    - Build distributed backend microservices using Python, C++, and Go.\n    - Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming.\n    - Architect scalable systems with Linux, Docker, and Cloud infrastructure.\n    - Write robust SQL queries for PostgreSQL databases.",
+    "analyzed_at": "2026-10-29T06:23:12.972528+00:00"
+  },
+  {
+    "id": "jd-60376c95",
+    "source_type": "jd",
+    "source_file": "Oracle - Application Support Analyst.pdf",
+    "company": "Oracle",
+    "role": "Application Support Analyst",
+    "location": "Not specified",
+    "summary": "Application Support Analyst at Oracle. Identified 5 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Communication",
+        "category_code": "COMM",
+        "evidence": "\u2022 Excellent communication skills \u2014 able to explain a technical issue to a non-technical",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "\u2022 Comfort with basic SQL \u2014 simple SELECT/WHERE queries and an understanding of",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Networking",
+        "category_code": "NETW",
+        "evidence": "\u2022 Basic networking knowledge \u2014 what an IP address is, client-server architecture",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "\u2022 Operating systems and Linux fundamentals \u2014 basic command-line usage, what a log",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Operating Systems",
+        "category_code": "OS",
+        "evidence": "\u2022 Operating systems and Linux fundamentals \u2014 basic command-line usage, what a log",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Communication",
+      "SQL",
+      "Networking",
+      "Linux",
+      "Operating Systems"
+    ],
+    "raw_text": "Oracle Financial Services Software Limited \u2014 Application Support \nAnalyst \nRole Category: Support / Operations \n  Bengaluru / Chennai, India   \u00b7   Full-Time   \u00b7   \u20b94,50,000 CTC   Shift allowance and annual \nperformance bonus \nRole Overview \nProvide L2/L3 application support for Oracle Financial Services products used by global \nbanking clients \u2014 a support and troubleshooting role with real client-facing responsibility, not \na pure development role. \nKey Responsibilities \n\u2022 Triage, investigate, and resolve incidents raised by banking clients within SLA \n\u2022 Query production databases to diagnose issues \n\u2022 Coordinate with development teams on escalations that require a code fix \n\u2022 Monitor logs and batch/real-time processes to catch issues early \n\u2022 Communicate clearly and calmly with clients during incidents \nWhat We're Looking For \n\u2022 Comfort with basic SQL \u2014 simple SELECT/WHERE queries and an understanding of \nprimary keys \n\u2022 Operating systems and Linux fundamentals \u2014 basic command-line usage, what a log \nfile is, batch vs. real-time processing \n\u2022 Basic networking knowledge \u2014 what an IP address is, client-server architecture \nfundamentals, and what \u201clatency\u201d means in practice \n\u2022 Strong quantitative and logical reasoning \u2014 data interpretation from tables, arithmetic, \nand structured problem-solving \n\u2022 Excellent communication skills \u2014 able to explain a technical issue to a non-technical \nclient, stay calm during an escalation, and document what happened clearly \n\u2022 Willingness to work in shifts and directly support global clients \nNice to Have \nPrior exposure to a ticketing/incident system; coursework in networking or systems \nadministration. \nBenefits \nMedical insurance, night shift allowance, transport facility, paid leaves.",
+    "analyzed_at": "2026-10-29T04:45:42.512998+00:00"
+  },
+  {
+    "id": "jd-703d92dd",
+    "source_type": "jd",
+    "source_file": "Oracle - Application Support Analyst.pdf",
+    "company": "Oracle",
+    "role": "Application Support Analyst",
+    "location": "Not specified",
+    "summary": "Application Support Analyst at Oracle. Identified 5 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Communication",
+        "category_code": "COMM",
+        "evidence": "\u2022 Excellent communication skills \u2014 able to explain a technical issue to a non-technical",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "\u2022 Comfort with basic SQL \u2014 simple SELECT/WHERE queries and an understanding of",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Networking",
+        "category_code": "NETW",
+        "evidence": "\u2022 Basic networking knowledge \u2014 what an IP address is, client-server architecture",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "\u2022 Operating systems and Linux fundamentals \u2014 basic command-line usage, what a log",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Operating Systems",
+        "category_code": "OS",
+        "evidence": "\u2022 Operating systems and Linux fundamentals \u2014 basic command-line usage, what a log",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Communication",
+      "SQL",
+      "Networking",
+      "Linux",
+      "Operating Systems"
+    ],
+    "raw_text": "Oracle Financial Services Software Limited \u2014 Application Support \nAnalyst \nRole Category: Support / Operations \n  Bengaluru / Chennai, India   \u00b7   Full-Time   \u00b7   \u20b94,50,000 CTC   Shift allowance and annual \nperformance bonus \nRole Overview \nProvide L2/L3 application support for Oracle Financial Services products used by global \nbanking clients \u2014 a support and troubleshooting role with real client-facing responsibility, not \na pure development role. \nKey Responsibilities \n\u2022 Triage, investigate, and resolve incidents raised by banking clients within SLA \n\u2022 Query production databases to diagnose issues \n\u2022 Coordinate with development teams on escalations that require a code fix \n\u2022 Monitor logs and batch/real-time processes to catch issues early \n\u2022 Communicate clearly and calmly with clients during incidents \nWhat We're Looking For \n\u2022 Comfort with basic SQL \u2014 simple SELECT/WHERE queries and an understanding of \nprimary keys \n\u2022 Operating systems and Linux fundamentals \u2014 basic command-line usage, what a log \nfile is, batch vs. real-time processing \n\u2022 Basic networking knowledge \u2014 what an IP address is, client-server architecture \nfundamentals, and what \u201clatency\u201d means in practice \n\u2022 Strong quantitative and logical reasoning \u2014 data interpretation from tables, arithmetic, \nand structured problem-solving \n\u2022 Excellent communication skills \u2014 able to explain a technical issue to a non-technical \nclient, stay calm during an escalation, and document what happened clearly \n\u2022 Willingness to work in shifts and directly support global clients \nNice to Have \nPrior exposure to a ticketing/incident system; coursework in networking or systems \nadministration. \nBenefits \nMedical insurance, night shift allowance, transport facility, paid leaves.",
+    "analyzed_at": "2026-10-29T04:45:40.632754+00:00"
+  },
+  {
+    "id": "jd-2aa68038",
+    "source_type": "jd",
+    "source_file": "Microsoft - Software Engineer.pdf",
+    "company": "Microsoft",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Microsoft. Identified 13 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "\u2022 Strong data structures and algorithms fundamentals \u2014 hash maps, trees, and",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Algorithms",
+        "category_code": "DSA",
+        "evidence": "\u2022 Strong data structures and algorithms fundamentals \u2014 hash maps, trees, and",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "\u2022 Strong data structures and algorithms fundamentals \u2014 hash maps, trees, and",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Object-Oriented Design",
+        "category_code": "OOD",
+        "evidence": "\u2022 Understanding of object-oriented design and SOLID principles, and how to design",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SOLID Principles",
+        "category_code": "OOD",
+        "evidence": "\u2022 Understanding of object-oriented design and SOLID principles, and how to design",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Communication",
+        "category_code": "COMM",
+        "evidence": "\u2022 Strong communication \u2014 able to describe a hard problem you solved and how you",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Azure",
+        "category_code": "CLOUD",
+        "evidence": "Join a team building scalable software across Microsoft products such as Azure, Microsoft",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Software Engineering",
+        "category_code": "SWE",
+        "evidence": "\u2022 Software engineering maturity \u2014 clean code habits, a real testing strategy, and",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Agile",
+        "category_code": "SWE",
+        "evidence": "\u2022 Participate in Agile ceremonies and design reviews with your team",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Scalability",
+        "category_code": "SYSD",
+        "evidence": "service and reason about scalability and fault tolerance",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Networking",
+        "category_code": "NETW",
+        "evidence": "concurrency primitives) and core networking (REST APIs, timeouts, request lifecycle)",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Operating Systems",
+        "category_code": "OS",
+        "evidence": "\u2022 Working knowledge of operating systems (process scheduling, virtual memory,",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Concurrency",
+        "category_code": "OS",
+        "evidence": "concurrency primitives) and core networking (REST APIs, timeouts, request lifecycle)",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Data Structures",
+      "Algorithms",
+      "Trees",
+      "Object-Oriented Design",
+      "SOLID Principles",
+      "Communication",
+      "Azure",
+      "Software Engineering",
+      "Agile",
+      "Scalability",
+      "Networking",
+      "Operating Systems",
+      "Concurrency"
+    ],
+    "raw_text": "Microsoft Corporation \u2014 Software Engineer \nRole Category: SDE \n  Hyderabad, India   \u00b7   Full-Time   \u00b7   \u20b928,00,000 CTC   Joining bonus, annual performance bonus, stock \nawards (RSUs) \nRole Overview \nJoin a team building scalable software across Microsoft products such as Azure, Microsoft \n365, and Windows. You'll own features end to end, from design through production. \nKey Responsibilities \n\u2022 Design, build, and maintain scalable, reliable software components \n\u2022 Participate in Agile ceremonies and design reviews with your team \n\u2022 Write clean, efficient code and hold a high bar in code review \n\u2022 Ensure reliability, security, and performance of the systems you own \n\u2022 Work cross-functionally with PM and design to refine requirements \nWhat We're Looking For \n\u2022 Strong data structures and algorithms fundamentals \u2014 hash maps, trees, and \ncomplexity analysis, applied confidently under time pressure \n\u2022 Practical coding skills \u2014 pattern matching, interval problems, and writing code that \nperforms well on large inputs \n\u2022 Working knowledge of operating systems (process scheduling, virtual memory, \nconcurrency primitives) and core networking (REST APIs, timeouts, request lifecycle) \n\u2022 Ability to design at the system level \u2014 sketch a cloud-based storage or notification \nservice and reason about scalability and fault tolerance \n\u2022 Understanding of object-oriented design and SOLID principles, and how to design \nsoftware that's easy to extend \n\u2022 Software engineering maturity \u2014 clean code habits, a real testing strategy, and \ncomfort talking about technical debt honestly \n\u2022 Strong communication \u2014 able to describe a hard problem you solved and how you \ncollaborate across teams \nNice to Have \nExposure to cloud infrastructure (Azure or similar); contributions to a shared codebase in a \nteam setting. \nBenefits \nComprehensive health insurance, RSUs, flexible work arrangements, learning and \ncertification budget, wellness programs.",
+    "analyzed_at": "2026-10-29T04:34:40.694728+00:00"
+  },
+  {
+    "id": "jd-dbcf23f8",
+    "source_type": "jd",
+    "source_file": "Oracle - Associate Software Engineer.pdf",
+    "company": "Oracle",
+    "role": "Associate Software Engineer",
+    "location": "Not specified",
+    "summary": "Associate Software Engineer at Oracle. Identified 8 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "\u2022 Core data structures knowledge \u2014 arrays vs",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Quantitative Aptitude",
+        "category_code": "APTI",
+        "evidence": "\u2022 Strong quantitative aptitude \u2014 time-and-work, ratios, percentages, and logical/seating-",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Communication",
+        "category_code": "COMM",
+        "evidence": "\u2022 Clear communication and a collaborative attitude \u2014 comfortable explaining your final-",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "\u2022 Practical SQL knowledge \u2014 correct SELECT/WHERE syntax, understanding of",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Unit Testing",
+        "category_code": "SWE",
+        "evidence": "\u2022 Perform unit testing and collaborate closely with QA",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Agile",
+        "category_code": "SWE",
+        "evidence": "development, customization, and support in an Agile environment",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Operating Systems",
+        "category_code": "OS",
+        "evidence": "\u2022 Operating systems basics \u2014 what a process is, fundamentals of multithreading and",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Multithreading",
+        "category_code": "OS",
+        "evidence": "\u2022 Operating systems basics \u2014 what a process is, fundamentals of multithreading and",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Data Structures",
+      "Quantitative Aptitude",
+      "Communication",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Operating Systems",
+      "Multithreading"
+    ],
+    "raw_text": "Oracle Financial Services Software Limited \u2014 Associate Software \nEngineer \nRole Category: SDE \n  Bengaluru / Mumbai, India   \u00b7   Full-Time   \u00b7   \u20b95,50,000 CTC   Annual performance bonus based on \nindividual and team performance \nRole Overview \nJoin the team building and maintaining enterprise-grade banking and financial services \nproducts such as FLEXCUBE and OBDX, used by banks globally. You'll work across \ndevelopment, customization, and support in an Agile environment. \nKey Responsibilities \n\u2022 Develop, customize, and maintain modules within our banking product suite \n\u2022 Write and debug code, and interact directly with relational databases \n\u2022 Perform unit testing and collaborate closely with QA \n\u2022 Participate in Agile ceremonies and coordinate with product teams \n\u2022 Document your work clearly for future maintainers \nWhat We're Looking For \n\u2022 Solid programming fundamentals \u2014 able to read and predict the output of code, and \nsolve basic string/array manipulation problems confidently \n\u2022 Practical SQL knowledge \u2014 correct SELECT/WHERE syntax, understanding of \nDELETE vs. TRUNCATE, and comfort writing simple queries against a relational \nschema \n\u2022 Core data structures knowledge \u2014 arrays vs. linked lists, when to use a stack or a \nqueue, and basic algorithmic problem-solving \n\u2022 Object-oriented programming fundamentals \u2014 inheritance, polymorphism, abstract \nclasses vs. interfaces, explained with real examples \n\u2022 Operating systems basics \u2014 what a process is, fundamentals of multithreading and \nmemory management \n\u2022 Strong quantitative aptitude \u2014 time-and-work, ratios, percentages, and logical/seating-\narrangement style reasoning \n\u2022 Clear communication and a collaborative attitude \u2014 comfortable explaining your final-\nyear project and working under deadline pressure \n\u2022 Awareness of the software development lifecycle and the difference between Agile and \nWaterfall, and why documentation matters \nNice to Have \nCoursework or a project in banking/financial systems; willingness to work in shifts or from \nclient locations. \nBenefits \nHealth insurance, provident fund, gratuity, learning and certification programs, subsidized \nmeals.",
+    "analyzed_at": "2026-10-29T04:34:23.761533+00:00"
+  },
+  {
+    "id": "jd-77ed0e39",
+    "source_type": "jd",
+    "source_file": "Oracle - Associate Software Engineer.pdf",
+    "company": "Oracle",
+    "role": "Associate Software Engineer",
+    "location": "Not specified",
+    "summary": "Associate Software Engineer at Oracle. Identified 8 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "\u2022 Core data structures knowledge \u2014 arrays vs",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Quantitative Aptitude",
+        "category_code": "APTI",
+        "evidence": "\u2022 Strong quantitative aptitude \u2014 time-and-work, ratios, percentages, and logical/seating-",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Communication",
+        "category_code": "COMM",
+        "evidence": "\u2022 Clear communication and a collaborative attitude \u2014 comfortable explaining your final-",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "\u2022 Practical SQL knowledge \u2014 correct SELECT/WHERE syntax, understanding of",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Unit Testing",
+        "category_code": "SWE",
+        "evidence": "\u2022 Perform unit testing and collaborate closely with QA",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Agile",
+        "category_code": "SWE",
+        "evidence": "development, customization, and support in an Agile environment",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Operating Systems",
+        "category_code": "OS",
+        "evidence": "\u2022 Operating systems basics \u2014 what a process is, fundamentals of multithreading and",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Multithreading",
+        "category_code": "OS",
+        "evidence": "\u2022 Operating systems basics \u2014 what a process is, fundamentals of multithreading and",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Data Structures",
+      "Quantitative Aptitude",
+      "Communication",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Operating Systems",
+      "Multithreading"
+    ],
+    "raw_text": "Oracle Financial Services Software Limited \u2014 Associate Software \nEngineer \nRole Category: SDE \n  Bengaluru / Mumbai, India   \u00b7   Full-Time   \u00b7   \u20b95,50,000 CTC   Annual performance bonus based on \nindividual and team performance \nRole Overview \nJoin the team building and maintaining enterprise-grade banking and financial services \nproducts such as FLEXCUBE and OBDX, used by banks globally. You'll work across \ndevelopment, customization, and support in an Agile environment. \nKey Responsibilities \n\u2022 Develop, customize, and maintain modules within our banking product suite \n\u2022 Write and debug code, and interact directly with relational databases \n\u2022 Perform unit testing and collaborate closely with QA \n\u2022 Participate in Agile ceremonies and coordinate with product teams \n\u2022 Document your work clearly for future maintainers \nWhat We're Looking For \n\u2022 Solid programming fundamentals \u2014 able to read and predict the output of code, and \nsolve basic string/array manipulation problems confidently \n\u2022 Practical SQL knowledge \u2014 correct SELECT/WHERE syntax, understanding of \nDELETE vs. TRUNCATE, and comfort writing simple queries against a relational \nschema \n\u2022 Core data structures knowledge \u2014 arrays vs. linked lists, when to use a stack or a \nqueue, and basic algorithmic problem-solving \n\u2022 Object-oriented programming fundamentals \u2014 inheritance, polymorphism, abstract \nclasses vs. interfaces, explained with real examples \n\u2022 Operating systems basics \u2014 what a process is, fundamentals of multithreading and \nmemory management \n\u2022 Strong quantitative aptitude \u2014 time-and-work, ratios, percentages, and logical/seating-\narrangement style reasoning \n\u2022 Clear communication and a collaborative attitude \u2014 comfortable explaining your final-\nyear project and working under deadline pressure \n\u2022 Awareness of the software development lifecycle and the difference between Agile and \nWaterfall, and why documentation matters \nNice to Have \nCoursework or a project in banking/financial systems; willingness to work in shifts or from \nclient locations. \nBenefits \nHealth insurance, provident fund, gratuity, learning and certification programs, subsidized \nmeals.",
+    "analyzed_at": "2026-10-29T04:34:15.892006+00:00"
+  },
+  {
+    "id": "jd-1bd8fab8",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Microsoft Corporation. Identified 2 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "SQL"
+    ],
+    "raw_text": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems.",
+    "analyzed_at": "2026-10-28T22:30:27.592341+00:00"
+  },
+  {
+    "id": "jd-39fb5b89",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Microsoft Corporation. Identified 2 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "SQL"
+    ],
+    "raw_text": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems.",
+    "analyzed_at": "2026-10-28T22:29:58.388697+00:00"
+  },
+  {
+    "id": "jd-17fc0c14",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Microsoft Corporation. Identified 2 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "SQL"
+    ],
+    "raw_text": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems.",
+    "analyzed_at": "2026-10-28T21:11:34.535023+00:00"
+  },
+  {
+    "id": "jd-9ce1667f",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Google LLC. Identified 11 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "- Build distributed backend microservices using Python, C++, and Go",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "Software Engineer at Google LLC",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Algorithms",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Dynamic Programming",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Docker",
+        "category_code": "CLOUD",
+        "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "- Write robust SQL queries for PostgreSQL databases",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "- Write robust SQL queries for PostgreSQL databases",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Microservices",
+        "category_code": "SYSD",
+        "evidence": "- Build distributed backend microservices using Python, C++, and Go",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "Go",
+      "Data Structures",
+      "Algorithms",
+      "Dynamic Programming",
+      "Trees",
+      "Docker",
+      "SQL",
+      "PostgreSQL",
+      "Microservices",
+      "Linux"
+    ],
+    "raw_text": "Software Engineer at Google LLC.\n    Responsibilities:\n    - Build distributed backend microservices using Python, C++, and Go.\n    - Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming.\n    - Architect scalable systems with Linux, Docker, and Cloud infrastructure.\n    - Write robust SQL queries for PostgreSQL databases.",
+    "analyzed_at": "2026-10-28T21:11:29.366371+00:00"
+  },
+  {
+    "id": "jd-326071a8",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Microsoft Corporation. Identified 2 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "SQL"
+    ],
+    "raw_text": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems.",
+    "analyzed_at": "2026-10-28T19:15:26.068731+00:00"
+  },
+  {
+    "id": "jd-d82e7819",
+    "source_type": "jd",
+    "source_file": "Job_Description.txt",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "location": "Not specified",
+    "summary": "Software Engineer at Google LLC. Identified 11 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "- Build distributed backend microservices using Python, C++, and Go",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "Software Engineer at Google LLC",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Algorithms",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Dynamic Programming",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Docker",
+        "category_code": "CLOUD",
+        "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "- Write robust SQL queries for PostgreSQL databases",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "- Write robust SQL queries for PostgreSQL databases",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Microservices",
+        "category_code": "SYSD",
+        "evidence": "- Build distributed backend microservices using Python, C++, and Go",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Python",
+      "Go",
+      "Data Structures",
+      "Algorithms",
+      "Dynamic Programming",
+      "Trees",
+      "Docker",
+      "SQL",
+      "PostgreSQL",
+      "Microservices",
+      "Linux"
+    ],
+    "raw_text": "Software Engineer at Google LLC.\n    Responsibilities:\n    - Build distributed backend microservices using Python, C++, and Go.\n    - Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming.\n    - Architect scalable systems with Linux, Docker, and Cloud infrastructure.\n    - Write robust SQL queries for PostgreSQL databases.",
+    "analyzed_at": "2026-10-28T19:15:24.456018+00:00"
+  },
+  {
+    "id": "jd-c7bf4db9",
+    "source_type": "jd",
+    "source_file": "Microsoft - Software Engineer.pdf",
+    "company": "string",
+    "role": "string",
+    "location": "string",
+    "summary": "string at string. Identified 13 key competencies across RADIX categories.",
+    "skills": [
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "\u2022 Strong data structures and algorithms fundamentals \u2014 hash maps, trees, and",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Algorithms",
+        "category_code": "DSA",
+        "evidence": "\u2022 Strong data structures and algorithms fundamentals \u2014 hash maps, trees, and",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "\u2022 Strong data structures and algorithms fundamentals \u2014 hash maps, trees, and",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Object-Oriented Design",
+        "category_code": "OOD",
+        "evidence": "\u2022 Understanding of object-oriented design and SOLID principles, and how to design",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "SOLID Principles",
+        "category_code": "OOD",
+        "evidence": "\u2022 Understanding of object-oriented design and SOLID principles, and how to design",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Communication",
+        "category_code": "COMM",
+        "evidence": "\u2022 Strong communication \u2014 able to describe a hard problem you solved and how you",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Azure",
+        "category_code": "CLOUD",
+        "evidence": "Join a team building scalable software across Microsoft products such as Azure, Microsoft",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Software Engineering",
+        "category_code": "SWE",
+        "evidence": "\u2022 Software engineering maturity \u2014 clean code habits, a real testing strategy, and",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Agile",
+        "category_code": "SWE",
+        "evidence": "\u2022 Participate in Agile ceremonies and design reviews with your team",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Scalability",
+        "category_code": "SYSD",
+        "evidence": "service and reason about scalability and fault tolerance",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Networking",
+        "category_code": "NETW",
+        "evidence": "concurrency primitives) and core networking (REST APIs, timeouts, request lifecycle)",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Operating Systems",
+        "category_code": "OS",
+        "evidence": "\u2022 Working knowledge of operating systems (process scheduling, virtual memory,",
+        "confidence": "high"
+      },
+      {
+        "skill_name": "Concurrency",
+        "category_code": "OS",
+        "evidence": "concurrency primitives) and core networking (REST APIs, timeouts, request lifecycle)",
+        "confidence": "high"
+      }
+    ],
+    "required_technologies": [
+      "Data Structures",
+      "Algorithms",
+      "Trees",
+      "Object-Oriented Design",
+      "SOLID Principles",
+      "Communication",
+      "Azure",
+      "Software Engineering",
+      "Agile",
+      "Scalability",
+      "Networking",
+      "Operating Systems",
+      "Concurrency"
+    ],
+    "raw_text": "Microsoft Corporation \u2014 Software Engineer \nRole Category: SDE \n  Hyderabad, India   \u00b7   Full-Time   \u00b7   \u20b928,00,000 CTC   Joining bonus, annual performance bonus, stock \nawards (RSUs) \nRole Overview \nJoin a team building scalable software across Microsoft products such as Azure, Microsoft \n365, and Windows. You'll own features end to end, from design through production. \nKey Responsibilities \n\u2022 Design, build, and maintain scalable, reliable software components \n\u2022 Participate in Agile ceremonies and design reviews with your team \n\u2022 Write clean, efficient code and hold a high bar in code review \n\u2022 Ensure reliability, security, and performance of the systems you own \n\u2022 Work cross-functionally with PM and design to refine requirements \nWhat We're Looking For \n\u2022 Strong data structures and algorithms fundamentals \u2014 hash maps, trees, and \ncomplexity analysis, applied confidently under time pressure \n\u2022 Practical coding skills \u2014 pattern matching, interval problems, and writing code that \nperforms well on large inputs \n\u2022 Working knowledge of operating systems (process scheduling, virtual memory, \nconcurrency primitives) and core networking (REST APIs, timeouts, request lifecycle) \n\u2022 Ability to design at the system level \u2014 sketch a cloud-based storage or notification \nservice and reason about scalability and fault tolerance \n\u2022 Understanding of object-oriented design and SOLID principles, and how to design \nsoftware that's easy to extend \n\u2022 Software engineering maturity \u2014 clean code habits, a real testing strategy, and \ncomfort talking about technical debt honestly \n\u2022 Strong communication \u2014 able to describe a hard problem you solved and how you \ncollaborate across teams \nNice to Have \nExposure to cloud infrastructure (Azure or similar); contributions to a shared codebase in a \nteam setting. \nBenefits \nComprehensive health insurance, RSUs, flexible work arrangements, learning and \ncertification budget, wellness programs.",
+    "analyzed_at": "2026-10-28T17:23:27.988815+00:00"
+  }
+]

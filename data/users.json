@@ -1,0 +1,42 @@
+{
+  "6d0d6386-b722-4bd5-bfd5-49d24cf3923c": {
+    "id": "6d0d6386-b722-4bd5-bfd5-49d24cf3923c",
+    "email": "rohan.verma@radix.ai",
+    "name": "Rohan Verma",
+    "password_hash": "21281917e22a8ef3f08340d6bd002c94f6ca85affb97b5003801db93a689e642",
+    "salt": "e3b0b02eab6142d7071a8561b3bda7ee",
+    "created_at": "2026-10-29T07:38:28.508732+00:00"
+  },
+  "723bf135-9f63-4ddd-b172-3288463a88c0": {
+    "id": "723bf135-9f63-4ddd-b172-3288463a88c0",
+    "email": "ananya.rao@radix.ai",
+    "name": "Ananya Rao",
+    "password_hash": "b8be3c9242caa42301274239568493c4bab143e1534e19bb0f10b6d4f01d178a",
+    "salt": "c94232f9e855d712e7c0cd5434ab7981",
+    "created_at": "2026-10-29T07:38:28.525961+00:00"
+  },
+  "2c2d9d78-d6fe-4366-9db5-4f5db5741881": {
+    "id": "2c2d9d78-d6fe-4366-9db5-4f5db5741881",
+    "email": "candidate_1793259509@radix.ai",
+    "name": "New Candidate",
+    "password_hash": "a57ccee13150b834c9231bb88e8ec9bf3681f670226ea8945f0913f114ae292c",
+    "salt": "467f3342c9969e39f10738aecb5f1350",
+    "created_at": "2026-10-29T07:38:29.848516+00:00"
+  },
+  "dd8eac1c-37f5-4e43-8d1a-d2897aee3cff": {
+    "id": "dd8eac1c-37f5-4e43-8d1a-d2897aee3cff",
+    "email": "candidate_1793260059@radix.ai",
+    "name": "New Candidate",
+    "password_hash": "9c80b05ef325e3cd8edf0367e50b8c091c7c035f558aa07d38b682f5775990b5",
+    "salt": "dfa07f236fde0970f8526f66a058c906",
+    "created_at": "2026-10-29T07:47:40.382231+00:00"
+  },
+  "ab12bcb3-0fc3-4ac6-b309-9af6cab42adf": {
+    "id": "ab12bcb3-0fc3-4ac6-b309-9af6cab42adf",
+    "email": "candidate_1793262101@radix.ai",
+    "name": "New Candidate",
+    "password_hash": "43e06e8a418277907e668eda7ad0bb5a3c4da75bb6842996f85d4c6d487a7369",
+    "salt": "47690fba012c08aae912129e558bbb43",
+    "created_at": "2026-10-29T08:21:45.540249+00:00"
+  }
+}

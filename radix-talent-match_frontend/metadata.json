@@ -1,0 +1,6 @@
+{
+  "name": "RADIX Talent Match",
+  "description": "Candidate-centric job-readiness and skill-matching platform across the 12 RADIX competency categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

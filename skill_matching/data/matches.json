@@ -1,0 +1,3682 @@
+[
+  {
+    "id": "sm-1793226361",
+    "candidate_name": "Integration Test Candidate",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Google_SWE.pdf",
+    "match_score": 67,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Python SWE",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Python skill with level 9, directly matching the JD requirement."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Postgres",
+        "confidence": "high",
+        "proficiency_level": 8,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has SQL experience via Postgres, fulfilling the SQL requirement."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Rust",
+        "category_code": "COD",
+        "evidence": "Required",
+        "gap_explanation": "Candidate does not have any verified Rust skill or related experience.",
+        "recommendation": "Start learning Rust fundamentals, complete a small project (e.g., CLI tool or web service), and contribute to open-source Rust repos to build a portfolio."
+      }
+    ],
+    "partial_skills": [],
+    "gap_analysis": {
+      "total_jd_skills": 3,
+      "matched_count": 2,
+      "missing_count": 1,
+      "partial_count": 0,
+      "critical_gaps": [
+        {
+          "skill_name": "Rust",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate does not have any verified Rust skill or related experience.",
+          "recommendation": "Start learning Rust fundamentals, complete a small project (e.g., CLI tool or web service), and contribute to open-source Rust repos to build a portfolio."
+        }
+      ],
+      "moderate_gaps": [],
+      "top_recommendations": [
+        "Prioritize building project evidence for Rust (COD): Required"
+      ]
+    },
+    "evaluated_at": "2026-10-28T22:26:01.152871+00:00",
+    "saved_at": "2026-10-28T22:26:01.153042+00:00"
+  },
+  {
+    "id": "sm-1793226411",
+    "candidate_name": "Integration Test Candidate",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Google_SWE.pdf",
+    "match_score": 67,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Python SWE",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Python skill with level 9, directly matching the JD requirement."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Postgres",
+        "confidence": "high",
+        "proficiency_level": 8,
+        "match_type": "semantic",
+        "match_explanation": "Candidate demonstrates SQL proficiency through experience with Postgres, satisfying the SQL requirement."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Rust",
+        "category_code": "COD",
+        "evidence": "Required",
+        "gap_explanation": "Candidate does not have any verified Rust experience, which is a required skill for this role.",
+        "recommendation": "Begin learning Rust fundamentals, complete a small project (e.g., CLI tool or web service), and contribute to open-source Rust code to build a demonstrable skill set."
+      }
+    ],
+    "partial_skills": [],
+    "gap_analysis": {
+      "total_jd_skills": 3,
+      "matched_count": 2,
+      "missing_count": 1,
+      "partial_count": 0,
+      "critical_gaps": [
+        {
+          "skill_name": "Rust",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate does not have any verified Rust experience, which is a required skill for this role.",
+          "recommendation": "Begin learning Rust fundamentals, complete a small project (e.g., CLI tool or web service), and contribute to open-source Rust code to build a demonstrable skill set."
+        }
+      ],
+      "moderate_gaps": [],
+      "top_recommendations": [
+        "Prioritize building project evidence for Rust (COD): Required"
+      ]
+    },
+    "evaluated_at": "2026-10-28T22:26:51.003452+00:00",
+    "saved_at": "2026-10-28T22:26:51.003608+00:00"
+  },
+  {
+    "id": "sm-1793226596",
+    "candidate_name": "Ananya Rao",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Google_SWE_JD.pdf",
+    "match_score": 62,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has 9/10 level experience in Python, meeting the required proficiency."
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has 9/10 level experience in Data Structures, satisfying the requirement."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Kubernetes",
+        "category_code": "CLOUD",
+        "evidence": "Required",
+        "gap_explanation": "Lacks direct experience with Kubernetes clusters, deployment patterns, and service management.",
+        "recommendation": "Take an introductory Kubernetes course, set up a local cluster (e.g., Minikube), and deploy sample applications to build hands\u2011on experience."
+      },
+      {
+        "skill_name": "Rust",
+        "category_code": "COD",
+        "evidence": "Required",
+        "gap_explanation": "No evidence of Rust experience or related systems programming skills.",
+        "recommendation": "Start with a Rust fundamentals tutorial, build small projects, and explore concurrency and memory safety features to align with Google\u2019s Rust requirements."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "evidence": "Required"
+        },
+        "candidate_skill": {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "evidence": "Containerization",
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate\u2019s Docker experience demonstrates containerization knowledge, a foundational skill for Kubernetes orchestration.",
+        "gap_explanation": "Lacks direct experience with Kubernetes clusters, deployment patterns, and service management."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 2,
+      "missing_count": 2,
+      "partial_count": 1,
+      "critical_gaps": [
+        {
+          "skill_name": "Rust",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No evidence of Rust experience or related systems programming skills.",
+          "recommendation": "Start with a Rust fundamentals tutorial, build small projects, and explore concurrency and memory safety features to align with Google\u2019s Rust requirements."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "Lacks direct experience with Kubernetes clusters, deployment patterns, and service management.",
+          "recommendation": "Take an introductory Kubernetes course, set up a local cluster (e.g., Minikube), and deploy sample applications to build hands\u2011on experience."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Rust (COD): Required",
+        "Bridge adjacent gap in Kubernetes (CLOUD) by reviewing posting expectations: Required"
+      ]
+    },
+    "evaluated_at": "2026-10-28T22:29:56.750394+00:00",
+    "saved_at": "2026-10-28T22:29:56.750530+00:00"
+  },
+  {
+    "id": "sm-1793227147",
+    "candidate_name": "Ananya Rao",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "jd_source_file": "Job_Description.txt",
+    "match_score": 50,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Technical Skills list includes Python",
+        "confidence": "high",
+        "proficiency_level": 6,
+        "match_type": "semantic",
+        "match_explanation": "Candidate lists Python as a technical skill with level 6, directly matching JD requirement."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems",
+        "confidence": "high",
+        "gap_explanation": "Candidate lacks verified evidence of SQL database experience; no mention of relational database usage or SQL queries.",
+        "recommendation": "Acquire SQL experience by working on projects involving relational databases, practicing queries, and learning database design."
+      }
+    ],
+    "partial_skills": [],
+    "gap_analysis": {
+      "total_jd_skills": 2,
+      "matched_count": 1,
+      "missing_count": 1,
+      "partial_count": 0,
+      "critical_gaps": [
+        {
+          "skill_name": "SQL",
+          "category_code": "SQL",
+          "category_title": "Relational Databases & Data Modeling",
+          "confidence": "high",
+          "evidence": "Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate lacks verified evidence of SQL database experience; no mention of relational database usage or SQL queries.",
+          "recommendation": "Acquire SQL experience by working on projects involving relational databases, practicing queries, and learning database design."
+        }
+      ],
+      "moderate_gaps": [],
+      "top_recommendations": [
+        "Prioritize building project evidence for SQL (SQL): Looking for a Software Engineer proficient in Python, DSA, SQL, and Cloud Systems"
+      ]
+    },
+    "evaluated_at": "2026-10-28T22:39:07.780859+00:00",
+    "saved_at": "2026-10-28T22:39:07.780920+00:00"
+  },
+  {
+    "id": "sm-1793247949",
+    "candidate_name": "Ananya Rao",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Job_Description.txt",
+    "match_score": 59,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Technical Skills list includes Python",
+        "confidence": "high",
+        "proficiency_level": 6,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Python skill listed in technical skills."
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "Solved 350+ problems on competitive programming platforms; mentors juniors on DSA through the college coding club",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate solved 350+ problems and mentors juniors on DSA."
+      },
+      {
+        "skill_name": "Algorithms",
+        "category_code": "DSA",
+        "evidence": "Solved 350+ problems on competitive programming platforms; mentors juniors on DSA through the college coding club",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has extensive algorithmic problem-solving experience."
+      },
+      {
+        "skill_name": "Dynamic Programming",
+        "category_code": "DSA",
+        "evidence": "Solved 350+ problems on competitive programming platforms; mentors juniors on DSA through the college coding club",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has deep DP experience from competitive programming."
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "Solved 350+ problems on competitive programming platforms; mentors juniors on DSA through the college coding club",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has solved many tree-related problems."
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "Technical Skills list includes Linux",
+        "confidence": "high",
+        "proficiency_level": 6,
+        "match_type": "semantic",
+        "match_explanation": "Candidate lists Linux as a technical skill."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "Software Engineer at Google LLC",
+        "confidence": "high",
+        "gap_explanation": "No evidence of Go experience.",
+        "recommendation": "Learn Go fundamentals, build small projects and contribute to open-source Go code."
+      },
+      {
+        "skill_name": "Docker",
+        "category_code": "CLOUD",
+        "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+        "confidence": "high",
+        "gap_explanation": "No evidence of Docker usage.",
+        "recommendation": "Learn Docker, containerize a sample application, and deploy it to a cloud platform."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "- Write robust SQL queries for PostgreSQL databases",
+        "confidence": "high",
+        "gap_explanation": "No SQL query or database experience reported.",
+        "recommendation": "Study SQL fundamentals, practice queries on PostgreSQL or MySQL, and build a small data-driven project."
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "- Write robust SQL queries for PostgreSQL databases",
+        "confidence": "high",
+        "gap_explanation": "No PostgreSQL experience reported.",
+        "recommendation": "Learn PostgreSQL, set up a local instance, and perform CRUD operations and advanced queries."
+      },
+      {
+        "skill_name": "Microservices",
+        "category_code": "SYSD",
+        "evidence": "- Build distributed backend microservices using Python, C++, and Go",
+        "confidence": "high",
+        "gap_explanation": "Lacks explicit microservices architecture design and deployment experience.",
+        "recommendation": "Study microservices patterns (service discovery, API gateway, circuit breaker), and build a small microservice-based application."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "Microservices",
+          "category_code": "SYSD",
+          "evidence": "- Build distributed backend microservices using Python, C++, and Go",
+          "confidence": "high"
+        },
+        "candidate_skill": {
+          "skill_name": "Distributed systems",
+          "category_code": "SYSD",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high",
+          "level": 7.0,
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate built a distributed URL-shortening service with a Redis-backed cache and scalable API layer.",
+        "gap_explanation": "Lacks explicit microservices architecture design and deployment experience."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 11,
+      "matched_count": 6,
+      "missing_count": 5,
+      "partial_count": 1,
+      "critical_gaps": [
+        {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No evidence of Docker usage.",
+          "recommendation": "Learn Docker, containerize a sample application, and deploy it to a cloud platform."
+        },
+        {
+          "skill_name": "Go",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Software Engineer at Google LLC",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No evidence of Go experience.",
+          "recommendation": "Learn Go fundamentals, build small projects and contribute to open-source Go code."
+        },
+        {
+          "skill_name": "PostgreSQL",
+          "category_code": "SQL",
+          "category_title": "Relational Databases & Data Modeling",
+          "confidence": "high",
+          "evidence": "- Write robust SQL queries for PostgreSQL databases",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No PostgreSQL experience reported.",
+          "recommendation": "Learn PostgreSQL, set up a local instance, and perform CRUD operations and advanced queries."
+        },
+        {
+          "skill_name": "SQL",
+          "category_code": "SQL",
+          "category_title": "Relational Databases & Data Modeling",
+          "confidence": "high",
+          "evidence": "- Write robust SQL queries for PostgreSQL databases",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No SQL query or database experience reported.",
+          "recommendation": "Study SQL fundamentals, practice queries on PostgreSQL or MySQL, and build a small data-driven project."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "Microservices",
+          "category_code": "SYSD",
+          "category_title": "Distributed Systems & High-Throughput Architecture",
+          "confidence": "high",
+          "evidence": "- Build distributed backend microservices using Python, C++, and Go",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "Lacks explicit microservices architecture design and deployment experience.",
+          "recommendation": "Study microservices patterns (service discovery, API gateway, circuit breaker), and build a small microservice-based application."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Docker (CLOUD): - Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+        "Prioritize building project evidence for Go (COD): Software Engineer at Google LLC",
+        "Prioritize building project evidence for PostgreSQL (SQL): - Write robust SQL queries for PostgreSQL databases",
+        "Bridge adjacent gap in Microservices (SYSD) by reviewing posting expectations: - Build distributed backend microservices using Python, C++, and Go"
+      ]
+    },
+    "evaluated_at": "2026-10-29T04:25:49.452694+00:00",
+    "saved_at": "2026-10-29T04:25:49.453090+00:00"
+  },
+  {
+    "id": "sm-1793254995",
+    "candidate_name": "Ananya Rao",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Google_SWE_JD.pdf",
+    "match_score": 62,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Python experience with level 9, meeting the required proficiency."
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Data Structures experience with level 9, satisfying the requirement."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Kubernetes",
+        "category_code": "CLOUD",
+        "evidence": "Required",
+        "gap_explanation": "No direct Kubernetes experience or specific tooling demonstrated.",
+        "recommendation": "Take an introductory Kubernetes course and set up a small cluster to gain hands\u2011on experience."
+      },
+      {
+        "skill_name": "Rust",
+        "category_code": "COD",
+        "evidence": "Required",
+        "gap_explanation": "Candidate has no evidence of Rust experience.",
+        "recommendation": "Start learning Rust through tutorials and small projects to build foundational proficiency."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "evidence": "Required"
+        },
+        "candidate_skill": {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "evidence": "Containerization",
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate\u2019s Docker experience demonstrates containerization knowledge, a foundational skill for Kubernetes orchestration.",
+        "gap_explanation": "No direct Kubernetes experience or specific tooling demonstrated."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 2,
+      "missing_count": 2,
+      "partial_count": 1,
+      "critical_gaps": [
+        {
+          "skill_name": "Rust",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no evidence of Rust experience.",
+          "recommendation": "Start learning Rust through tutorials and small projects to build foundational proficiency."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "No direct Kubernetes experience or specific tooling demonstrated.",
+          "recommendation": "Take an introductory Kubernetes course and set up a small cluster to gain hands\u2011on experience."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Rust (COD): Required",
+        "Bridge adjacent gap in Kubernetes (CLOUD) by reviewing posting expectations: Required"
+      ]
+    },
+    "evaluated_at": "2026-10-29T06:23:15.765161+00:00",
+    "saved_at": "2026-10-29T06:23:15.765614+00:00"
+  },
+  {
+    "id": "sm-1793255562",
+    "candidate_name": "Ananya Rao",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Google_SWE_JD.pdf",
+    "match_score": 62,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Python experience with a level of 9, indicating strong proficiency."
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Data Structures experience with a level of 9, demonstrating deep knowledge."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Kubernetes",
+        "category_code": "CLOUD",
+        "evidence": "Required",
+        "gap_explanation": "No evidence of Kubernetes usage or deployment experience.",
+        "recommendation": "Gain hands\u2011on experience with Kubernetes through tutorials, labs, or contributing to open\u2011source projects."
+      },
+      {
+        "skill_name": "Rust",
+        "category_code": "COD",
+        "evidence": "Required",
+        "gap_explanation": "Candidate lacks any experience or evidence of Rust programming.",
+        "recommendation": "Start learning Rust via online courses, build small projects, and contribute to Rust communities to build proficiency."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "evidence": "Required"
+        },
+        "candidate_skill": {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "evidence": "Containerization",
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate has Docker containerization experience, showing familiarity with container technologies, but lacks explicit Kubernetes orchestration knowledge.",
+        "gap_explanation": "No evidence of Kubernetes usage or deployment experience."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 2,
+      "missing_count": 2,
+      "partial_count": 1,
+      "critical_gaps": [
+        {
+          "skill_name": "Rust",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate lacks any experience or evidence of Rust programming.",
+          "recommendation": "Start learning Rust via online courses, build small projects, and contribute to Rust communities to build proficiency."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "No evidence of Kubernetes usage or deployment experience.",
+          "recommendation": "Gain hands\u2011on experience with Kubernetes through tutorials, labs, or contributing to open\u2011source projects."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Rust (COD): Required",
+        "Bridge adjacent gap in Kubernetes (CLOUD) by reviewing posting expectations: Required"
+      ]
+    },
+    "evaluated_at": "2026-10-29T06:32:42.584494+00:00",
+    "saved_at": "2026-10-29T06:32:42.584557+00:00"
+  },
+  {
+    "id": "sm-1793255568",
+    "candidate_name": "Rohan Verma",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "jd_source_file": "Job_Description.txt",
+    "match_score": 100,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Proficient in Python backend development and microservices.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has proven proficiency in Python backend development and microservices, directly aligning with the JD requirement."
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "Solved 400+ problems across trees, graphs, and dynamic programming.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate solved 400+ problems across trees, graphs, and dynamic programming, demonstrating strong DSA skills."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Designed normalized schemas and optimized PostgreSQL queries.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate designed normalized schemas and optimized PostgreSQL queries, satisfying the SQL requirement."
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "Deployed containerized applications to AWS with Docker.",
+        "confidence": "high",
+        "proficiency_level": 7.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate deployed containerized applications to AWS with Docker, matching the cloud systems requirement."
+      }
+    ],
+    "missing_skills": [],
+    "partial_skills": [],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 4,
+      "missing_count": 0,
+      "partial_count": 0,
+      "critical_gaps": [],
+      "moderate_gaps": [],
+      "top_recommendations": [
+        "Candidate profile demonstrates 100% coverage across all extracted requirements for Software Engineer at Microsoft Corporation!"
+      ]
+    },
+    "evaluated_at": "2026-10-29T06:32:48.445851+00:00",
+    "saved_at": "2026-10-29T06:32:48.445945+00:00"
+  },
+  {
+    "id": "sm-1793255744",
+    "candidate_name": "Ananya Rao",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Google_SWE_JD.pdf",
+    "match_score": 62,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Python skill with level 9, directly matching JD requirement."
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Data Structures skill with level 9, directly matching JD requirement."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Kubernetes",
+        "category_code": "CLOUD",
+        "evidence": "Required",
+        "gap_explanation": "Lacks experience with Kubernetes cluster management, deployment, scaling, and service mesh.",
+        "recommendation": "Gain hands\u2011on experience with Kubernetes by deploying sample applications, learning kubectl, Helm, and cloud provider managed services."
+      },
+      {
+        "skill_name": "Rust",
+        "category_code": "COD",
+        "evidence": "Required",
+        "gap_explanation": "No evidence of Rust or related systems programming languages.",
+        "recommendation": "Start learning Rust fundamentals, complete a small project, and contribute to open-source Rust repos."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "evidence": "Required"
+        },
+        "candidate_skill": {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "evidence": "Containerization",
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate has Docker experience, which covers containerization fundamentals but not full Kubernetes orchestration.",
+        "gap_explanation": "Lacks experience with Kubernetes cluster management, deployment, scaling, and service mesh."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 2,
+      "missing_count": 2,
+      "partial_count": 1,
+      "critical_gaps": [
+        {
+          "skill_name": "Rust",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No evidence of Rust or related systems programming languages.",
+          "recommendation": "Start learning Rust fundamentals, complete a small project, and contribute to open-source Rust repos."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "Lacks experience with Kubernetes cluster management, deployment, scaling, and service mesh.",
+          "recommendation": "Gain hands\u2011on experience with Kubernetes by deploying sample applications, learning kubectl, Helm, and cloud provider managed services."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Rust (COD): Required",
+        "Bridge adjacent gap in Kubernetes (CLOUD) by reviewing posting expectations: Required"
+      ]
+    },
+    "evaluated_at": "2026-10-29T06:35:44.870666+00:00",
+    "saved_at": "2026-10-29T06:35:44.870713+00:00"
+  },
+  {
+    "id": "sm-1793255749",
+    "candidate_name": "Rohan Verma",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "jd_source_file": "Job_Description.txt",
+    "match_score": 100,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Proficient in Python backend development and microservices.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has a Python skill with proficiency in backend development and microservices, directly matching the JD requirement."
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "Solved 400+ problems across trees, graphs, and dynamic programming.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate solved 400+ problems across trees, graphs, and dynamic programming, demonstrating strong DSA skills."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Designed normalized schemas and optimized PostgreSQL queries.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate designed normalized schemas and optimized PostgreSQL queries, fulfilling the SQL requirement."
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "Deployed containerized applications to AWS with Docker.",
+        "confidence": "high",
+        "proficiency_level": 7.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate deployed containerized applications to AWS using Docker, aligning with the Cloud Systems requirement."
+      }
+    ],
+    "missing_skills": [],
+    "partial_skills": [],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 4,
+      "missing_count": 0,
+      "partial_count": 0,
+      "critical_gaps": [],
+      "moderate_gaps": [],
+      "top_recommendations": [
+        "Candidate profile demonstrates 100% coverage across all extracted requirements for Software Engineer at Microsoft Corporation!"
+      ]
+    },
+    "evaluated_at": "2026-10-29T06:35:49.834238+00:00",
+    "saved_at": "2026-10-29T06:35:49.834298+00:00"
+  },
+  {
+    "id": "sm-1793256404",
+    "candidate_name": "Ananya Rao",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Google_SWE_JD.pdf",
+    "match_score": 62,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has extensive experience in Python (level 9) matching the required skill."
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate demonstrates strong knowledge of data structures (level 9), directly fulfilling the requirement."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Kubernetes",
+        "category_code": "CLOUD",
+        "evidence": "Required",
+        "gap_explanation": "Lacks hands\u2011on experience with Kubernetes concepts such as deployments, services, Helm charts, and cluster administration.",
+        "recommendation": "Enroll in a Kubernetes fundamentals course, set up a local cluster (e.g., Minikube or kind), and deploy sample applications to gain practical exposure."
+      },
+      {
+        "skill_name": "Rust",
+        "category_code": "COD",
+        "evidence": "Required",
+        "gap_explanation": "Candidate has no verified experience with Rust, a required language for this role.",
+        "recommendation": "Start learning Rust through online tutorials, build small projects, and contribute to open\u2011source Rust repositories to build a demonstrable skill set."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "evidence": "Required"
+        },
+        "candidate_skill": {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "evidence": "Containerization",
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate has containerization experience with Docker, which is foundational for Kubernetes but does not cover orchestration, scaling, or cluster management.",
+        "gap_explanation": "Lacks hands\u2011on experience with Kubernetes concepts such as deployments, services, Helm charts, and cluster administration."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 2,
+      "missing_count": 2,
+      "partial_count": 1,
+      "critical_gaps": [
+        {
+          "skill_name": "Rust",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no verified experience with Rust, a required language for this role.",
+          "recommendation": "Start learning Rust through online tutorials, build small projects, and contribute to open\u2011source Rust repositories to build a demonstrable skill set."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "Lacks hands\u2011on experience with Kubernetes concepts such as deployments, services, Helm charts, and cluster administration.",
+          "recommendation": "Enroll in a Kubernetes fundamentals course, set up a local cluster (e.g., Minikube or kind), and deploy sample applications to gain practical exposure."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Rust (COD): Required",
+        "Bridge adjacent gap in Kubernetes (CLOUD) by reviewing posting expectations: Required"
+      ]
+    },
+    "evaluated_at": "2026-10-29T06:46:44.042067+00:00",
+    "saved_at": "2026-10-29T06:46:44.042132+00:00"
+  },
+  {
+    "id": "sm-1793256411",
+    "candidate_name": "Rohan Verma",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "jd_source_file": "Job_Description.txt",
+    "match_score": 100,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Proficient in Python backend development and microservices.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has proven proficiency in Python backend development and microservices."
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "Solved 400+ problems across trees, graphs, and dynamic programming.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate solved 400+ problems across trees, graphs, and dynamic programming."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Designed normalized schemas and optimized PostgreSQL queries.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate designed normalized schemas and optimized PostgreSQL queries."
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "Deployed containerized applications to AWS with Docker.",
+        "confidence": "high",
+        "proficiency_level": 7.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate deployed containerized applications to AWS using Docker."
+      }
+    ],
+    "missing_skills": [],
+    "partial_skills": [],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 4,
+      "missing_count": 0,
+      "partial_count": 0,
+      "critical_gaps": [],
+      "moderate_gaps": [],
+      "top_recommendations": [
+        "Candidate profile demonstrates 100% coverage across all extracted requirements for Software Engineer at Microsoft Corporation!"
+      ]
+    },
+    "evaluated_at": "2026-10-29T06:46:51.711181+00:00",
+    "saved_at": "2026-10-29T06:46:51.711318+00:00"
+  },
+  {
+    "id": "sm-1793257266",
+    "candidate_name": "Ananya Rao",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Google_SWE_JD.pdf",
+    "match_score": 62,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Python experience with level 9, meeting the required proficiency."
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Data Structures experience with level 9, satisfying the requirement."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Kubernetes",
+        "category_code": "CLOUD",
+        "evidence": "Required",
+        "gap_explanation": "No direct Kubernetes experience or specific tooling demonstrated.",
+        "recommendation": "Enroll in a Kubernetes fundamentals course and deploy a sample application to gain hands\u2011on experience."
+      },
+      {
+        "skill_name": "Rust",
+        "category_code": "COD",
+        "evidence": "Required",
+        "gap_explanation": "Candidate has no evidence of Rust proficiency.",
+        "recommendation": "Start with Rust tutorials, build small projects, and contribute to open\u2011source Rust repos to build a portfolio."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "evidence": "Required"
+        },
+        "candidate_skill": {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "evidence": "Containerization",
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate\u2019s Docker experience demonstrates containerization knowledge, a foundational skill for Kubernetes.",
+        "gap_explanation": "No direct Kubernetes experience or specific tooling demonstrated."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 2,
+      "missing_count": 2,
+      "partial_count": 1,
+      "critical_gaps": [
+        {
+          "skill_name": "Rust",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no evidence of Rust proficiency.",
+          "recommendation": "Start with Rust tutorials, build small projects, and contribute to open\u2011source Rust repos to build a portfolio."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "No direct Kubernetes experience or specific tooling demonstrated.",
+          "recommendation": "Enroll in a Kubernetes fundamentals course and deploy a sample application to gain hands\u2011on experience."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Rust (COD): Required",
+        "Bridge adjacent gap in Kubernetes (CLOUD) by reviewing posting expectations: Required"
+      ]
+    },
+    "evaluated_at": "2026-10-29T07:01:06.306591+00:00",
+    "saved_at": "2026-10-29T07:01:06.306647+00:00"
+  },
+  {
+    "id": "sm-1793257274",
+    "candidate_name": "Rohan Verma",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "jd_source_file": "Job_Description.txt",
+    "match_score": 100,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Proficient in Python backend development and microservices.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has proficiency in Python backend development and microservices."
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "Solved 400+ problems across trees, graphs, and dynamic programming.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate solved 400+ problems across trees, graphs, and dynamic programming."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Designed normalized schemas and optimized PostgreSQL queries.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate designed normalized schemas and optimized PostgreSQL queries."
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "Deployed containerized applications to AWS with Docker.",
+        "confidence": "high",
+        "proficiency_level": 7.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate deployed containerized applications to AWS with Docker."
+      }
+    ],
+    "missing_skills": [],
+    "partial_skills": [],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 4,
+      "missing_count": 0,
+      "partial_count": 0,
+      "critical_gaps": [],
+      "moderate_gaps": [],
+      "top_recommendations": [
+        "Candidate profile demonstrates 100% coverage across all extracted requirements for Software Engineer at Microsoft Corporation!"
+      ]
+    },
+    "evaluated_at": "2026-10-29T07:01:14.210078+00:00",
+    "saved_at": "2026-10-29T07:01:14.210120+00:00"
+  },
+  {
+    "id": "sm-1793257680",
+    "candidate_name": "Ananya Rao",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Google_SWE_JD.pdf",
+    "match_score": 62,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Python experience with level 9, meeting the high confidence requirement."
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Data Structures experience with level 9, satisfying the requirement."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Kubernetes",
+        "category_code": "CLOUD",
+        "evidence": "Required",
+        "gap_explanation": "No direct Kubernetes experience or tooling demonstrated.",
+        "recommendation": "Take an introductory Kubernetes course, set up a cluster, and deploy sample applications to build hands\u2011on experience."
+      },
+      {
+        "skill_name": "Rust",
+        "category_code": "COD",
+        "evidence": "Required",
+        "gap_explanation": "Candidate has no evidence of Rust proficiency.",
+        "recommendation": "Start with a Rust fundamentals tutorial, build small projects, and contribute to open\u2011source Rust code to gain practical experience."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "evidence": "Required"
+        },
+        "candidate_skill": {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "evidence": "Containerization",
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate\u2019s Docker experience demonstrates containerization knowledge, a foundational skill for Kubernetes orchestration.",
+        "gap_explanation": "No direct Kubernetes experience or tooling demonstrated."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 2,
+      "missing_count": 2,
+      "partial_count": 1,
+      "critical_gaps": [
+        {
+          "skill_name": "Rust",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no evidence of Rust proficiency.",
+          "recommendation": "Start with a Rust fundamentals tutorial, build small projects, and contribute to open\u2011source Rust code to gain practical experience."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "No direct Kubernetes experience or tooling demonstrated.",
+          "recommendation": "Take an introductory Kubernetes course, set up a cluster, and deploy sample applications to build hands\u2011on experience."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Rust (COD): Required",
+        "Bridge adjacent gap in Kubernetes (CLOUD) by reviewing posting expectations: Required"
+      ]
+    },
+    "evaluated_at": "2026-10-29T07:08:00.269884+00:00",
+    "saved_at": "2026-10-29T07:08:00.269935+00:00"
+  },
+  {
+    "id": "sm-1793257685",
+    "candidate_name": "Rohan Verma",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "jd_source_file": "Job_Description.txt",
+    "match_score": 100,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Proficient in Python backend development and microservices.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has proven proficiency in Python backend development and microservices."
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "Solved 400+ problems across trees, graphs, and dynamic programming.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate solved 400+ problems across trees, graphs, and dynamic programming, demonstrating strong DSA skills."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Designed normalized schemas and optimized PostgreSQL queries.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate designed normalized schemas and optimized PostgreSQL queries, indicating solid SQL expertise."
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "Deployed containerized applications to AWS with Docker.",
+        "confidence": "high",
+        "proficiency_level": 7.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate deployed containerized applications to AWS using Docker, covering cloud system deployment."
+      }
+    ],
+    "missing_skills": [],
+    "partial_skills": [],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 4,
+      "missing_count": 0,
+      "partial_count": 0,
+      "critical_gaps": [],
+      "moderate_gaps": [],
+      "top_recommendations": [
+        "Candidate profile demonstrates 100% coverage across all extracted requirements for Software Engineer at Microsoft Corporation!"
+      ]
+    },
+    "evaluated_at": "2026-10-29T07:08:05.873442+00:00",
+    "saved_at": "2026-10-29T07:08:05.873574+00:00"
+  },
+  {
+    "id": "sm-1793258173",
+    "candidate_name": "Ananya Rao",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Google_SWE_JD.pdf",
+    "match_score": 62,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Python skill with level 9, indicating strong proficiency."
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Data Structures skill with level 9, demonstrating deep understanding of core concepts."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Kubernetes",
+        "category_code": "CLOUD",
+        "evidence": "Required",
+        "gap_explanation": "Lacks direct experience with Kubernetes clusters, deployment patterns, and service management.",
+        "recommendation": "Enroll in a Kubernetes fundamentals course, set up a personal cluster, and practice deploying containerized applications."
+      },
+      {
+        "skill_name": "Rust",
+        "category_code": "COD",
+        "evidence": "Required",
+        "gap_explanation": "No evidence of Rust experience or related projects.",
+        "recommendation": "Start with a Rust introductory tutorial, build small projects, and explore systems programming concepts to gain proficiency."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "evidence": "Required"
+        },
+        "candidate_skill": {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "evidence": "Containerization",
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate\u2019s Docker experience shows containerization knowledge, a foundational skill for Kubernetes orchestration.",
+        "gap_explanation": "Lacks direct experience with Kubernetes clusters, deployment patterns, and service management."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 2,
+      "missing_count": 2,
+      "partial_count": 1,
+      "critical_gaps": [
+        {
+          "skill_name": "Rust",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No evidence of Rust experience or related projects.",
+          "recommendation": "Start with a Rust introductory tutorial, build small projects, and explore systems programming concepts to gain proficiency."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "Lacks direct experience with Kubernetes clusters, deployment patterns, and service management.",
+          "recommendation": "Enroll in a Kubernetes fundamentals course, set up a personal cluster, and practice deploying containerized applications."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Rust (COD): Required",
+        "Bridge adjacent gap in Kubernetes (CLOUD) by reviewing posting expectations: Required"
+      ]
+    },
+    "evaluated_at": "2026-10-29T07:16:13.525102+00:00",
+    "saved_at": "2026-10-29T07:16:13.525162+00:00"
+  },
+  {
+    "id": "sm-1793258180",
+    "candidate_name": "Rohan Verma",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "jd_source_file": "Job_Description.txt",
+    "match_score": 100,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Proficient in Python backend development and microservices.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has proven proficiency in Python backend development and microservices, directly matching the JD requirement."
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "Solved 400+ problems across trees, graphs, and dynamic programming.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate solved 400+ problems covering trees, graphs, and dynamic programming, satisfying the DSA requirement."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Designed normalized schemas and optimized PostgreSQL queries.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate designed normalized schemas and optimized PostgreSQL queries, aligning with the SQL requirement."
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "Deployed containerized applications to AWS with Docker.",
+        "confidence": "high",
+        "proficiency_level": 7.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate deployed containerized applications to AWS using Docker, fulfilling the Cloud Systems requirement."
+      }
+    ],
+    "missing_skills": [],
+    "partial_skills": [],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 4,
+      "missing_count": 0,
+      "partial_count": 0,
+      "critical_gaps": [],
+      "moderate_gaps": [],
+      "top_recommendations": [
+        "Candidate profile demonstrates 100% coverage across all extracted requirements for Software Engineer at Microsoft Corporation!"
+      ]
+    },
+    "evaluated_at": "2026-10-29T07:16:20.508580+00:00",
+    "saved_at": "2026-10-29T07:16:20.508632+00:00"
+  },
+  {
+    "id": "sm-1793259501",
+    "candidate_name": "Ananya Rao",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Google_SWE_JD.pdf",
+    "match_score": 62,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Python experience with level 9, meeting the required proficiency."
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Data Structures experience with level 9, satisfying the requirement."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Kubernetes",
+        "category_code": "CLOUD",
+        "evidence": "Required",
+        "gap_explanation": "No direct Kubernetes experience or specific tooling demonstrated.",
+        "recommendation": "Gain hands\u2011on experience with Kubernetes through tutorials, labs, or contributing to open\u2011source projects."
+      },
+      {
+        "skill_name": "Rust",
+        "category_code": "COD",
+        "evidence": "Required",
+        "gap_explanation": "Candidate has no evidence of Rust proficiency.",
+        "recommendation": "Start learning Rust via online courses, build small projects, and contribute to Rust communities to build relevant experience."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "evidence": "Required"
+        },
+        "candidate_skill": {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "evidence": "Containerization",
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate\u2019s Docker experience demonstrates containerization skills, a foundational competency for Kubernetes orchestration.",
+        "gap_explanation": "No direct Kubernetes experience or specific tooling demonstrated."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 2,
+      "missing_count": 2,
+      "partial_count": 1,
+      "critical_gaps": [
+        {
+          "skill_name": "Rust",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no evidence of Rust proficiency.",
+          "recommendation": "Start learning Rust via online courses, build small projects, and contribute to Rust communities to build relevant experience."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "No direct Kubernetes experience or specific tooling demonstrated.",
+          "recommendation": "Gain hands\u2011on experience with Kubernetes through tutorials, labs, or contributing to open\u2011source projects."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Rust (COD): Required",
+        "Bridge adjacent gap in Kubernetes (CLOUD) by reviewing posting expectations: Required"
+      ]
+    },
+    "evaluated_at": "2026-10-29T07:38:21.238168+00:00",
+    "saved_at": "2026-10-29T07:38:21.238217+00:00"
+  },
+  {
+    "id": "sm-1793259507",
+    "candidate_name": "Rohan Verma",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "jd_source_file": "Job_Description.txt",
+    "match_score": 100,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Proficient in Python backend development and microservices.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has proficiency in Python backend development and microservices."
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "Solved 400+ problems across trees, graphs, and dynamic programming.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate solved 400+ problems across trees, graphs, and dynamic programming."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Designed normalized schemas and optimized PostgreSQL queries.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate designed normalized schemas and optimized PostgreSQL queries."
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "Deployed containerized applications to AWS with Docker.",
+        "confidence": "high",
+        "proficiency_level": 7.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate deployed containerized applications to AWS with Docker."
+      }
+    ],
+    "missing_skills": [],
+    "partial_skills": [],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 4,
+      "missing_count": 0,
+      "partial_count": 0,
+      "critical_gaps": [],
+      "moderate_gaps": [],
+      "top_recommendations": [
+        "Candidate profile demonstrates 100% coverage across all extracted requirements for Software Engineer at Microsoft Corporation!"
+      ]
+    },
+    "evaluated_at": "2026-10-29T07:38:27.211442+00:00",
+    "saved_at": "2026-10-29T07:38:27.211482+00:00"
+  },
+  {
+    "id": "sm-1793260049",
+    "candidate_name": "Ananya Rao",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Google_SWE_JD.pdf",
+    "match_score": 62,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Python skill with level 9, indicating strong proficiency."
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Data Structures skill with level 9, demonstrating deep understanding of algorithms and data organization."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Kubernetes",
+        "category_code": "CLOUD",
+        "evidence": "Required",
+        "gap_explanation": "No explicit Kubernetes experience or knowledge of cluster management, scaling, or Helm charts.",
+        "recommendation": "Study Kubernetes fundamentals, set up a local cluster (e.g., Minikube), and complete a hands\u2011on project deploying a multi\u2011service application."
+      },
+      {
+        "skill_name": "Rust",
+        "category_code": "COD",
+        "evidence": "Required",
+        "gap_explanation": "Candidate lacks experience with Rust programming language and its ecosystem.",
+        "recommendation": "Begin with Rust fundamentals, complete a small project (e.g., CLI tool), and explore async programming and ownership concepts to build confidence."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "evidence": "Required"
+        },
+        "candidate_skill": {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "evidence": "Containerization",
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate\u2019s Docker experience shows familiarity with containerization, a foundational concept for Kubernetes orchestration.",
+        "gap_explanation": "No explicit Kubernetes experience or knowledge of cluster management, scaling, or Helm charts."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 2,
+      "missing_count": 2,
+      "partial_count": 1,
+      "critical_gaps": [
+        {
+          "skill_name": "Rust",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate lacks experience with Rust programming language and its ecosystem.",
+          "recommendation": "Begin with Rust fundamentals, complete a small project (e.g., CLI tool), and explore async programming and ownership concepts to build confidence."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "No explicit Kubernetes experience or knowledge of cluster management, scaling, or Helm charts.",
+          "recommendation": "Study Kubernetes fundamentals, set up a local cluster (e.g., Minikube), and complete a hands\u2011on project deploying a multi\u2011service application."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Rust (COD): Required",
+        "Bridge adjacent gap in Kubernetes (CLOUD) by reviewing posting expectations: Required"
+      ]
+    },
+    "evaluated_at": "2026-10-29T07:47:29.600400+00:00",
+    "saved_at": "2026-10-29T07:47:29.600471+00:00"
+  },
+  {
+    "id": "sm-1793260056",
+    "candidate_name": "Rohan Verma",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "jd_source_file": "Job_Description.txt",
+    "match_score": 100,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Proficient in Python backend development and microservices.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has a dedicated Python skill with backend development and microservices experience."
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "Solved 400+ problems across trees, graphs, and dynamic programming.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate solved 400+ problems across trees, graphs, and dynamic programming, demonstrating strong DSA proficiency."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Designed normalized schemas and optimized PostgreSQL queries.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate designed normalized schemas and optimized PostgreSQL queries, covering SQL database skills."
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "Deployed containerized applications to AWS with Docker.",
+        "confidence": "high",
+        "proficiency_level": 7.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate deployed containerized applications to AWS, fulfilling the generic Cloud Systems requirement."
+      }
+    ],
+    "missing_skills": [],
+    "partial_skills": [],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 4,
+      "missing_count": 0,
+      "partial_count": 0,
+      "critical_gaps": [],
+      "moderate_gaps": [],
+      "top_recommendations": [
+        "Candidate profile demonstrates 100% coverage across all extracted requirements for Software Engineer at Microsoft Corporation!"
+      ]
+    },
+    "evaluated_at": "2026-10-29T07:47:36.261581+00:00",
+    "saved_at": "2026-10-29T07:47:36.261638+00:00"
+  },
+  {
+    "id": "sm-1793261256",
+    "candidate_name": "Karthik Subramaniam",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Job_Description.txt",
+    "match_score": 23,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Built an end-to-end churn-prediction pipeline (SQL extraction \u2192 feature engineering \u2192 logistic regression model) on a public e-commerce dataset",
+        "confidence": "high",
+        "proficiency_level": 8,
+        "match_type": "semantic",
+        "match_explanation": "Candidate explicitly lists Python with level 8 and evidence of building a churn\u2011prediction pipeline using Python."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Built an end-to-end churn-prediction pipeline (SQL extraction \u2192 feature engineering \u2192 logistic regression model) on a public e-commerce dataset",
+        "confidence": "high",
+        "proficiency_level": 8,
+        "match_type": "semantic",
+        "match_explanation": "Candidate lists SQL with level 8 and evidence of building a pipeline involving SQL extraction."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "Software Engineer at Google LLC",
+        "confidence": "high",
+        "gap_explanation": "Candidate has no evidence of using Go or related tools.",
+        "recommendation": "Learn Go fundamentals and build a small microservice to demonstrate proficiency."
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high",
+        "gap_explanation": "No explicit mention of data structures knowledge or related coursework.",
+        "recommendation": "Study core data structures (arrays, linked lists, trees, graphs) and practice implementing them in Python."
+      },
+      {
+        "skill_name": "Algorithms",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high",
+        "gap_explanation": "Candidate lacks demonstrated algorithmic problem solving beyond basic ML models.",
+        "recommendation": "Solve algorithmic problems on platforms like LeetCode or Codeforces to build algorithmic fluency."
+      },
+      {
+        "skill_name": "Dynamic Programming",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high",
+        "gap_explanation": "No evidence of dynamic programming techniques.",
+        "recommendation": "Practice DP problems (knapsack, LCS, etc.) and document solutions."
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high",
+        "gap_explanation": "No mention of tree data structures or related algorithms.",
+        "recommendation": "Implement binary trees, AVL trees, and graph traversal algorithms in Python."
+      },
+      {
+        "skill_name": "Docker",
+        "category_code": "CLOUD",
+        "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+        "confidence": "high",
+        "gap_explanation": "Candidate has no Docker experience.",
+        "recommendation": "Set up a Docker environment, containerize a simple Python app, and learn Dockerfile best practices."
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "- Write robust SQL queries for PostgreSQL databases",
+        "confidence": "high",
+        "gap_explanation": "Lack of direct PostgreSQL experience may limit familiarity with its specific features (e.g., JSONB, extensions).",
+        "recommendation": "Install PostgreSQL locally, practice writing queries, and learn PostgreSQL\u2011specific features."
+      },
+      {
+        "skill_name": "Microservices",
+        "category_code": "SYSD",
+        "evidence": "- Build distributed backend microservices using Python, C++, and Go",
+        "confidence": "high",
+        "gap_explanation": "No evidence of designing or building microservices.",
+        "recommendation": "Build a simple microservice architecture using Flask or FastAPI, deploy with Docker, and expose REST endpoints."
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+        "confidence": "high",
+        "gap_explanation": "Candidate has no Linux experience mentioned.",
+        "recommendation": "Use a Linux distribution (e.g., Ubuntu) for development, learn shell scripting, and manage services with systemd."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "PostgreSQL",
+          "category_code": "SQL",
+          "evidence": "- Write robust SQL queries for PostgreSQL databases",
+          "confidence": "high"
+        },
+        "candidate_skill": {
+          "skill_name": "SQL",
+          "category_code": "SQL",
+          "evidence": "Built an end-to-end churn-prediction pipeline (SQL extraction \u2192 feature engineering \u2192 logistic regression model) on a public e-commerce dataset",
+          "confidence": "high",
+          "level": 8,
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate has SQL skills but no explicit mention of PostgreSQL; SQL knowledge generally applies to PostgreSQL.",
+        "gap_explanation": "Lack of direct PostgreSQL experience may limit familiarity with its specific features (e.g., JSONB, extensions)."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 11,
+      "matched_count": 2,
+      "missing_count": 9,
+      "partial_count": 1,
+      "critical_gaps": [
+        {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no Docker experience.",
+          "recommendation": "Set up a Docker environment, containerize a simple Python app, and learn Dockerfile best practices."
+        },
+        {
+          "skill_name": "Go",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Software Engineer at Google LLC",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no evidence of using Go or related tools.",
+          "recommendation": "Learn Go fundamentals and build a small microservice to demonstrate proficiency."
+        },
+        {
+          "skill_name": "Algorithms",
+          "category_code": "DSA",
+          "category_title": "Data Structures & Algorithms",
+          "confidence": "high",
+          "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate lacks demonstrated algorithmic problem solving beyond basic ML models.",
+          "recommendation": "Solve algorithmic problems on platforms like LeetCode or Codeforces to build algorithmic fluency."
+        },
+        {
+          "skill_name": "Data Structures",
+          "category_code": "DSA",
+          "category_title": "Data Structures & Algorithms",
+          "confidence": "high",
+          "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No explicit mention of data structures knowledge or related coursework.",
+          "recommendation": "Study core data structures (arrays, linked lists, trees, graphs) and practice implementing them in Python."
+        },
+        {
+          "skill_name": "Dynamic Programming",
+          "category_code": "DSA",
+          "category_title": "Data Structures & Algorithms",
+          "confidence": "high",
+          "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No evidence of dynamic programming techniques.",
+          "recommendation": "Practice DP problems (knapsack, LCS, etc.) and document solutions."
+        },
+        {
+          "skill_name": "Trees",
+          "category_code": "DSA",
+          "category_title": "Data Structures & Algorithms",
+          "confidence": "high",
+          "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No mention of tree data structures or related algorithms.",
+          "recommendation": "Implement binary trees, AVL trees, and graph traversal algorithms in Python."
+        },
+        {
+          "skill_name": "Linux",
+          "category_code": "OS",
+          "category_title": "Operating Systems & Concurrency",
+          "confidence": "high",
+          "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no Linux experience mentioned.",
+          "recommendation": "Use a Linux distribution (e.g., Ubuntu) for development, learn shell scripting, and manage services with systemd."
+        },
+        {
+          "skill_name": "Microservices",
+          "category_code": "SYSD",
+          "category_title": "Distributed Systems & High-Throughput Architecture",
+          "confidence": "high",
+          "evidence": "- Build distributed backend microservices using Python, C++, and Go",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No evidence of designing or building microservices.",
+          "recommendation": "Build a simple microservice architecture using Flask or FastAPI, deploy with Docker, and expose REST endpoints."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "PostgreSQL",
+          "category_code": "SQL",
+          "category_title": "Relational Databases & Data Modeling",
+          "confidence": "high",
+          "evidence": "- Write robust SQL queries for PostgreSQL databases",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "Lack of direct PostgreSQL experience may limit familiarity with its specific features (e.g., JSONB, extensions).",
+          "recommendation": "Install PostgreSQL locally, practice writing queries, and learn PostgreSQL\u2011specific features."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Docker (CLOUD): - Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+        "Prioritize building project evidence for Go (COD): Software Engineer at Google LLC",
+        "Prioritize building project evidence for Algorithms (DSA): - Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "Bridge adjacent gap in PostgreSQL (SQL) by reviewing posting expectations: - Write robust SQL queries for PostgreSQL databases"
+      ]
+    },
+    "evaluated_at": "2026-10-29T08:07:36.402513+00:00",
+    "saved_at": "2026-10-29T08:07:36.403379+00:00"
+  },
+  {
+    "id": "sm-1793261296",
+    "candidate_name": "Karthik Subramaniam",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Job_Description.txt",
+    "match_score": 27,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Built an end-to-end churn-prediction pipeline (SQL extraction \u2192 feature engineering \u2192 logistic regression model) on a public e-commerce dataset",
+        "confidence": "high",
+        "proficiency_level": 8,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Python skill (level\u202f8) and evidence of building an end\u2011to\u2011end churn\u2011prediction pipeline using Python."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Built an end-to-end churn-prediction pipeline (SQL extraction \u2192 feature engineering \u2192 logistic regression model) on a public e-commerce dataset",
+        "confidence": "high",
+        "proficiency_level": 8,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has SQL skill (level\u202f8) and evidence of building a pipeline with SQL extraction."
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "Built an end-to-end churn-prediction pipeline (SQL extraction \u2192 feature engineering \u2192 logistic regression model) on a public e-commerce dataset",
+        "confidence": "high",
+        "proficiency_level": 8,
+        "match_type": "semantic",
+        "match_explanation": "Candidate\u2019s SQL skill includes experience with PostgreSQL queries."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "Software Engineer at Google LLC",
+        "confidence": "high",
+        "gap_explanation": "Candidate has no evidence of Go programming or related experience.",
+        "recommendation": "Learn Go fundamentals, build small projects, and practice concurrency patterns to meet Google\u2019s Go requirement."
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high",
+        "gap_explanation": "Candidate has no evidence of data structures knowledge.",
+        "recommendation": "Study core data structures and algorithms, implement them in Python or Java, and solve algorithmic problems on platforms like LeetCode."
+      },
+      {
+        "skill_name": "Algorithms",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high",
+        "gap_explanation": "Candidate has no evidence of algorithmic design or analysis.",
+        "recommendation": "Practice algorithm design, complexity analysis, and problem solving on coding platforms."
+      },
+      {
+        "skill_name": "Dynamic Programming",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high",
+        "gap_explanation": "Candidate has no evidence of dynamic programming techniques.",
+        "recommendation": "Learn DP concepts, solve DP problems, and apply them to real\u2011world scenarios."
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high",
+        "gap_explanation": "Candidate has no evidence of tree data structures or related algorithms.",
+        "recommendation": "Study tree data structures, traversal algorithms, and tree\u2011based problem solving."
+      },
+      {
+        "skill_name": "Docker",
+        "category_code": "CLOUD",
+        "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+        "confidence": "high",
+        "gap_explanation": "Candidate has no evidence of Docker or containerization experience.",
+        "recommendation": "Learn Docker fundamentals, containerization, and basic orchestration concepts."
+      },
+      {
+        "skill_name": "Microservices",
+        "category_code": "SYSD",
+        "evidence": "- Build distributed backend microservices using Python, C++, and Go",
+        "confidence": "high",
+        "gap_explanation": "Candidate has no evidence of building or deploying microservices.",
+        "recommendation": "Build microservices using Python or Go, learn service discovery, API design, and deployment practices."
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+        "confidence": "high",
+        "gap_explanation": "Candidate has no evidence of Linux system experience.",
+        "recommendation": "Gain proficiency with Linux command line, shell scripting, and basic system administration."
+      }
+    ],
+    "partial_skills": [],
+    "gap_analysis": {
+      "total_jd_skills": 11,
+      "matched_count": 3,
+      "missing_count": 8,
+      "partial_count": 0,
+      "critical_gaps": [
+        {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no evidence of Docker or containerization experience.",
+          "recommendation": "Learn Docker fundamentals, containerization, and basic orchestration concepts."
+        },
+        {
+          "skill_name": "Go",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Software Engineer at Google LLC",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no evidence of Go programming or related experience.",
+          "recommendation": "Learn Go fundamentals, build small projects, and practice concurrency patterns to meet Google\u2019s Go requirement."
+        },
+        {
+          "skill_name": "Algorithms",
+          "category_code": "DSA",
+          "category_title": "Data Structures & Algorithms",
+          "confidence": "high",
+          "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no evidence of algorithmic design or analysis.",
+          "recommendation": "Practice algorithm design, complexity analysis, and problem solving on coding platforms."
+        },
+        {
+          "skill_name": "Data Structures",
+          "category_code": "DSA",
+          "category_title": "Data Structures & Algorithms",
+          "confidence": "high",
+          "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no evidence of data structures knowledge.",
+          "recommendation": "Study core data structures and algorithms, implement them in Python or Java, and solve algorithmic problems on platforms like LeetCode."
+        },
+        {
+          "skill_name": "Dynamic Programming",
+          "category_code": "DSA",
+          "category_title": "Data Structures & Algorithms",
+          "confidence": "high",
+          "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no evidence of dynamic programming techniques.",
+          "recommendation": "Learn DP concepts, solve DP problems, and apply them to real\u2011world scenarios."
+        },
+        {
+          "skill_name": "Trees",
+          "category_code": "DSA",
+          "category_title": "Data Structures & Algorithms",
+          "confidence": "high",
+          "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no evidence of tree data structures or related algorithms.",
+          "recommendation": "Study tree data structures, traversal algorithms, and tree\u2011based problem solving."
+        },
+        {
+          "skill_name": "Linux",
+          "category_code": "OS",
+          "category_title": "Operating Systems & Concurrency",
+          "confidence": "high",
+          "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no evidence of Linux system experience.",
+          "recommendation": "Gain proficiency with Linux command line, shell scripting, and basic system administration."
+        },
+        {
+          "skill_name": "Microservices",
+          "category_code": "SYSD",
+          "category_title": "Distributed Systems & High-Throughput Architecture",
+          "confidence": "high",
+          "evidence": "- Build distributed backend microservices using Python, C++, and Go",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no evidence of building or deploying microservices.",
+          "recommendation": "Build microservices using Python or Go, learn service discovery, API design, and deployment practices."
+        }
+      ],
+      "moderate_gaps": [],
+      "top_recommendations": [
+        "Prioritize building project evidence for Docker (CLOUD): - Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+        "Prioritize building project evidence for Go (COD): Software Engineer at Google LLC",
+        "Prioritize building project evidence for Algorithms (DSA): - Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming"
+      ]
+    },
+    "evaluated_at": "2026-10-29T08:08:16.717618+00:00",
+    "saved_at": "2026-10-29T08:08:16.717679+00:00"
+  },
+  {
+    "id": "sm-1793261403",
+    "candidate_name": "Ananya Rao",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Job_Description.txt",
+    "match_score": 55,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "C++, Python, Java, Data Structures & Algorithms, Operating Systems, Computer Networks,",
+        "confidence": "high",
+        "proficiency_level": 8,
+        "match_type": "semantic",
+        "match_explanation": "Candidate explicitly lists Python in the Programming & Software Implementation skill set."
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "C++, Python, Java, Data Structures & Algorithms, Operating Systems, Computer Networks,",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate\u2019s DSA skill explicitly covers data structures."
+      },
+      {
+        "skill_name": "Algorithms",
+        "category_code": "DSA",
+        "evidence": "C++, Python, Java, Data Structures & Algorithms, Operating Systems, Computer Networks,",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate\u2019s DSA skill includes algorithmic problem solving."
+      },
+      {
+        "skill_name": "Microservices",
+        "category_code": "SYSD",
+        "evidence": "* Built a distributed URL-shortening service with a Redis-backed cache and a",
+        "confidence": "high",
+        "proficiency_level": 8,
+        "match_type": "semantic",
+        "match_explanation": "Candidate built a distributed URL\u2011shortening service, indicating microservices experience."
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "Object-Oriented Design, Git, Linux",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate lists Linux in multiple skill sets, confirming proficiency."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "Software Engineer at Google LLC",
+        "confidence": "high",
+        "gap_explanation": "Candidate does not list Go experience or any related projects.",
+        "recommendation": "Learn Go fundamentals and build a small microservice to demonstrate proficiency."
+      },
+      {
+        "skill_name": "Dynamic Programming",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high",
+        "gap_explanation": "Dynamic programming techniques are not explicitly demonstrated.",
+        "recommendation": "Study DP patterns and solve DP problems to strengthen this area."
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+        "confidence": "high",
+        "gap_explanation": "No explicit evidence of tree data structure expertise.",
+        "recommendation": "Review tree implementations and practice tree\u2011based algorithms."
+      },
+      {
+        "skill_name": "Docker",
+        "category_code": "CLOUD",
+        "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+        "confidence": "high",
+        "gap_explanation": "Candidate does not mention Docker or containerization.",
+        "recommendation": "Learn Docker fundamentals and containerize a sample application."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "- Write robust SQL queries for PostgreSQL databases",
+        "confidence": "high",
+        "gap_explanation": "Candidate does not list SQL or database experience.",
+        "recommendation": "Acquire SQL skills, focusing on query writing and database design."
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "- Write robust SQL queries for PostgreSQL databases",
+        "confidence": "high",
+        "gap_explanation": "Candidate does not mention PostgreSQL or any specific database.",
+        "recommendation": "Learn PostgreSQL, including schema design and query optimization."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "Dynamic Programming",
+          "category_code": "DSA",
+          "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+          "confidence": "high"
+        },
+        "candidate_skill": {
+          "skill_name": "Data Structures & Algorithmic Problem Solving",
+          "category_code": "DSA",
+          "evidence": "C++, Python, Java, Data Structures & Algorithms, Operating Systems, Computer Networks,",
+          "confidence": "high",
+          "level": 9,
+          "proficiency_level": 9
+        },
+        "similarity_note": "Candidate has general DSA knowledge but no explicit mention of dynamic programming.",
+        "gap_explanation": "Dynamic programming techniques are not explicitly demonstrated."
+      },
+      {
+        "jd_skill": {
+          "skill_name": "Trees",
+          "category_code": "DSA",
+          "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+          "confidence": "high"
+        },
+        "candidate_skill": {
+          "skill_name": "Data Structures & Algorithmic Problem Solving",
+          "category_code": "DSA",
+          "evidence": "C++, Python, Java, Data Structures & Algorithms, Operating Systems, Computer Networks,",
+          "confidence": "high",
+          "level": 9,
+          "proficiency_level": 9
+        },
+        "similarity_note": "Candidate\u2019s DSA skill covers data structures broadly, likely including trees.",
+        "gap_explanation": "No explicit evidence of tree data structure expertise."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 11,
+      "matched_count": 5,
+      "missing_count": 6,
+      "partial_count": 2,
+      "critical_gaps": [
+        {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "- Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate does not mention Docker or containerization.",
+          "recommendation": "Learn Docker fundamentals and containerize a sample application."
+        },
+        {
+          "skill_name": "Go",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Software Engineer at Google LLC",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate does not list Go experience or any related projects.",
+          "recommendation": "Learn Go fundamentals and build a small microservice to demonstrate proficiency."
+        },
+        {
+          "skill_name": "PostgreSQL",
+          "category_code": "SQL",
+          "category_title": "Relational Databases & Data Modeling",
+          "confidence": "high",
+          "evidence": "- Write robust SQL queries for PostgreSQL databases",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate does not mention PostgreSQL or any specific database.",
+          "recommendation": "Learn PostgreSQL, including schema design and query optimization."
+        },
+        {
+          "skill_name": "SQL",
+          "category_code": "SQL",
+          "category_title": "Relational Databases & Data Modeling",
+          "confidence": "high",
+          "evidence": "- Write robust SQL queries for PostgreSQL databases",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate does not list SQL or database experience.",
+          "recommendation": "Acquire SQL skills, focusing on query writing and database design."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "Dynamic Programming",
+          "category_code": "DSA",
+          "category_title": "Data Structures & Algorithms",
+          "confidence": "high",
+          "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "Dynamic programming techniques are not explicitly demonstrated.",
+          "recommendation": "Study DP patterns and solve DP problems to strengthen this area."
+        },
+        {
+          "skill_name": "Trees",
+          "category_code": "DSA",
+          "category_title": "Data Structures & Algorithms",
+          "confidence": "high",
+          "evidence": "- Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "No explicit evidence of tree data structure expertise.",
+          "recommendation": "Review tree implementations and practice tree\u2011based algorithms."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Docker (CLOUD): - Architect scalable systems with Linux, Docker, and Cloud infrastructure",
+        "Prioritize building project evidence for Go (COD): Software Engineer at Google LLC",
+        "Prioritize building project evidence for PostgreSQL (SQL): - Write robust SQL queries for PostgreSQL databases",
+        "Bridge adjacent gap in Dynamic Programming (DSA) by reviewing posting expectations: - Deep knowledge of Data Structures and Algorithms (DSA), trees, graphs, and dynamic programming"
+      ]
+    },
+    "evaluated_at": "2026-10-29T08:10:03.054585+00:00",
+    "saved_at": "2026-10-29T08:10:03.054738+00:00"
+  },
+  {
+    "id": "sm-1793262091",
+    "candidate_name": "Ananya Rao",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Google_SWE_JD.pdf",
+    "match_score": 62,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has extensive Python experience (level 9)."
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has strong Data Structures knowledge (level 9)."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Kubernetes",
+        "category_code": "CLOUD",
+        "evidence": "Required",
+        "gap_explanation": "Lacks experience with Kubernetes orchestration and cluster management.",
+        "recommendation": "Enroll in a Kubernetes fundamentals course and build a small cluster."
+      },
+      {
+        "skill_name": "Rust",
+        "category_code": "COD",
+        "evidence": "Required",
+        "gap_explanation": "No evidence of Rust proficiency.",
+        "recommendation": "Start with Rust fundamentals and build a small project to demonstrate competency."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "evidence": "Required"
+        },
+        "candidate_skill": {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "evidence": "Containerization",
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate has containerization experience with Docker, indicating familiarity with container concepts.",
+        "gap_explanation": "Lacks experience with Kubernetes orchestration and cluster management."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 2,
+      "missing_count": 2,
+      "partial_count": 1,
+      "critical_gaps": [
+        {
+          "skill_name": "Rust",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No evidence of Rust proficiency.",
+          "recommendation": "Start with Rust fundamentals and build a small project to demonstrate competency."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "Lacks experience with Kubernetes orchestration and cluster management.",
+          "recommendation": "Enroll in a Kubernetes fundamentals course and build a small cluster."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Rust (COD): Required",
+        "Bridge adjacent gap in Kubernetes (CLOUD) by reviewing posting expectations: Required"
+      ]
+    },
+    "evaluated_at": "2026-10-29T08:21:31.641369+00:00",
+    "saved_at": "2026-10-29T08:21:31.641418+00:00"
+  },
+  {
+    "id": "sm-1793262099",
+    "candidate_name": "Rohan Verma",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "jd_source_file": "Job_Description.txt",
+    "match_score": 100,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Proficient in Python backend development and microservices.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has 8/10 proficiency in Python backend development and microservices, directly aligning with the JD requirement."
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "Solved 400+ problems across trees, graphs, and dynamic programming.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate solved 400+ problems covering trees, graphs, and dynamic programming, demonstrating strong DSA skills."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Designed normalized schemas and optimized PostgreSQL queries.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate designed normalized schemas and optimized PostgreSQL queries, fulfilling the SQL requirement."
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "Deployed containerized applications to AWS with Docker.",
+        "confidence": "high",
+        "proficiency_level": 7.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate deployed containerized applications to AWS using Docker, covering cloud systems expertise."
+      }
+    ],
+    "missing_skills": [],
+    "partial_skills": [],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 4,
+      "missing_count": 0,
+      "partial_count": 0,
+      "critical_gaps": [],
+      "moderate_gaps": [],
+      "top_recommendations": [
+        "Candidate profile demonstrates 100% coverage across all extracted requirements for Software Engineer at Microsoft Corporation!"
+      ]
+    },
+    "evaluated_at": "2026-10-29T08:21:39.034825+00:00",
+    "saved_at": "2026-10-29T08:21:39.034874+00:00"
+  },
+  {
+    "id": "sm-1793262424",
+    "candidate_name": "Ananya Rao",
+    "company": "Oracle",
+    "role": "Associate Software Engineer",
+    "jd_source_file": "Oracle - Associate Software Engineer.pdf",
+    "match_score": 31,
+    "matched_skills": [
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "C++, Python, Java, Data Structures & Algorithms, Operating Systems, Computer Networks,",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate demonstrates strong knowledge of data structures and algorithms through their skill set."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Quantitative Aptitude",
+        "category_code": "APTI",
+        "evidence": "\u2022 Strong quantitative aptitude \u2014 time-and-work, ratios, percentages, and logical/seating-",
+        "confidence": "high",
+        "gap_explanation": "No evidence of quantitative aptitude such as problem solving in mathematics or logic puzzles.",
+        "recommendation": "Take online courses or practice problems focused on quantitative aptitude to build this skill."
+      },
+      {
+        "skill_name": "Communication",
+        "category_code": "COMM",
+        "evidence": "\u2022 Clear communication and a collaborative attitude \u2014 comfortable explaining your final-",
+        "confidence": "high",
+        "gap_explanation": "No explicit evidence of communication or collaborative skills.",
+        "recommendation": "Engage in group projects or presentations to develop clear communication and teamwork."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "\u2022 Practical SQL knowledge \u2014 correct SELECT/WHERE syntax, understanding of",
+        "confidence": "high",
+        "gap_explanation": "No evidence of SQL knowledge or database querying skills.",
+        "recommendation": "Learn SQL fundamentals and practice writing SELECT/WHERE queries."
+      },
+      {
+        "skill_name": "Unit Testing",
+        "category_code": "SWE",
+        "evidence": "\u2022 Perform unit testing and collaborate closely with QA",
+        "confidence": "high",
+        "gap_explanation": "No evidence of unit testing frameworks or test-driven development.",
+        "recommendation": "Learn and apply unit testing frameworks such as JUnit, pytest, or unittest."
+      },
+      {
+        "skill_name": "Agile",
+        "category_code": "SWE",
+        "evidence": "development, customization, and support in an Agile environment",
+        "confidence": "high",
+        "gap_explanation": "No evidence of Agile methodology experience.",
+        "recommendation": "Familiarize with Agile principles and participate in Agile projects."
+      },
+      {
+        "skill_name": "Operating Systems",
+        "category_code": "OS",
+        "evidence": "\u2022 Operating systems basics \u2014 what a process is, fundamentals of multithreading and",
+        "confidence": "high",
+        "gap_explanation": "Lacks explicit knowledge of process management, memory, and OS basics.",
+        "recommendation": "Study OS fundamentals, including processes, threads, and memory management."
+      },
+      {
+        "skill_name": "Multithreading",
+        "category_code": "OS",
+        "evidence": "\u2022 Operating systems basics \u2014 what a process is, fundamentals of multithreading and",
+        "confidence": "high",
+        "gap_explanation": "No evidence of multithreading concepts or concurrent programming.",
+        "recommendation": "Learn multithreading concepts and practice with concurrent programming in C++ or Java."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "Unit Testing",
+          "category_code": "SWE",
+          "evidence": "\u2022 Perform unit testing and collaborate closely with QA",
+          "confidence": "high"
+        },
+        "candidate_skill": {
+          "skill_name": "Software Engineering Practices & Testing",
+          "category_code": "SWE",
+          "evidence": "Object-Oriented Design, Git, Linux",
+          "confidence": "high",
+          "level": 8,
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate has testing practices but lacks explicit unit testing experience.",
+        "gap_explanation": "No evidence of unit testing frameworks or test-driven development."
+      },
+      {
+        "jd_skill": {
+          "skill_name": "Operating Systems",
+          "category_code": "OS",
+          "evidence": "\u2022 Operating systems basics \u2014 what a process is, fundamentals of multithreading and",
+          "confidence": "high"
+        },
+        "candidate_skill": {
+          "skill_name": "Operating Systems & Low-Level Computing",
+          "category_code": "OS",
+          "evidence": "Object-Oriented Design, Git, Linux",
+          "confidence": "high",
+          "level": 8,
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate has OS knowledge but evidence does not detail OS fundamentals.",
+        "gap_explanation": "Lacks explicit knowledge of process management, memory, and OS basics."
+      },
+      {
+        "jd_skill": {
+          "skill_name": "Multithreading",
+          "category_code": "OS",
+          "evidence": "\u2022 Operating systems basics \u2014 what a process is, fundamentals of multithreading and",
+          "confidence": "high"
+        },
+        "candidate_skill": {
+          "skill_name": "Operating Systems & Low-Level Computing",
+          "category_code": "OS",
+          "evidence": "Object-Oriented Design, Git, Linux",
+          "confidence": "high",
+          "level": 8,
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate has OS skill set but no explicit multithreading experience.",
+        "gap_explanation": "No evidence of multithreading concepts or concurrent programming."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 8,
+      "matched_count": 1,
+      "missing_count": 7,
+      "partial_count": 3,
+      "critical_gaps": [
+        {
+          "skill_name": "Quantitative Aptitude",
+          "category_code": "APTI",
+          "category_title": "Problem Solving & Analytical Reasoning",
+          "confidence": "high",
+          "evidence": "\u2022 Strong quantitative aptitude \u2014 time-and-work, ratios, percentages, and logical/seating-",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No evidence of quantitative aptitude such as problem solving in mathematics or logic puzzles.",
+          "recommendation": "Take online courses or practice problems focused on quantitative aptitude to build this skill."
+        },
+        {
+          "skill_name": "Communication",
+          "category_code": "COMM",
+          "category_title": "Technical Communication & Collaboration",
+          "confidence": "high",
+          "evidence": "\u2022 Clear communication and a collaborative attitude \u2014 comfortable explaining your final-",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No explicit evidence of communication or collaborative skills.",
+          "recommendation": "Engage in group projects or presentations to develop clear communication and teamwork."
+        },
+        {
+          "skill_name": "SQL",
+          "category_code": "SQL",
+          "category_title": "Relational Databases & Data Modeling",
+          "confidence": "high",
+          "evidence": "\u2022 Practical SQL knowledge \u2014 correct SELECT/WHERE syntax, understanding of",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No evidence of SQL knowledge or database querying skills.",
+          "recommendation": "Learn SQL fundamentals and practice writing SELECT/WHERE queries."
+        },
+        {
+          "skill_name": "Agile",
+          "category_code": "SWE",
+          "category_title": "Software Engineering Practices & CI/CD",
+          "confidence": "high",
+          "evidence": "development, customization, and support in an Agile environment",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No evidence of Agile methodology experience.",
+          "recommendation": "Familiarize with Agile principles and participate in Agile projects."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "Unit Testing",
+          "category_code": "SWE",
+          "category_title": "Software Engineering Practices & CI/CD",
+          "confidence": "high",
+          "evidence": "\u2022 Perform unit testing and collaborate closely with QA",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "No evidence of unit testing frameworks or test-driven development.",
+          "recommendation": "Learn and apply unit testing frameworks such as JUnit, pytest, or unittest."
+        },
+        {
+          "skill_name": "Operating Systems",
+          "category_code": "OS",
+          "category_title": "Operating Systems & Concurrency",
+          "confidence": "high",
+          "evidence": "\u2022 Operating systems basics \u2014 what a process is, fundamentals of multithreading and",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "Lacks explicit knowledge of process management, memory, and OS basics.",
+          "recommendation": "Study OS fundamentals, including processes, threads, and memory management."
+        },
+        {
+          "skill_name": "Multithreading",
+          "category_code": "OS",
+          "category_title": "Operating Systems & Concurrency",
+          "confidence": "high",
+          "evidence": "\u2022 Operating systems basics \u2014 what a process is, fundamentals of multithreading and",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "No evidence of multithreading concepts or concurrent programming.",
+          "recommendation": "Learn multithreading concepts and practice with concurrent programming in C++ or Java."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Quantitative Aptitude (APTI): \u2022 Strong quantitative aptitude \u2014 time-and-work, ratios, percentages, and logical/seating-",
+        "Prioritize building project evidence for Communication (COMM): \u2022 Clear communication and a collaborative attitude \u2014 comfortable explaining your final-",
+        "Prioritize building project evidence for SQL (SQL): \u2022 Practical SQL knowledge \u2014 correct SELECT/WHERE syntax, understanding of",
+        "Bridge adjacent gap in Unit Testing (SWE) by reviewing posting expectations: \u2022 Perform unit testing and collaborate closely with QA"
+      ]
+    },
+    "evaluated_at": "2026-10-29T08:27:04.246709+00:00",
+    "saved_at": "2026-10-29T08:27:04.246787+00:00"
+  },
+  {
+    "id": "sm-1793263740",
+    "candidate_name": "Ananya Rao",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Google_SWE_JD.pdf",
+    "match_score": 62,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has 9/10 level experience in Python."
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has 9/10 level experience in Data Structures."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Kubernetes",
+        "category_code": "CLOUD",
+        "evidence": "Required",
+        "gap_explanation": "No direct experience with Kubernetes cluster management or orchestration.",
+        "recommendation": "Take a Kubernetes fundamentals course and set up a small cluster to gain hands\u2011on experience."
+      },
+      {
+        "skill_name": "Rust",
+        "category_code": "COD",
+        "evidence": "Required",
+        "gap_explanation": "Candidate lacks any experience or evidence of Rust programming.",
+        "recommendation": "Start learning Rust through tutorials, build small projects, and contribute to open\u2011source Rust repos to demonstrate proficiency."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "evidence": "Required"
+        },
+        "candidate_skill": {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "evidence": "Containerization",
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate has strong Docker containerization skills, foundational to Kubernetes orchestration.",
+        "gap_explanation": "No direct experience with Kubernetes cluster management or orchestration."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 2,
+      "missing_count": 2,
+      "partial_count": 1,
+      "critical_gaps": [
+        {
+          "skill_name": "Rust",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate lacks any experience or evidence of Rust programming.",
+          "recommendation": "Start learning Rust through tutorials, build small projects, and contribute to open\u2011source Rust repos to demonstrate proficiency."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "No direct experience with Kubernetes cluster management or orchestration.",
+          "recommendation": "Take a Kubernetes fundamentals course and set up a small cluster to gain hands\u2011on experience."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Rust (COD): Required",
+        "Bridge adjacent gap in Kubernetes (CLOUD) by reviewing posting expectations: Required"
+      ]
+    },
+    "evaluated_at": "2026-10-29T08:49:00.100983+00:00",
+    "saved_at": "2026-10-29T08:49:00.101035+00:00"
+  },
+  {
+    "id": "sm-1793263743",
+    "candidate_name": "Rohan Verma",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "jd_source_file": "Job_Description.txt",
+    "match_score": 100,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Proficient in Python backend development and microservices.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has proven proficiency in Python backend development and microservices, directly matching the JD requirement."
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "Solved 400+ problems across trees, graphs, and dynamic programming.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate solved 400+ problems across trees, graphs, and dynamic programming, indicating strong DSA skills."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Designed normalized schemas and optimized PostgreSQL queries.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate designed normalized schemas and optimized PostgreSQL queries, satisfying the SQL requirement."
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "Deployed containerized applications to AWS with Docker.",
+        "confidence": "high",
+        "proficiency_level": 7.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate deployed containerized applications to AWS with Docker, demonstrating proficiency in cloud systems."
+      }
+    ],
+    "missing_skills": [],
+    "partial_skills": [],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 4,
+      "missing_count": 0,
+      "partial_count": 0,
+      "critical_gaps": [],
+      "moderate_gaps": [],
+      "top_recommendations": [
+        "Candidate profile demonstrates 100% coverage across all extracted requirements for Software Engineer at Microsoft Corporation!"
+      ]
+    },
+    "evaluated_at": "2026-10-29T08:49:03.053746+00:00",
+    "saved_at": "2026-10-29T08:49:03.053790+00:00"
+  },
+  {
+    "id": "sm-1793263991",
+    "candidate_name": "Ananya Rao",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Google_SWE_JD.pdf",
+    "match_score": 62,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Python skill with level 9"
+      },
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "Experienced",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has Data Structures skill with level 9"
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Kubernetes",
+        "category_code": "CLOUD",
+        "evidence": "Required",
+        "gap_explanation": "No direct Kubernetes experience",
+        "recommendation": "Gain hands\u2011on Kubernetes experience through tutorials, labs, or contributing to open\u2011source projects"
+      },
+      {
+        "skill_name": "Rust",
+        "category_code": "COD",
+        "evidence": "Required",
+        "gap_explanation": "No Rust or related systems language experience",
+        "recommendation": "Learn Rust fundamentals and build small projects to demonstrate proficiency"
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "evidence": "Required"
+        },
+        "candidate_skill": {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "evidence": "Containerization",
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate has Docker experience, foundational to Kubernetes orchestration",
+        "gap_explanation": "No direct Kubernetes experience"
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 2,
+      "missing_count": 2,
+      "partial_count": 1,
+      "critical_gaps": [
+        {
+          "skill_name": "Rust",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No Rust or related systems language experience",
+          "recommendation": "Learn Rust fundamentals and build small projects to demonstrate proficiency"
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "Kubernetes",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "Required",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "No direct Kubernetes experience",
+          "recommendation": "Gain hands\u2011on Kubernetes experience through tutorials, labs, or contributing to open\u2011source projects"
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Rust (COD): Required",
+        "Bridge adjacent gap in Kubernetes (CLOUD) by reviewing posting expectations: Required"
+      ]
+    },
+    "evaluated_at": "2026-10-29T08:53:11.469068+00:00",
+    "saved_at": "2026-10-29T08:53:11.469128+00:00"
+  },
+  {
+    "id": "sm-1793263993",
+    "candidate_name": "Rohan Verma",
+    "company": "Microsoft Corporation",
+    "role": "Software Engineer",
+    "jd_source_file": "Job_Description.txt",
+    "match_score": 100,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Proficient in Python backend development and microservices.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate lists proficiency in Python backend development and microservices, directly matching the JD requirement."
+      },
+      {
+        "skill_name": "DSA",
+        "category_code": "DSA",
+        "evidence": "Solved 400+ problems across trees, graphs, and dynamic programming.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate solved 400+ problems across trees, graphs, and dynamic programming, demonstrating strong DSA skills as required."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "Designed normalized schemas and optimized PostgreSQL queries.",
+        "confidence": "high",
+        "proficiency_level": 8.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate designed normalized schemas and optimized PostgreSQL queries, fulfilling the SQL requirement."
+      },
+      {
+        "skill_name": "Cloud Systems",
+        "category_code": "CLOUD",
+        "evidence": "Deployed containerized applications to AWS with Docker.",
+        "confidence": "high",
+        "proficiency_level": 7.0,
+        "match_type": "semantic",
+        "match_explanation": "Candidate deployed containerized applications to AWS with Docker, covering cloud systems expertise."
+      }
+    ],
+    "missing_skills": [],
+    "partial_skills": [],
+    "gap_analysis": {
+      "total_jd_skills": 4,
+      "matched_count": 4,
+      "missing_count": 0,
+      "partial_count": 0,
+      "critical_gaps": [],
+      "moderate_gaps": [],
+      "top_recommendations": [
+        "Candidate profile demonstrates 100% coverage across all extracted requirements for Software Engineer at Microsoft Corporation!"
+      ]
+    },
+    "evaluated_at": "2026-10-29T08:53:13.410302+00:00",
+    "saved_at": "2026-10-29T08:53:13.410360+00:00"
+  },
+  {
+    "id": "sm-1793264263",
+    "candidate_name": "Ananya Rao",
+    "company": "Oracle",
+    "role": "Associate Software Engineer",
+    "jd_source_file": "Oracle - Associate Software Engineer.pdf",
+    "match_score": 31,
+    "matched_skills": [
+      {
+        "skill_name": "Data Structures",
+        "category_code": "DSA",
+        "evidence": "C++, Python, Java, Data Structures & Algorithms, Operating Systems, Computer Networks,",
+        "confidence": "high",
+        "proficiency_level": 9,
+        "match_type": "semantic",
+        "match_explanation": "Candidate explicitly lists Data Structures & Algorithmic Problem Solving with high proficiency, directly matching the JD requirement."
+      },
+      {
+        "skill_name": "Operating Systems",
+        "category_code": "OS",
+        "evidence": "Object-Oriented Design, Git, Linux",
+        "confidence": "high",
+        "proficiency_level": 8,
+        "match_type": "semantic",
+        "match_explanation": "Candidate explicitly lists Operating Systems & Low-Level Computing, covering OS fundamentals."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "Quantitative Aptitude",
+        "category_code": "APTI",
+        "evidence": "\u2022 Strong quantitative aptitude \u2014 time-and-work, ratios, percentages, and logical/seating-",
+        "confidence": "high",
+        "gap_explanation": "Candidate lacks demonstrated quantitative aptitude such as time\u2011and\u2011work, ratios, or logical reasoning.",
+        "recommendation": "Take online courses or practice problems focused on quantitative aptitude to strengthen this area."
+      },
+      {
+        "skill_name": "Communication",
+        "category_code": "COMM",
+        "evidence": "\u2022 Clear communication and a collaborative attitude \u2014 comfortable explaining your final-",
+        "confidence": "high",
+        "gap_explanation": "No proof of clear communication or ability to explain technical concepts to non\u2011technical stakeholders.",
+        "recommendation": "Engage in group projects, present technical work, or take communication workshops to build this competency."
+      },
+      {
+        "skill_name": "SQL",
+        "category_code": "SQL",
+        "evidence": "\u2022 Practical SQL knowledge \u2014 correct SELECT/WHERE syntax, understanding of",
+        "confidence": "high",
+        "gap_explanation": "Lacks practical SQL knowledge such as SELECT/WHERE syntax and relational database concepts.",
+        "recommendation": "Learn SQL fundamentals and practice writing queries on sample databases to meet this requirement."
+      },
+      {
+        "skill_name": "Unit Testing",
+        "category_code": "SWE",
+        "evidence": "\u2022 Perform unit testing and collaborate closely with QA",
+        "confidence": "high",
+        "gap_explanation": "Missing specific unit testing experience (e.g., JUnit, pytest, or similar).",
+        "recommendation": "Gain hands\u2011on experience with unit testing tools relevant to the target stack and document test cases."
+      },
+      {
+        "skill_name": "Agile",
+        "category_code": "SWE",
+        "evidence": "development, customization, and support in an Agile environment",
+        "confidence": "high",
+        "gap_explanation": "Lacks familiarity with Agile practices such as sprint planning, stand\u2011ups, or iterative development.",
+        "recommendation": "Participate in Agile projects or take Agile certification courses to demonstrate this skill."
+      },
+      {
+        "skill_name": "Multithreading",
+        "category_code": "OS",
+        "evidence": "\u2022 Operating systems basics \u2014 what a process is, fundamentals of multithreading and",
+        "confidence": "high",
+        "gap_explanation": "No evidence of multithreading or concurrent programming knowledge.",
+        "recommendation": "Study multithreading concepts and implement simple concurrent programs to build this competency."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "Unit Testing",
+          "category_code": "SWE",
+          "evidence": "\u2022 Perform unit testing and collaborate closely with QA",
+          "confidence": "high"
+        },
+        "candidate_skill": {
+          "skill_name": "Software Engineering Practices & Testing",
+          "category_code": "SWE",
+          "evidence": "Object-Oriented Design, Git, Linux",
+          "confidence": "high",
+          "level": 8,
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate has a testing practice skill set, indicating familiarity with testing concepts, but no explicit mention of unit testing frameworks or practices.",
+        "gap_explanation": "Missing specific unit testing experience (e.g., JUnit, pytest, or similar)."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 8,
+      "matched_count": 2,
+      "missing_count": 6,
+      "partial_count": 1,
+      "critical_gaps": [
+        {
+          "skill_name": "Quantitative Aptitude",
+          "category_code": "APTI",
+          "category_title": "Problem Solving & Analytical Reasoning",
+          "confidence": "high",
+          "evidence": "\u2022 Strong quantitative aptitude \u2014 time-and-work, ratios, percentages, and logical/seating-",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate lacks demonstrated quantitative aptitude such as time\u2011and\u2011work, ratios, or logical reasoning.",
+          "recommendation": "Take online courses or practice problems focused on quantitative aptitude to strengthen this area."
+        },
+        {
+          "skill_name": "Communication",
+          "category_code": "COMM",
+          "category_title": "Technical Communication & Collaboration",
+          "confidence": "high",
+          "evidence": "\u2022 Clear communication and a collaborative attitude \u2014 comfortable explaining your final-",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No proof of clear communication or ability to explain technical concepts to non\u2011technical stakeholders.",
+          "recommendation": "Engage in group projects, present technical work, or take communication workshops to build this competency."
+        },
+        {
+          "skill_name": "Multithreading",
+          "category_code": "OS",
+          "category_title": "Operating Systems & Concurrency",
+          "confidence": "high",
+          "evidence": "\u2022 Operating systems basics \u2014 what a process is, fundamentals of multithreading and",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No evidence of multithreading or concurrent programming knowledge.",
+          "recommendation": "Study multithreading concepts and implement simple concurrent programs to build this competency."
+        },
+        {
+          "skill_name": "SQL",
+          "category_code": "SQL",
+          "category_title": "Relational Databases & Data Modeling",
+          "confidence": "high",
+          "evidence": "\u2022 Practical SQL knowledge \u2014 correct SELECT/WHERE syntax, understanding of",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Lacks practical SQL knowledge such as SELECT/WHERE syntax and relational database concepts.",
+          "recommendation": "Learn SQL fundamentals and practice writing queries on sample databases to meet this requirement."
+        },
+        {
+          "skill_name": "Agile",
+          "category_code": "SWE",
+          "category_title": "Software Engineering Practices & CI/CD",
+          "confidence": "high",
+          "evidence": "development, customization, and support in an Agile environment",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Lacks familiarity with Agile practices such as sprint planning, stand\u2011ups, or iterative development.",
+          "recommendation": "Participate in Agile projects or take Agile certification courses to demonstrate this skill."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "Unit Testing",
+          "category_code": "SWE",
+          "category_title": "Software Engineering Practices & CI/CD",
+          "confidence": "high",
+          "evidence": "\u2022 Perform unit testing and collaborate closely with QA",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "Missing specific unit testing experience (e.g., JUnit, pytest, or similar).",
+          "recommendation": "Gain hands\u2011on experience with unit testing tools relevant to the target stack and document test cases."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Quantitative Aptitude (APTI): \u2022 Strong quantitative aptitude \u2014 time-and-work, ratios, percentages, and logical/seating-",
+        "Prioritize building project evidence for Communication (COMM): \u2022 Clear communication and a collaborative attitude \u2014 comfortable explaining your final-",
+        "Prioritize building project evidence for Multithreading (OS): \u2022 Operating systems basics \u2014 what a process is, fundamentals of multithreading and",
+        "Bridge adjacent gap in Unit Testing (SWE) by reviewing posting expectations: \u2022 Perform unit testing and collaborate closely with QA"
+      ]
+    },
+    "evaluated_at": "2026-10-29T08:57:43.210944+00:00",
+    "saved_at": "2026-10-29T08:57:43.211032+00:00"
+  },
+  {
+    "id": "sm-1793269570",
+    "candidate_name": "Karthik Subramaniam",
+    "company": "Google LLC",
+    "role": "Software Engineer",
+    "jd_source_file": "Job_Description.txt",
+    "match_score": 21,
+    "matched_skills": [
+      {
+        "skill_name": "Python",
+        "category_code": "COD",
+        "evidence": "Built an end-to-end churn-prediction pipeline (SQL extraction \u2192 feature engineering \u2192 logistic regression model) on a public e-commerce dataset",
+        "confidence": "high",
+        "proficiency_level": 8,
+        "match_type": "semantic",
+        "match_explanation": "Candidate has a Python skill with level 8 and has built a churn\u2011prediction pipeline using Python."
+      },
+      {
+        "skill_name": "SQL queries",
+        "category_code": "SQL",
+        "evidence": "Built an end-to-end churn-prediction pipeline (SQL extraction \u2192 feature engineering \u2192 logistic regression model) on a public e-commerce dataset",
+        "confidence": "high",
+        "proficiency_level": 8,
+        "match_type": "semantic",
+        "match_explanation": "Candidate performed SQL extraction in a churn\u2011prediction pipeline and has a strong SQL skill (level 8)."
+      }
+    ],
+    "missing_skills": [
+      {
+        "skill_name": "C++",
+        "category_code": "COD",
+        "evidence": "C++",
+        "confidence": "high",
+        "gap_explanation": "Candidate does not have any evidence of C++ proficiency.",
+        "recommendation": "Learn C++ fundamentals and practice building small projects to build confidence."
+      },
+      {
+        "skill_name": "Go",
+        "category_code": "COD",
+        "evidence": "Go",
+        "confidence": "high",
+        "gap_explanation": "Candidate has no Go experience.",
+        "recommendation": "Start with Go basics, build simple command\u2011line tools, and explore concurrency patterns."
+      },
+      {
+        "skill_name": "Data Structures and Algorithms",
+        "category_code": "DSA",
+        "evidence": "Data Structures and Algorithms (DSA)",
+        "confidence": "high",
+        "gap_explanation": "No explicit DSA experience or problem\u2011solving evidence.",
+        "recommendation": "Study core data structures (arrays, linked lists, stacks, queues, hash tables) and algorithmic paradigms; practice coding challenges."
+      },
+      {
+        "skill_name": "Trees",
+        "category_code": "DSA",
+        "evidence": "trees",
+        "confidence": "high",
+        "gap_explanation": "No tree data structure knowledge demonstrated.",
+        "recommendation": "Learn binary trees, BSTs, AVL trees, and tree traversal algorithms."
+      },
+      {
+        "skill_name": "Graphs",
+        "category_code": "DSA",
+        "evidence": "graphs",
+        "confidence": "high",
+        "gap_explanation": "No graph algorithm experience shown.",
+        "recommendation": "Study graph representations, BFS/DFS, shortest path, and network flow algorithms."
+      },
+      {
+        "skill_name": "Dynamic programming",
+        "category_code": "DSA",
+        "evidence": "dynamic programming",
+        "confidence": "high",
+        "gap_explanation": "No DP experience evident.",
+        "recommendation": "Practice DP problems (knapsack, LCS, coin change) to build pattern recognition."
+      },
+      {
+        "skill_name": "Linux",
+        "category_code": "OS",
+        "evidence": "Linux",
+        "confidence": "high",
+        "gap_explanation": "Candidate has no Linux usage evidence.",
+        "recommendation": "Get comfortable with Linux command line, shell scripting, and basic system administration."
+      },
+      {
+        "skill_name": "Docker",
+        "category_code": "CLOUD",
+        "evidence": "Docker",
+        "confidence": "high",
+        "gap_explanation": "No Docker experience demonstrated.",
+        "recommendation": "Learn Docker fundamentals, containerization, and basic orchestration concepts."
+      },
+      {
+        "skill_name": "Cloud infrastructure",
+        "category_code": "CLOUD",
+        "evidence": "Cloud infrastructure",
+        "confidence": "high",
+        "gap_explanation": "No cloud infrastructure knowledge provided.",
+        "recommendation": "Explore cloud platforms (GCP, AWS, Azure), focusing on compute, storage, and networking services."
+      },
+      {
+        "skill_name": "PostgreSQL",
+        "category_code": "SQL",
+        "evidence": "PostgreSQL",
+        "confidence": "high",
+        "gap_explanation": "Lacks PostgreSQL\u2011specific knowledge such as syntax nuances, extensions, and performance tuning.",
+        "recommendation": "Learn PostgreSQL by setting up a local instance, practicing queries, and exploring its unique features."
+      }
+    ],
+    "partial_skills": [
+      {
+        "jd_skill": {
+          "skill_name": "PostgreSQL",
+          "category_code": "SQL",
+          "evidence": "PostgreSQL",
+          "confidence": "high"
+        },
+        "candidate_skill": {
+          "skill_name": "SQL",
+          "category_code": "SQL",
+          "evidence": "Built an end-to-end churn-prediction pipeline (SQL extraction \u2192 feature engineering \u2192 logistic regression model) on a public e-commerce dataset",
+          "confidence": "high",
+          "level": 8,
+          "proficiency_level": 8
+        },
+        "similarity_note": "Candidate has general SQL experience but no explicit PostgreSQL usage.",
+        "gap_explanation": "Lacks PostgreSQL\u2011specific knowledge such as syntax nuances, extensions, and performance tuning."
+      }
+    ],
+    "gap_analysis": {
+      "total_jd_skills": 12,
+      "matched_count": 2,
+      "missing_count": 10,
+      "partial_count": 1,
+      "critical_gaps": [
+        {
+          "skill_name": "Cloud infrastructure",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "Cloud infrastructure",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No cloud infrastructure knowledge provided.",
+          "recommendation": "Explore cloud platforms (GCP, AWS, Azure), focusing on compute, storage, and networking services."
+        },
+        {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "category_title": "Cloud Infrastructure, Containers & DevOps",
+          "confidence": "high",
+          "evidence": "Docker",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No Docker experience demonstrated.",
+          "recommendation": "Learn Docker fundamentals, containerization, and basic orchestration concepts."
+        },
+        {
+          "skill_name": "C++",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "C++",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate does not have any evidence of C++ proficiency.",
+          "recommendation": "Learn C++ fundamentals and practice building small projects to build confidence."
+        },
+        {
+          "skill_name": "Go",
+          "category_code": "COD",
+          "category_title": "Core Coding & Language Fluency",
+          "confidence": "high",
+          "evidence": "Go",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no Go experience.",
+          "recommendation": "Start with Go basics, build simple command\u2011line tools, and explore concurrency patterns."
+        },
+        {
+          "skill_name": "Data Structures and Algorithms",
+          "category_code": "DSA",
+          "category_title": "Data Structures & Algorithms",
+          "confidence": "high",
+          "evidence": "Data Structures and Algorithms (DSA)",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No explicit DSA experience or problem\u2011solving evidence.",
+          "recommendation": "Study core data structures (arrays, linked lists, stacks, queues, hash tables) and algorithmic paradigms; practice coding challenges."
+        },
+        {
+          "skill_name": "Dynamic programming",
+          "category_code": "DSA",
+          "category_title": "Data Structures & Algorithms",
+          "confidence": "high",
+          "evidence": "dynamic programming",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No DP experience evident.",
+          "recommendation": "Practice DP problems (knapsack, LCS, coin change) to build pattern recognition."
+        },
+        {
+          "skill_name": "Graphs",
+          "category_code": "DSA",
+          "category_title": "Data Structures & Algorithms",
+          "confidence": "high",
+          "evidence": "graphs",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No graph algorithm experience shown.",
+          "recommendation": "Study graph representations, BFS/DFS, shortest path, and network flow algorithms."
+        },
+        {
+          "skill_name": "Trees",
+          "category_code": "DSA",
+          "category_title": "Data Structures & Algorithms",
+          "confidence": "high",
+          "evidence": "trees",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "No tree data structure knowledge demonstrated.",
+          "recommendation": "Learn binary trees, BSTs, AVL trees, and tree traversal algorithms."
+        },
+        {
+          "skill_name": "Linux",
+          "category_code": "OS",
+          "category_title": "Operating Systems & Concurrency",
+          "confidence": "high",
+          "evidence": "Linux",
+          "is_partial": false,
+          "gap_severity": "Critical",
+          "gap_explanation": "Candidate has no Linux usage evidence.",
+          "recommendation": "Get comfortable with Linux command line, shell scripting, and basic system administration."
+        }
+      ],
+      "moderate_gaps": [
+        {
+          "skill_name": "PostgreSQL",
+          "category_code": "SQL",
+          "category_title": "Relational Databases & Data Modeling",
+          "confidence": "high",
+          "evidence": "PostgreSQL",
+          "is_partial": true,
+          "gap_severity": "Moderate",
+          "gap_explanation": "Lacks PostgreSQL\u2011specific knowledge such as syntax nuances, extensions, and performance tuning.",
+          "recommendation": "Learn PostgreSQL by setting up a local instance, practicing queries, and exploring its unique features."
+        }
+      ],
+      "top_recommendations": [
+        "Prioritize building project evidence for Cloud infrastructure (CLOUD): Cloud infrastructure",
+        "Prioritize building project evidence for Docker (CLOUD): Docker",
+        "Prioritize building project evidence for C++ (COD): C++",
+        "Bridge adjacent gap in PostgreSQL (SQL) by reviewing posting expectations: PostgreSQL"
+      ]
+    },
+    "evaluated_at": "2026-10-29T10:26:10.025237+00:00",
+    "saved_at": "2026-10-29T10:26:10.025617+00:00"
+  }
+]
